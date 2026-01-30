@@ -1,0 +1,41 @@
+name: Daily Star Curator
+on:
+  schedule:
+    # UTC 18:00 is KST 03:00 (+1 day)
+    - cron: '0 18 * * *'
+  workflow_dispatch: # Option for manual run
+
+jobs:
+  curate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }} # Use GH_TOKEN for checkout to ensure push permissions if needed, though default GITHUB_TOKEN might work if permissions are set. Best to use custom token if pushing to protected branch or if standard token has issues. Actually, creating a recursive trigger is a risk if we use a PAT. But we are only modifying MD files. 
+          # Let's use default token first, but if we need to trigger other workflows or have strict perms, PAT is better.
+          # The user Plan specified GH_TOKEN for Star Fetching. 
+          # For file push, the 'git-auto-commit-action' uses GITHUB_TOKEN by default.
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+        
+      - name: Run Curator Script
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          CLAUDE_API_KEY: ${{ secrets.CLAUDE_API_KEY }}
+        run: python src/main.py
+        
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: update star lists (Auto-generated)"
+          file_pattern: 'README.*.md' # Only commit generated MD files
