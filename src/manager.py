@@ -1,6 +1,8 @@
 import os
 import re
+import requests
 from datetime import datetime, timezone
+from types import SimpleNamespace
 from github import Github
 from google import genai
 from openai import OpenAI
@@ -8,31 +10,70 @@ from anthropic import Anthropic
 
 class StarManager:
     def __init__(self, token):
+        self.token = token
         self.g = Github(token)
         self.user = self.g.get_user()
 
     def get_starred_repos(self, since=None):
         """
-        Fetches starred repositories.
-        If since is provided, fetches only stars created after that date.
+        Fetches starred repositories using raw GitHub API to ensure 'starred_at' is available.
+        Attributes 'starred_at' and 'repo' are required.
         """
         stars = []
-        # get_starred(sort='created', direction='desc') is ideal but PyGithub defaults are usually fine.
-        # We verify order.
-        starred_paginated = self.user.get_starred()
+        page = 1
+        per_page = 30
         
-        for starred in starred_paginated:
-            # starred_at is usually timezone aware (UTC) or naive depending on PyGithub version.
-            # We should ensure comparison works.
-            star_date = starred.starred_at.replace(tzinfo=timezone.utc) if starred.starred_at.tzinfo is None else starred.starred_at
+        headers = {
+            "Authorization": f"token {self.token}",
+            "Accept": "application/vnd.github.v3.star+json"
+        }
+        
+        while True:
+            url = f"https://api.github.com/user/starred?per_page={per_page}&page={page}"
+            try:
+                resp = requests.get(url, headers=headers)
+                resp.raise_for_status()
+                data = resp.json()
+            except Exception as e:
+                print(f"Error fetching stars: {e}")
+                break
+                
+            if not data:
+                break
+                
+            for item in data:
+                # item structure: {'starred_at': '...', 'repo': {...}}
+                starred_at_str = item.get('starred_at')
+                repo_data = item.get('repo')
+                
+                if not starred_at_str or not repo_data:
+                    continue
+                    
+                star_date = datetime.strptime(starred_at_str, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+                
+                if since:
+                    if since.tzinfo is None:
+                         since = since.replace(tzinfo=timezone.utc)
+                    if star_date <= since:
+                        return stars # Stop processing if we reach older stars
+                
+                # Create a simple object structure compatible with LLMProcessor
+                # LLMProcessor expects: starred.repo.full_name, starred.repo.html_url, starred.repo.description
+                
+                repo_obj = SimpleNamespace(
+                    full_name=repo_data.get('full_name'),
+                    html_url=repo_data.get('html_url'),
+                    description=repo_data.get('description')
+                )
+                
+                starred_obj = SimpleNamespace(
+                    starred_at=star_date,
+                    repo=repo_obj
+                )
+                
+                stars.append(starred_obj)
             
-            if since:
-                # Ensure 'since' is also timezone aware for comparison
-                since_aware = since.replace(tzinfo=timezone.utc) if since.tzinfo is None else since
-                if star_date <= since_aware:
-                    break
-            
-            stars.append(starred)
+            page += 1
             
         return stars
 
