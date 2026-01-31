@@ -1,5 +1,6 @@
 import os
 import re
+import time
 import requests
 from datetime import datetime, timezone
 from types import SimpleNamespace
@@ -175,23 +176,49 @@ class LLMProcessor:
         if not repos:
             return {}
 
-        repo_summaries = []
-        for starred in repos:
-            repo = starred.repo
-            desc = repo.description if repo.description else "No description"
-            repo_summaries.append(f"Name: {repo.full_name}\nURL: {repo.html_url}\nDescription: {desc}")
+        all_data = {}
+        batch_size = 40
         
-        prompt = (
-            "Classify the following GitHub repositories into informative categories (e.g., 'Machine Learning', 'Web Development', 'Tools'). "
-            "Provide a one-sentence summary for each. "
-            "Format the output strictly as:\n"
-            "## Category Name\n"
-            "- [Repo Name](URL): Summary\n\n"
-            "Repositories:\n" + "\n---\n".join(repo_summaries)
-        )
+        print(f"DEBUG: Processing {len(repos)} stars in batches of {batch_size}...")
+        
+        for i in range(0, len(repos), batch_size):
+            batch = repos[i : i + batch_size]
+            print(f"DEBUG: Processing batch {i//batch_size + 1}/{(len(repos)-1)//batch_size + 1} ({len(batch)} items)")
+            
+            repo_summaries = []
+            for starred in batch:
+                repo = starred.repo
+                desc = repo.description if repo.description else "No description"
+                repo_summaries.append(f"Name: {repo.full_name}\nURL: {repo.html_url}\nDescription: {desc}")
+            
+            prompt = (
+                "Classify the following GitHub repositories into informative categories (e.g., 'Machine Learning', 'Web Development', 'Tools'). "
+                "Provide a one-sentence summary for each. "
+                "Format the output strictly as:\n"
+                "## Category Name\n"
+                "- [Repo Name](URL): Summary\n\n"
+                "Repositories:\n" + "\n---\n".join(repo_summaries)
+            )
 
-        response_text = ""
-        
+            response_text = self._generate_content(prompt)
+            if not response_text:
+                print(f"DEBUG: Batch {i//batch_size + 1} failed or returned empty.")
+                continue
+                
+            batch_data = self._parse_llm_response(response_text)
+            
+            # Merge batch_data into all_data
+            for category, items in batch_data.items():
+                if category not in all_data:
+                    all_data[category] = []
+                all_data[category].extend(items)
+            
+            # Rate limit protection
+            time.sleep(2)
+                
+        return all_data
+
+    def _generate_content(self, prompt):
         try:
             if self.model_name == 'GEMINI':
                 client = genai.Client(api_key=self.api_key)
@@ -199,53 +226,49 @@ class LLMProcessor:
                 # Dynamic model selection
                 model_id = 'gemini-1.5-flash' # Fallback
                 try:
-                    # Preference order for "best" model
+                    # Preference order
                     preferences = [
-                        'gemini-2.0-flash-exp',
+                        'gemini-2.5-flash',
+                        'gemini-2.0-flash',
                         'gemini-1.5-pro',
-                        'gemini-1.5-flash',
-                        'gemini-1.0-pro'
+                        'gemini-1.5-flash'
                     ]
                     
-                    print("DEBUG: Fetching available Gemini models...")
+                    # Caching available models could be an optimization, but negligible for daily run
                     available_models = []
-                    for m in client.models.list():
-                        # DEBUG: Print attributes of the first model to debug
-                        if not available_models: 
-                            print(f"DEBUG: Model object attributes: {dir(m)}")
-                        
-                        # In google-genai SDK 0.x/1.x, supported_generation_methods might be missing or different.
-                        # For now, let's assume if it has 'gemini' in name, it's a candidate.
-                        name = m.name.split('/')[-1]
-                        available_models.append(name)
+                    ignore_keywords = ['video', 'vision', 'image', 'tts', 'embedding', 'aqa', 'search', 'tool', 'robotics']
                     
-                    print(f"DEBUG: Available models: {available_models}")
+                    # We might fail to list models if API key lacks permission, handle gracefully
+                    for m in client.models.list():
+                         name = m.name.split('/')[-1]
+                         if any(k in name.lower() for k in ignore_keywords):
+                             continue
+                         available_models.append(name)
                     
                     found = False
-                    # Check preferences first
                     for pref in preferences:
-                        # Match exact or simple prefix matching
                         matches = [m for m in available_models if pref in m]
                         if matches:
-                            model_id = matches[0] # Pick the first match (e.g. gemini-1.5-pro-001)
+                            matches.sort(key=len)
+                            model_id = matches[0]
                             found = True
                             print(f"DEBUG: Selected preferred model: {model_id}")
                             break
                     
                     if not found and available_models:
-                         # Fallback to first available 'gemini' model
                          gemini_models = [m for m in available_models if 'gemini' in m.lower()]
                          if gemini_models:
                              model_id = gemini_models[0]
                              print(f"DEBUG: Selected fallback model: {model_id}")
+                             
                 except Exception as e:
-                    print(f"DEBUG: Failed to list models, using default {model_id}: {e}")
+                    print(f"DEBUG: Model discovery failed, using fallback {model_id}. Error: {e}")
 
                 response = client.models.generate_content(
                     model=model_id,
                     contents=prompt
                 )
-                response_text = response.text
+                return response.text
                 
             elif self.model_name == 'OPENAI':
                 client = OpenAI(api_key=self.api_key)
@@ -253,7 +276,7 @@ class LLMProcessor:
                     model="gpt-4o",
                     messages=[{"role": "user", "content": prompt}]
                 )
-                response_text = response.choices[0].message.content
+                return response.choices[0].message.content
                 
             elif self.model_name == 'CLAUDE':
                 client = Anthropic(api_key=self.api_key)
@@ -262,15 +285,15 @@ class LLMProcessor:
                     max_tokens=2000,
                     messages=[{"role": "user", "content": prompt}]
                 )
-                response_text = response.content[0].text
+                return response.content[0].text
                 
         except Exception as e:
             import traceback
             traceback.print_exc()
             print(f"Error processing with {self.model_name}: {e}")
-            return {}
-
-        return self._parse_llm_response(response_text)
+            return None
+        
+        return None
 
     def _parse_llm_response(self, text):
         data = {}
