@@ -19,11 +19,7 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GH_TOKEN }} # Use GH_TOKEN for checkout to ensure push permissions if needed, though default GITHUB_TOKEN might work if permissions are set. Best to use custom token if pushing to protected branch or if standard token has issues. Actually, creating a recursive trigger is a risk if we use a PAT. But we are only modifying MD files. 
-          # Let's use default token first, but if we need to trigger other workflows or have strict perms, PAT is better.
-          # The user Plan specified GH_TOKEN for Star Fetching. 
-          # For file push, the 'git-auto-commit-action' uses GITHUB_TOKEN by default.
+
       
       - name: Set up Python
         uses: actions/setup-python@v4
