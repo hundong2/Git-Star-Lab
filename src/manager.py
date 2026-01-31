@@ -195,8 +195,49 @@ class LLMProcessor:
         try:
             if self.model_name == 'GEMINI':
                 client = genai.Client(api_key=self.api_key)
+                
+                # Dynamic model selection
+                model_id = 'gemini-1.5-flash' # Fallback
+                try:
+                    # Preference order for "best" model
+                    preferences = [
+                        'gemini-2.0-flash-exp',
+                        'gemini-1.5-pro',
+                        'gemini-1.5-flash',
+                        'gemini-1.0-pro'
+                    ]
+                    
+                    print("DEBUG: Fetching available Gemini models...")
+                    available_models = []
+                    for m in client.models.list():
+                        if 'generateContent' in m.supported_generation_methods:
+                            name = m.name.split('/')[-1] # models/gemini-1.5-flash -> gemini-1.5-flash
+                            available_models.append(name)
+                    
+                    print(f"DEBUG: Available models: {available_models}")
+                    
+                    found = False
+                    # Check preferences first
+                    for pref in preferences:
+                        # Match exact or simple prefix matching
+                        matches = [m for m in available_models if pref in m]
+                        if matches:
+                            model_id = matches[0] # Pick the first match (e.g. gemini-1.5-pro-001)
+                            found = True
+                            print(f"DEBUG: Selected preferred model: {model_id}")
+                            break
+                    
+                    if not found and available_models:
+                         # Fallback to first available 'gemini' model
+                         gemini_models = [m for m in available_models if 'gemini' in m.lower()]
+                         if gemini_models:
+                             model_id = gemini_models[0]
+                             print(f"DEBUG: Selected fallback model: {model_id}")
+                except Exception as e:
+                    print(f"DEBUG: Failed to list models, using default {model_id}: {e}")
+
                 response = client.models.generate_content(
-                    model='gemini-2.0-flash-exp',
+                    model=model_id,
                     contents=prompt
                 )
                 response_text = response.text
