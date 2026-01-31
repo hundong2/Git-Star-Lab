@@ -2,7 +2,7 @@ import os
 import re
 from datetime import datetime, timezone
 from github import Github
-import google.generativeai as genai
+from google import genai
 from openai import OpenAI
 from anthropic import Anthropic
 
@@ -145,9 +145,11 @@ class LLMProcessor:
         
         try:
             if self.model_name == 'GEMINI':
-                genai.configure(api_key=self.api_key)
-                model = genai.GenerativeModel('gemini-1.5-flash')
-                response = model.generate_content(prompt)
+                client = genai.Client(api_key=self.api_key)
+                response = client.models.generate_content(
+                    model='gemini-1.5-flash',
+                    contents=prompt
+                )
                 response_text = response.text
                 
             elif self.model_name == 'OPENAI':
