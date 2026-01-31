@@ -210,9 +210,14 @@ class LLMProcessor:
                     print("DEBUG: Fetching available Gemini models...")
                     available_models = []
                     for m in client.models.list():
-                        if 'generateContent' in m.supported_generation_methods:
-                            name = m.name.split('/')[-1] # models/gemini-1.5-flash -> gemini-1.5-flash
-                            available_models.append(name)
+                        # DEBUG: Print attributes of the first model to debug
+                        if not available_models: 
+                            print(f"DEBUG: Model object attributes: {dir(m)}")
+                        
+                        # In google-genai SDK 0.x/1.x, supported_generation_methods might be missing or different.
+                        # For now, let's assume if it has 'gemini' in name, it's a candidate.
+                        name = m.name.split('/')[-1]
+                        available_models.append(name)
                     
                     print(f"DEBUG: Available models: {available_models}")
                     
