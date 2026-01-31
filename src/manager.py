@@ -19,7 +19,7 @@ class StarManager:
         stars = []
         # get_starred(sort='created', direction='desc') is ideal but PyGithub defaults are usually fine.
         # We verify order.
-        starred_paginated = self.user.get_starred(sort='created', direction='desc')
+        starred_paginated = self.user.get_starred()
         
         for starred in starred_paginated:
             # starred_at is usually timezone aware (UTC) or naive depending on PyGithub version.
