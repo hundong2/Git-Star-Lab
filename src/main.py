@@ -79,5 +79,8 @@ def main():
         md_manager.save(processed_content, f"# {model_name}'s GitHub Star Summary")
         print(f"Updated {file_path}")
 
+    print("DEBUG: Script finished. Current directory content:")
+    print(os.listdir('.'))
+
 if __name__ == "__main__":
     main()

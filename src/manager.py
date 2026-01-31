@@ -12,7 +12,12 @@ class StarManager:
     def __init__(self, token):
         self.token = token
         self.g = Github(token)
-        self.user = self.g.get_user()
+        try:
+            self.user = self.g.get_user()
+            print(f"DEBUG: Authenticated as GitHub User: {self.user.login}")
+        except Exception as e:
+            print(f"DEBUG: Failed to get user info: {e}")
+            self.user = None
 
     def get_starred_repos(self, since=None):
         """
@@ -31,11 +36,14 @@ class StarManager:
         while True:
             url = f"https://api.github.com/user/starred?per_page={per_page}&page={page}"
             try:
+                print(f"DEBUG: Fetching stars page {page}...")
                 resp = requests.get(url, headers=headers)
                 resp.raise_for_status()
                 data = resp.json()
+                print(f"DEBUG: Page {page} returned {len(data)} items.")
             except Exception as e:
                 print(f"Error fetching stars: {e}")
+                # If we fail to fetch, we should probably stop or raise, but let's break for now
                 break
                 
             if not data:
