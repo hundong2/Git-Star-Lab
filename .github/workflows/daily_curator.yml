@@ -4,6 +4,12 @@ on:
     # UTC 18:00 is KST 03:00 (+1 day)
     - cron: '0 18 * * *'
   workflow_dispatch: # Option for manual run
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
   curate:
