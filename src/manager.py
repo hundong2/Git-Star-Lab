@@ -213,8 +213,8 @@ class LLMProcessor:
                     all_data[category] = []
                 all_data[category].extend(items)
             
-            # Rate limit protection
-            time.sleep(2)
+            # Rate limit protection (Free tier is ~15 RPM, so 4s+ is needed. Using 10s to be safe)
+            time.sleep(10)
                 
         return all_data
 
@@ -264,11 +264,30 @@ class LLMProcessor:
                 except Exception as e:
                     print(f"DEBUG: Model discovery failed, using fallback {model_id}. Error: {e}")
 
-                response = client.models.generate_content(
-                    model=model_id,
-                    contents=prompt
-                )
-                return response.text
+                # Custom Retry Logic for 429 Handling
+                max_retries = 5
+                base_delay = 30
+                
+                for attempt in range(max_retries):
+                    try:
+                        response = client.models.generate_content(
+                            model=model_id,
+                            contents=prompt
+                        )
+                        return response.text
+                    except Exception as e:
+                        error_str = str(e)
+                        if "429" in error_str:
+                            wait_time = base_delay * (2 ** attempt) # Exponential backoff: 30, 60, 120...
+                            print(f"DEBUG: Hit Rate Limit (429). Retrying in {wait_time}s... (Attempt {attempt+1}/{max_retries})")
+                            time.sleep(wait_time)
+                        else:
+                            # Not a rate limit error, raise or return None
+                            print(f"DEBUG: API Error: {e}")
+                            return None
+                
+                print("DEBUG: Max retries exceeded for rate limit.")
+                return None
                 
             elif self.model_name == 'OPENAI':
                 client = OpenAI(api_key=self.api_key)
