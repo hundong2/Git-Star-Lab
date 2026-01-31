@@ -211,6 +211,8 @@ class LLMProcessor:
                 response_text = response.content[0].text
                 
         except Exception as e:
+            import traceback
+            traceback.print_exc()
             print(f"Error processing with {self.model_name}: {e}")
             return {}
 

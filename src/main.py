@@ -72,7 +72,7 @@ def main():
         
         if not processed_content:
             print("LLM returned empty content or failed.")
-            continue
+            sys.exit(1)
 
         # Step D: Write & Save
         print("Updating file...")
