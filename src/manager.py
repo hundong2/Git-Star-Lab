@@ -167,6 +167,7 @@ class LLMProcessor:
     def __init__(self, model_name, api_key):
         self.model_name = model_name
         self.api_key = api_key
+        self.failed_models = set()
     
     def process(self, repos):
         """
@@ -177,7 +178,7 @@ class LLMProcessor:
             return {}
 
         all_data = {}
-        batch_size = 40
+        batch_size = 100
         
         print(f"DEBUG: Processing {len(repos)} stars in batches of {batch_size}...")
         
@@ -223,8 +224,7 @@ class LLMProcessor:
             if self.model_name == 'GEMINI':
                 client = genai.Client(api_key=self.api_key)
                 
-                # Dynamic model selection
-                model_id = 'gemini-1.5-flash' # Fallback
+                # Dynamic model selection with Fallback Strategy
                 try:
                     # Preference order
                     preferences = [
@@ -234,60 +234,59 @@ class LLMProcessor:
                         'gemini-1.5-flash'
                     ]
                     
-                    # Caching available models could be an optimization, but negligible for daily run
                     available_models = []
                     ignore_keywords = ['video', 'vision', 'image', 'tts', 'embedding', 'aqa', 'search', 'tool', 'robotics']
                     
-                    # We might fail to list models if API key lacks permission, handle gracefully
+                    # Fetch available models once
                     for m in client.models.list():
                          name = m.name.split('/')[-1]
                          if any(k in name.lower() for k in ignore_keywords):
                              continue
                          available_models.append(name)
                     
-                    found = False
-                    for pref in preferences:
-                        matches = [m for m in available_models if pref in m]
-                        if matches:
-                            matches.sort(key=len)
-                            model_id = matches[0]
-                            found = True
-                            print(f"DEBUG: Selected preferred model: {model_id}")
-                            break
-                    
-                    if not found and available_models:
-                         gemini_models = [m for m in available_models if 'gemini' in m.lower()]
-                         if gemini_models:
-                             model_id = gemini_models[0]
-                             print(f"DEBUG: Selected fallback model: {model_id}")
-                             
-                except Exception as e:
-                    print(f"DEBUG: Model discovery failed, using fallback {model_id}. Error: {e}")
+                    # Candidate Selection & Attempt Loop
+                    while True:
+                        model_id = None
+                        
+                        # Find best candidate not in failed_models
+                        for pref in preferences:
+                            matches = [m for m in available_models if pref in m and m not in self.failed_models]
+                            if matches:
+                                matches.sort(key=len)
+                                model_id = matches[0]
+                                break
+                        
+                        # Fallback if no preference matched but other gemini models exist
+                        if not model_id and available_models:
+                            gemini_fallback = [m for m in available_models if 'gemini' in m.lower() and m not in self.failed_models]
+                            if gemini_fallback:
+                                model_id = gemini_fallback[0]
 
-                # Custom Retry Logic for 429 Handling
-                max_retries = 5
-                base_delay = 30
-                
-                for attempt in range(max_retries):
-                    try:
-                        response = client.models.generate_content(
-                            model=model_id,
-                            contents=prompt
-                        )
-                        return response.text
-                    except Exception as e:
-                        error_str = str(e)
-                        if "429" in error_str:
-                            wait_time = base_delay * (2 ** attempt) # Exponential backoff: 30, 60, 120...
-                            print(f"DEBUG: Hit Rate Limit (429). Retrying in {wait_time}s... (Attempt {attempt+1}/{max_retries})")
-                            time.sleep(wait_time)
-                        else:
-                            # Not a rate limit error, raise or return None
-                            print(f"DEBUG: API Error: {e}")
+                        if not model_id:
+                            print("DEBUG: All candidate models failed or exhausted.")
                             return None
-                
-                print("DEBUG: Max retries exceeded for rate limit.")
-                return None
+
+                        print(f"DEBUG: Selected model: {model_id}")
+
+                        try:
+                            response = client.models.generate_content(
+                                model=model_id,
+                                contents=prompt
+                            )
+                            return response.text
+                        except Exception as e:
+                            error_str = str(e)
+                            if "429" in error_str:
+                                print(f"DEBUG: Rate limit (429) on {model_id}. Flagging as failed and switching...")
+                                self.failed_models.add(model_id)
+                                continue # Retry loop to select next best model
+                            else:
+                                print(f"DEBUG: Non-retriable error on {model_id}: {e}")
+                                return None
+
+                except Exception as e:
+                    print(f"DEBUG: Model process failed: {e}")
+                    return None
                 
             elif self.model_name == 'OPENAI':
                 client = OpenAI(api_key=self.api_key)
