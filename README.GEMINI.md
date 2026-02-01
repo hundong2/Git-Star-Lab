@@ -198,6 +198,7 @@ Last Updated: 2026-02-01
 - [microsoft/rust-for-dotnet-devs](https://github.com/microsoft/rust-for-dotnet-devs): Resources and guidance for .NET developers transitioning to or learning Rust.
 - [koba-jon/pytorch_cpp](https://github.com/koba-jon/pytorch_cpp): Sample programs demonstrating deep learning with PyTorch in C++.
 - [suhdonghwi/nuri](https://github.com/suhdonghwi/nuri): "Nuri" is a functional programming language with a Korean syntax.
+- [GlyphLang/GlyphLang](https://github.com/GlyphLang/GlyphLang): GlyphLang is a programming language specifically designed and optimized for artificial intelligence applications.
 
 ## Robotics & Autonomous Systems
 - [gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en): The English version of a tutorial series consisting of 14 lectures on visual SLAM (Simultaneous Localization and Mapping).
@@ -1432,4 +1433,12 @@ Last Updated: 2026-02-01
 - [yourtablecloth/TableCloth](https://github.com/yourtablecloth/TableCloth): A project named "TableCloth," likely a general application or utility based on its Korean description.
 - [angelsix/fasetto-word](https://github.com/angelsix/fasetto-word): An open-source chat application developed for Fasetto.
 - [egoing/gistory](https://github.com/egoing/gistory): A repository named "gistory" with no provided description, making its purpose unclear.
+
+## AI Resources
+- [SuperBruceJia/Awesome-Large-Vision-Language-Model](https://github.com/SuperBruceJia/Awesome-Large-Vision-Language-Model): This repository offers a curated list of resources focused on Large Vision-Language Models.
+- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills): This is a comprehensive collection of over 200 agent skills for AI models like Claude, Codex, and Gemini CLI, contributed by official teams and the community.
+
+## AI Tools
+- [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex): PageIndex provides a document indexing solution tailored for vectorless, reasoning-based Retrieval Augmented Generation (RAG) systems.
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem): This Claude Code plugin automates the capture, compression, and injection of contextual memory from AI coding sessions to enhance future interactions.
 
