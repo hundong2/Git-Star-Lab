@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-02-01
+Last Updated: 2026-02-02
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -199,6 +199,7 @@ Last Updated: 2026-02-01
 - [koba-jon/pytorch_cpp](https://github.com/koba-jon/pytorch_cpp): Sample programs demonstrating deep learning with PyTorch in C++.
 - [suhdonghwi/nuri](https://github.com/suhdonghwi/nuri): "Nuri" is a functional programming language with a Korean syntax.
 - [GlyphLang/GlyphLang](https://github.com/GlyphLang/GlyphLang): GlyphLang is a programming language specifically designed and optimized for artificial intelligence applications.
+- [GlyphLang/GlyphLang](https://github.com/GlyphLang/GlyphLang): An innovative programming language specifically designed and optimized for artificial intelligence applications.
 
 ## Robotics & Autonomous Systems
 - [gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en): The English version of a tutorial series consisting of 14 lectures on visual SLAM (Simultaneous Localization and Mapping).
@@ -931,6 +932,7 @@ Last Updated: 2026-02-01
 - [edit](https://github.com/microsoft/edit): A project related to general editing capabilities or concepts.
 - [DeskHog](https://github.com/PostHog/DeskHog): A developer toy designed to bring joy and utility to developers.
 - [hurl](https://github.com/Orange-OpenSource/hurl): A command-line tool for running and testing HTTP requests defined in plain text.
+- [beheshty/SetSharp](https://github.com/beheshty/SetSharp): A C# source generator that automatically creates strongly-typed settings classes from `appsettings.json` files, eliminating boilerplate.
 
 ## Programming & Libraries
 - [zerocopy](https://github.com/google/zerocopy): A library that enables zero-cost memory manipulation by abstracting unsafe code.
@@ -1441,4 +1443,21 @@ Last Updated: 2026-02-01
 ## AI Tools
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex): PageIndex provides a document indexing solution tailored for vectorless, reasoning-based Retrieval Augmented Generation (RAG) systems.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem): This Claude Code plugin automates the capture, compression, and injection of contextual memory from AI coding sessions to enhance future interactions.
+
+## AI Agent Tools
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator): A visual tool to annotate, review, share, and provide feedback on coding agent plans for teams.
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem): A Claude Code plugin that uses AI to capture, compress, and inject relevant context from past coding sessions into future interactions, enhancing memory.
+
+## AI Agent Skills & Extensions
+- [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills): A collection of pre-built scientific skills designed for the Claude AI assistant.
+- [hundong2/oh-my-ag](https://github.com/hundong2/oh-my-ag): A collection of professional agent skills for the Google Antigravity IDE, specialized for various development roles like PM, Frontend, Backend, and QA.
+- [first-fluke/oh-my-ag](https://github.com/first-fluke/oh-my-ag): A collection of professional agent skills for the Google Antigravity IDE, specialized for various development roles like PM, Frontend, Backend, and QA.
+
+## AI/ML Resource Lists
+- [LumosJiang/Awesome-On-Device-LLMs](https://github.com/LumosJiang/Awesome-On-Device-LLMs): A curated list of research papers and resources focused on on-device large language models, model compression, and system optimization.
+- [SuperBruceJia/Awesome-Large-Vision-Language-Model](https://github.com/SuperBruceJia/Awesome-Large-Vision-Language-Model): A curated "awesome list" compiling resources and models related to Large Vision-Language Models.
+- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills): A comprehensive "awesome list" of 200+ AI agent skills compatible with various platforms like Claude, Codex, Antigravity, and Gemini CLI.
+
+## LLM Frameworks & Utilities
+- [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex): A document indexing tool designed for vectorless, reasoning-based Retrieval Augmented Generation (RAG) systems.
 
