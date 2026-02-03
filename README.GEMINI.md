@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-02-02
+Last Updated: 2026-02-03
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1460,4 +1460,19 @@ Last Updated: 2026-02-02
 
 ## LLM Frameworks & Utilities
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex): A document indexing tool designed for vectorless, reasoning-based Retrieval Augmented Generation (RAG) systems.
+
+## AI & LLM Tools
+- [anthropics/claude-code](https://github.com/anthropics/claude-code): An agentic terminal-based coding tool that uses natural language to assist with development tasks and git workflows.
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator): A visual tool designed for annotating, reviewing, and sharing feedback on coding agent plans.
+- [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills): A collection of ready-to-use scientific skills designed to extend the capabilities of the Claude AI model.
+
+## Machine Learning Resources & Projects
+- [automl/nanoTabPFN](https://github.com/automl/nanoTabPFN): A lightweight and educational re-implementation of the TabPFN model for tabular data.
+- [LumosJiang/Awesome-On-Device-LLMs](https://github.com/LumosJiang/Awesome-On-Device-LLMs): A curated list of research papers and a survey focused on on-device large language models, including model compression and system optimization.
+
+## Software Development Tools
+- [beheshty/SetSharp](https://github.com/beheshty/SetSharp): A C# source generator that automatically creates strongly-typed settings classes from `appsettings.json` files.
+
+## Software Architecture & Education
+- [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): Example code accompanying the Korean "Clean Architecture Core Guide" book.
 
