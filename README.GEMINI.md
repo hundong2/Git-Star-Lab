@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-02-03
+Last Updated: 2026-02-04
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1475,4 +1475,25 @@ Last Updated: 2026-02-03
 
 ## Software Architecture & Education
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): Example code accompanying the Korean "Clean Architecture Core Guide" book.
+
+## AI Infrastructure
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway): This project provides a next-generation agentic proxy designed for AI agents and MCP servers.
+
+## Cloud & Networking
+- [microsoft/mcp-gateway](https://github.com/microsoft/mcp-gateway): This repository offers a reverse proxy and management layer for MCP servers, enabling scalable and stateful routing in Kubernetes environments.
+
+## AI Development Tools
+- [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai): This is an AI-powered, non-intrusive terminal assistant designed to enhance user productivity within tmux.
+- [awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator): This project provides an orchestrator for command-line interface (CLI) agents, likely for managing automated tasks or AI agents.
+- [badlogic/pi-mono](https://github.com/badlogic/pi-mono): This is a comprehensive AI agent toolkit featuring a coding agent CLI, a unified LLM API, UI libraries, and a Slack bot.
+- [anthropics/claude-code](https://github.com/anthropics/claude-code): This terminal-based agentic coding tool, powered by Claude, assists developers by understanding codebases, automating tasks, and managing git workflows via natural language.
+
+## AI Projects
+- [haeggee/hot-mess-of-ai](https://github.com/haeggee/hot-mess-of-ai): This repository appears to be a collection or experiment related to artificial intelligence.
+
+## Machine Learning
+- [automl/nanoTabPFN](https://github.com/automl/nanoTabPFN): This project is a lightweight and educational reimplementation of the TabPFN model for automated machine learning.
+
+## Software Architecture
+- [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
 
