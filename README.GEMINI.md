@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-02-04
+Last Updated: 2026-02-05
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1496,4 +1496,24 @@ Last Updated: 2026-02-04
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
+
+## Machine Learning Frameworks & Models
+- [huggingface/transformers](https://github.com/huggingface/transformers): This framework enables the use and training of state-of-the-art machine learning models across text, vision, audio, and multimodal applications.
+- [roboflow/rf-detr](https://github.com/roboflow/rf-detr): RF-DETR is a state-of-the-art, real-time object detection and segmentation model architecture developed by Roboflow for fine-tuning.
+
+## AI Infrastructure & Core Systems
+- [google/mcp](https://github.com/google/mcp): This repository represents a core component of Google's "MCP" system, likely a foundational piece of their AI infrastructure.
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway): This repository provides a next-generation agentic proxy designed to connect and manage AI agents and MCP servers.
+- [microsoft/mcp-gateway](https://github.com/microsoft/mcp-gateway): MCP Gateway functions as a reverse proxy and management layer for MCP servers, supporting scalable stateful routing and lifecycle management in Kubernetes.
+
+## AI Development Tools & UIs
+- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui): This free open-source web UI/GUI facilitates remote management of Claude Code, Cursor CLI, or Codex sessions and projects.
+- [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai): This offers an AI-powered, non-intrusive terminal assistant designed to enhance user productivity directly within the command line.
+
+## AI Agent Tooling & Platforms
+- [awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator): This AWS Labs project provides a command-line interface for orchestrating the deployment and management of AI agents.
+- [badlogic/pi-mono](https://github.com/badlogic/pi-mono): This comprehensive AI agent toolkit includes a coding agent CLI, a unified LLM API, TUI/web UI libraries, and a Slack bot.
+
+## Curated Lists & Resources
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): This repository is an awesome collection of LLM applications featuring AI Agents and RAG built with various leading models.
 
