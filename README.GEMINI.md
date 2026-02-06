@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-02-05
+Last Updated: 2026-02-06
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -563,6 +563,7 @@ Last Updated: 2026-02-05
 - [leoheuler/flashtensors](https://github.com/leoheuler/flashtensors): No description provided for this repository.
 - [microsoft/amplifier](https://github.com/microsoft/amplifier): No description provided for this repository.
 - [hshi74/toddlerbot](https://github.com/hshi74/toddlerbot): No description provided for this repository.
+- [google/mcp](https://github.com/google/mcp): The purpose and functionality of this repository are not described, with its description simply stating "Google 💚 MCP".
 
 ## AI Agents
 - [CursorTouch/Windows-Use](https://github.com/CursorTouch/Windows-Use): Provides an open-source framework for AI agents to interact with and control Windows computers.
@@ -1439,6 +1440,7 @@ Last Updated: 2026-02-05
 ## AI Resources
 - [SuperBruceJia/Awesome-Large-Vision-Language-Model](https://github.com/SuperBruceJia/Awesome-Large-Vision-Language-Model): This repository offers a curated list of resources focused on Large Vision-Language Models.
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills): This is a comprehensive collection of over 200 agent skills for AI models like Claude, Codex, and Gemini CLI, contributed by official teams and the community.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): This repository is an awesome collection of applications built with Large Language Models (LLMs), featuring AI agents and RAG implementations.
 
 ## AI Tools
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex): PageIndex provides a document indexing solution tailored for vectorless, reasoning-based Retrieval Augmented Generation (RAG) systems.
@@ -1516,4 +1518,13 @@ Last Updated: 2026-02-05
 
 ## Curated Lists & Resources
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): This repository is an awesome collection of LLM applications featuring AI Agents and RAG built with various leading models.
+
+## Development Platform
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet): ToolJet is an open-source AI-native platform for building internal tools, dashboards, business applications, workflows, and AI agents.
+
+## Machine Learning Frameworks
+- [huggingface/transformers](https://github.com/huggingface/transformers): Hugging Face Transformers is a model-definition framework for state-of-the-art machine learning models across text, vision, audio, and multimodal domains for both inference and training.
+
+## Computer Vision Models
+- [roboflow/rf-detr](https://github.com/roboflow/rf-detr): RF-DETR is a state-of-the-art real-time object detection and segmentation model architecture developed by Roboflow, optimized for fine-tuning.
 
