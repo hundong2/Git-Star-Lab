@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-02-06
+Last Updated: 2026-02-07
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1527,4 +1527,7 @@ Last Updated: 2026-02-06
 
 ## Computer Vision Models
 - [roboflow/rf-detr](https://github.com/roboflow/rf-detr): RF-DETR is a state-of-the-art real-time object detection and segmentation model architecture developed by Roboflow, optimized for fine-tuning.
+
+## AI Development Platform
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet): ToolJet is an open-source, AI-native platform designed for building internal tools, dashboards, business applications, workflows, and AI agents.
 
