@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-02-07
+Last Updated: 2026-02-09
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1530,4 +1530,7 @@ Last Updated: 2026-02-07
 
 ## AI Development Platform
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet): ToolJet is an open-source, AI-native platform designed for building internal tools, dashboards, business applications, workflows, and AI agents.
+
+## System Software
+- [microsoft/litebox](https://github.com/microsoft/litebox): This is a security-focused library operating system designed to support both kernel- and user-mode execution.
 
