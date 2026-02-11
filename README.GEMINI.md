@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-02-09
+Last Updated: 2026-02-11
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -274,6 +274,7 @@ Last Updated: 2026-02-09
 - [csharpfritz/CoreWiki](https://github.com/csharpfritz/CoreWiki): A simple wiki application built with ASP.NET Core during live coding streams.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap): The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first web projects.
 - [vuejs/vue](https://github.com/vuejs/vue): The repository for Vue.js version 2, a progressive JavaScript framework for building user interfaces.
+- [GoogleChromeLabs/web-ai-demos](https://github.com/GoogleChromeLabs/web-ai-demos): A collection of demonstrations exploring the integration and execution of artificial intelligence models directly within web browsers.
 
 ## Workflow & Automation
 - [AppiumTestDistribution/appium-device-farm](https://github.com/AppiumTestDistribution/appium-device-farm): An Appium 2.0 plugin that manages and creates driver sessions on available mobile devices for testing.
@@ -1495,6 +1496,7 @@ Last Updated: 2026-02-09
 
 ## Machine Learning
 - [automl/nanoTabPFN](https://github.com/automl/nanoTabPFN): This project is a lightweight and educational reimplementation of the TabPFN model for automated machine learning.
+- [NVlabs/alpamayo](https://github.com/NVlabs/alpamayo): A framework for creating and deploying distributed machine learning pipelines and workflows.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
