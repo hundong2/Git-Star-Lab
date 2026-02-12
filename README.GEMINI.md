@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-02-11
+Last Updated: 2026-02-12
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -623,6 +623,9 @@ Last Updated: 2026-02-11
 - [OpenBMB/VisRAG](https://github.com/OpenBMB/VisRAG): Implements a parsing-free Retrieval-Augmented Generation (RAG) system supported by Vision-Language Models (VLMs).
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA): A Visual Instruction Tuning model (LLaVA) aiming for GPT-4V level capabilities in multimodal understanding.
 - [ctlllll/gpt-oss-reverse-engineering](https://github.com/ctlllll/gpt-oss-reverse-engineering): A project likely involving reverse engineering open-source GPT models.
+- [AnkitNayak-eth/EpsteinFiles-RAG](https://github.com/AnkitNayak-eth/EpsteinFiles-RAG): This repository implements a Retrieval-Augmented Generation (RAG) pipeline using a large dataset for natural language processing tasks.
+- [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss): This repository likely provides an open-source framework or implementation related to AI agents.
+- [NVlabs/alpamayo](https://github.com/NVlabs/alpamayo): From NVIDIA Labs, this project appears to focus on a single global model for various long-range machine learning tasks.
 
 ## Research/Academic
 - [NVlabs/UniversalDeepResearch](https://github.com/NVlabs/UniversalDeepResearch): Contains the code implementation accompanying the "Universal Deep Research" academic paper.
@@ -1535,4 +1538,11 @@ Last Updated: 2026-02-11
 
 ## System Software
 - [microsoft/litebox](https://github.com/microsoft/litebox): This is a security-focused library operating system designed to support both kernel- and user-mode execution.
+
+## Tools
+- [binbinsh/zotero-easytrans](https://github.com/binbinsh/zotero-easytrans): This is an offline translation plugin for Zotero 8, leveraging an on-device AI model for translations.
+- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew): This project offers an experimental, significantly faster alternative to the Homebrew package manager for macOS.
+
+## Web Development / AI
+- [GoogleChromeLabs/web-ai-demos](https://github.com/GoogleChromeLabs/web-ai-demos): This repository from Google Chrome Labs showcases demonstrations of integrating and utilizing AI capabilities directly within web browsers.
 
