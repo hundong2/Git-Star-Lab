@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-02-12
+Last Updated: 2026-02-13
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -586,6 +586,7 @@ Last Updated: 2026-02-12
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents): A financial trading framework built upon multi-agent LLM systems.
 - [OPPO-PersonalAI/OAgents](https://github.com/OPPO-PersonalAI/OAgents): Provides the implementation for "OAgents," an empirical study focused on building effective AI agents.
 - [PathOnAIOrg/LiteWebAgent](https://github.com/PathOnAIOrg/LiteWebAgent): An open-source suite, LiteWebAgent, for developing VLM-based web agent applications.
+- [nanoclaw](https://github.com/qwibitai/nanoclaw): This project is a lightweight, secure AI agent that integrates with WhatsApp, offers memory and scheduled jobs, and runs on Anthropic's Agents SDK within Apple containers.
 
 ## AI Development Tools/Libraries
 - [BerriAI/litellm](https://github.com/BerriAI/litellm): A Python SDK and proxy server that provides a unified interface for calling over 100 LLM APIs with features like cost tracking and load balancing.
@@ -1545,4 +1546,7 @@ Last Updated: 2026-02-12
 
 ## Web Development / AI
 - [GoogleChromeLabs/web-ai-demos](https://github.com/GoogleChromeLabs/web-ai-demos): This repository from Google Chrome Labs showcases demonstrations of integrating and utilizing AI capabilities directly within web browsers.
+
+## Natural Language Processing
+- [EpsteinFiles-RAG](https://github.com/AnkitNayak-eth/EpsteinFiles-RAG): This repository implements a Retrieval Augmented Generation (RAG) pipeline, utilizing the 'Epstein Files 20K' dataset from Hugging Face.
 
