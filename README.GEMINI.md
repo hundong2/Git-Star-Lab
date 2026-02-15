@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-02-14
+Last Updated: 2026-02-15
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1553,7 +1553,11 @@ Last Updated: 2026-02-14
 
 ## Cloud Tools
 - [aws-doctor](https://github.com/elC0mpa/aws-doctor): This powerful open-source CLI tool audits AWS environments for security, cost-efficiency, and best practice compliance.
+- [elC0mpa/aws-doctor](https://github.com/elC0mpa/aws-doctor): A powerful open-source CLI designed to audit security, costs, and best practices within AWS environments.
 
 ## AI Applications
 - [nanoclaw](https://github.com/qwibitai/nanoclaw): This project offers a lightweight AI agent, built on Anthropic's Agents SDK, that connects to WhatsApp with memory and scheduled job capabilities, running securely in Apple containers.
+
+## Artificial Intelligence
+- [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python): A Python SDK for developing and interacting with Claude AI agents.
 
