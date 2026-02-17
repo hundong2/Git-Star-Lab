@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-02-15
+Last Updated: 2026-02-17
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1436,6 +1436,7 @@ Last Updated: 2026-02-15
 ## Curated Lists
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp): A curated list of excellent C++ and C frameworks, libraries, and resources.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome): A meta-list of "awesome" lists covering a wide range of interesting topics.
+- [n2cholas/awesome-jax](https://github.com/n2cholas/awesome-jax): A curated list of resources, libraries, and tools related to JAX, designed to help users discover useful information about the framework.
 
 ## General Projects & Applications
 - [yourtablecloth/TableCloth](https://github.com/yourtablecloth/TableCloth): A project named "TableCloth," likely a general application or utility based on its Korean description.
@@ -1531,6 +1532,7 @@ Last Updated: 2026-02-15
 
 ## Machine Learning Frameworks
 - [huggingface/transformers](https://github.com/huggingface/transformers): Hugging Face Transformers is a model-definition framework for state-of-the-art machine learning models across text, vision, audio, and multimodal domains for both inference and training.
+- [jax-ml/jax](https://github.com/jax-ml/jax): A Python library for high-performance numerical computation, offering composable transformations like automatic differentiation and JIT compilation to accelerate scientific and machine learning workloads.
 
 ## Computer Vision Models
 - [roboflow/rf-detr](https://github.com/roboflow/rf-detr): RF-DETR is a state-of-the-art real-time object detection and segmentation model architecture developed by Roboflow, optimized for fine-tuning.
@@ -1560,4 +1562,10 @@ Last Updated: 2026-02-15
 
 ## Artificial Intelligence
 - [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python): A Python SDK for developing and interacting with Claude AI agents.
+
+## Artificial Intelligence Models
+- [MiniMax-AI/MiniMax-M2.5](https://github.com/MiniMax-AI/MiniMax-M2.5): This repository from MiniMax-AI likely hosts an artificial intelligence model, potentially a large language model or a related AI system, though specific details are unavailable.
+
+## Large Language Model Resources
+- [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook): A comprehensive guide and collection of examples for building applications with the Llama model family, covering topics like inference, fine-tuning, and RAG implementations.
 
