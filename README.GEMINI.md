@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-02-17
+Last Updated: 2026-02-18
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1247,6 +1247,7 @@ Last Updated: 2026-02-17
 ## Computer Vision
 - [davisking/dlib](https://github.com/davisking/dlib): A comprehensive C++ toolkit for building real-world machine learning and data analysis applications.
 - [opencv/opencv](https://github.com/opencv/opencv): The Open Source Computer Vision Library for various image and video processing tasks.
+- [Labellerr/Hands-On-Learning-in-Computer-Vision](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision): A practical resource offering hands-on learning materials for understanding and applying computer vision concepts.
 
 ## Data Serialization & RPC
 - [capnproto/capnproto](https://github.com/capnproto/capnproto): A data interchange format and RPC system, providing core tools and a C++ library.
@@ -1533,6 +1534,7 @@ Last Updated: 2026-02-17
 ## Machine Learning Frameworks
 - [huggingface/transformers](https://github.com/huggingface/transformers): Hugging Face Transformers is a model-definition framework for state-of-the-art machine learning models across text, vision, audio, and multimodal domains for both inference and training.
 - [jax-ml/jax](https://github.com/jax-ml/jax): A Python library for high-performance numerical computation, offering composable transformations like automatic differentiation and JIT compilation to accelerate scientific and machine learning workloads.
+- [jax-ml/jax](https://github.com/jax-ml/jax): A high-performance Python library for numerical computation, enabling automatic differentiation, JIT compilation, and vectorization for machine learning research.
 
 ## Computer Vision Models
 - [roboflow/rf-detr](https://github.com/roboflow/rf-detr): RF-DETR is a state-of-the-art real-time object detection and segmentation model architecture developed by Roboflow, optimized for fine-tuning.
@@ -1568,4 +1570,13 @@ Last Updated: 2026-02-17
 
 ## Large Language Model Resources
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook): A comprehensive guide and collection of examples for building applications with the Llama model family, covering topics like inference, fine-tuning, and RAG implementations.
+
+## Awesome Lists
+- [n2cholas/awesome-jax](https://github.com/n2cholas/awesome-jax): An awesome list compiling a curated collection of resources, tools, and projects related to the JAX machine learning framework.
+
+## Machine Learning Models
+- [MiniMax-AI/MiniMax-M2.5](https://github.com/MiniMax-AI/MiniMax-M2.5): A repository from MiniMax-AI likely related to a specific artificial intelligence model or system, possibly for research or application.
+
+## Large Language Models
+- [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook): A comprehensive guide and collection of recipes for building applications and solving problems using the Llama family of large language models, covering inference, fine-tuning, and RAG.
 
