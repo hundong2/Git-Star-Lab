@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-02-18
+Last Updated: 2026-02-19
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -587,6 +587,8 @@ Last Updated: 2026-02-18
 - [OPPO-PersonalAI/OAgents](https://github.com/OPPO-PersonalAI/OAgents): Provides the implementation for "OAgents," an empirical study focused on building effective AI agents.
 - [PathOnAIOrg/LiteWebAgent](https://github.com/PathOnAIOrg/LiteWebAgent): An open-source suite, LiteWebAgent, for developing VLM-based web agent applications.
 - [nanoclaw](https://github.com/qwibitai/nanoclaw): This project is a lightweight, secure AI agent that integrates with WhatsApp, offers memory and scheduled jobs, and runs on Anthropic's Agents SDK within Apple containers.
+- [unitedbyai/droidclaw](https://github.com/unitedbyai/droidclaw): This repository enables users to transform old phones into AI agents capable of performing tasks by interpreting the screen and interacting via ADB based on plain English goals.
+- [precious112/prism-ai-deep-research](https://github.com/precious112/prism-ai-deep-research): This project offers an open-source deep research and learning agent that orchestrates autonomous researchers using LangGraph, Python, and Next.js, serving as an alternative to tools like Perplexity Pro.
 
 ## AI Development Tools/Libraries
 - [BerriAI/litellm](https://github.com/BerriAI/litellm): A Python SDK and proxy server that provides a unified interface for calling over 100 LLM APIs with features like cost tracking and load balancing.
@@ -1248,6 +1250,7 @@ Last Updated: 2026-02-18
 - [davisking/dlib](https://github.com/davisking/dlib): A comprehensive C++ toolkit for building real-world machine learning and data analysis applications.
 - [opencv/opencv](https://github.com/opencv/opencv): The Open Source Computer Vision Library for various image and video processing tasks.
 - [Labellerr/Hands-On-Learning-in-Computer-Vision](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision): A practical resource offering hands-on learning materials for understanding and applying computer vision concepts.
+- [Labellerr/Hands-On-Learning-in-Computer-Vision](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision): This repository provides practical, hands-on learning resources and materials specifically for the field of Computer Vision.
 
 ## Data Serialization & RPC
 - [capnproto/capnproto](https://github.com/capnproto/capnproto): A data interchange format and RPC system, providing core tools and a C++ library.
