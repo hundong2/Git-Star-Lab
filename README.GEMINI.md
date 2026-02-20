@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-02-19
+Last Updated: 2026-02-20
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1582,4 +1582,14 @@ Last Updated: 2026-02-19
 
 ## Large Language Models
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook): A comprehensive guide and collection of recipes for building applications and solving problems using the Llama family of large language models, covering inference, fine-tuning, and RAG.
+- [THUDM/GLM](https://github.com/THUDM/GLM): This repository contains the General Language Model (GLM), a foundational large language model developed by THUDM.
+
+## AI Productivity Tools
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi): A local, open-source coworking application that integrates with various AI models like Gemini, Claude, and Codex to enhance productivity.
+
+## AI Agents & Automation
+- [unitedbyai/droidclaw](https://github.com/unitedbyai/droidclaw): A tool that transforms old phones into AI agents capable of performing tasks by reading the screen, thinking, and interacting via ADB based on natural language goals.
+
+## AI Research Agents
+- [precious112/prism-ai-deep-research](https://github.com/precious112/prism-ai-deep-research): An open-source, autonomous AI research and learning agent that orchestrates virtual researchers to provide a Perplexity Pro alternative for deep research.
 
