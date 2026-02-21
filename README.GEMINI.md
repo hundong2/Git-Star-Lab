@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-02-20
+Last Updated: 2026-02-21
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1455,6 +1455,7 @@ Last Updated: 2026-02-20
 ## AI Tools
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex): PageIndex provides a document indexing solution tailored for vectorless, reasoning-based Retrieval Augmented Generation (RAG) systems.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem): This Claude Code plugin automates the capture, compression, and injection of contextual memory from AI coding sessions to enhance future interactions.
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi): This repository offers a free, local, open-source 24/7 cowork app and OpenClaw for integrating with various large language models and coding assistants.
 
 ## AI Agent Tools
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator): A visual tool to annotate, review, share, and provide feedback on coding agent plans for teams.
@@ -1507,6 +1508,8 @@ Last Updated: 2026-02-20
 ## Machine Learning
 - [automl/nanoTabPFN](https://github.com/automl/nanoTabPFN): This project is a lightweight and educational reimplementation of the TabPFN model for automated machine learning.
 - [NVlabs/alpamayo](https://github.com/NVlabs/alpamayo): A framework for creating and deploying distributed machine learning pipelines and workflows.
+- [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash): This repository provides a fast, sharp, and reliable agentic intelligence system.
+- [THUDM/GLM](https://github.com/THUDM/GLM): This project implements GLM, a General Language Model for various natural language processing tasks.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
