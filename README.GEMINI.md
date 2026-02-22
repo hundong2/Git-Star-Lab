@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-02-21
+Last Updated: 2026-02-22
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1595,4 +1595,10 @@ Last Updated: 2026-02-21
 
 ## AI Research Agents
 - [precious112/prism-ai-deep-research](https://github.com/precious112/prism-ai-deep-research): An open-source, autonomous AI research and learning agent that orchestrates virtual researchers to provide a Perplexity Pro alternative for deep research.
+
+## AI/Machine Learning Tools
+- [Frayo44/agent-view](https://github.com/Frayo44/agent-view): A tool likely designed for visualizing and interacting with agents, possibly in an AI or automation context.
+
+## Web Machine Learning
+- [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp): A project focused on integrating and utilizing machine learning capabilities within web environments, as indicated by its name and organization.
 
