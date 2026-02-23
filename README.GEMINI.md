@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-02-22
+Last Updated: 2026-02-23
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1510,6 +1510,8 @@ Last Updated: 2026-02-22
 - [NVlabs/alpamayo](https://github.com/NVlabs/alpamayo): A framework for creating and deploying distributed machine learning pipelines and workflows.
 - [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash): This repository provides a fast, sharp, and reliable agentic intelligence system.
 - [THUDM/GLM](https://github.com/THUDM/GLM): This project implements GLM, a General Language Model for various natural language processing tasks.
+- [BasedHardware/omi](https://github.com/BasedHardware/omi): This project focuses on AI-powered wearable devices designed for automatic speech transcription.
+- [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp): This project, WebMCP, is developed by webmachinelearning and likely focuses on machine learning applications for the web.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
@@ -1601,4 +1603,10 @@ Last Updated: 2026-02-22
 
 ## Web Machine Learning
 - [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp): A project focused on integrating and utilizing machine learning capabilities within web environments, as indicated by its name and organization.
+
+## Libraries & Tools
+- [doblak/ndtw](https://github.com/doblak/ndtw): This repository provides a C# implementation of the Dynamic Time Warping (DTW) algorithm for .NET applications.
+
+## Software Development
+- [Frayo44/agent-view](https://github.com/Frayo44/agent-view): This repository appears to be related to creating a viewing interface for an agent system, though specific details are unavailable.
 
