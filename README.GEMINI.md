@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-02-23
+Last Updated: 2026-02-24
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1501,6 +1501,7 @@ Last Updated: 2026-02-23
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono): This is a comprehensive AI agent toolkit featuring a coding agent CLI, a unified LLM API, UI libraries, and a Slack bot.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code): This terminal-based agentic coding tool, powered by Claude, assists developers by understanding codebases, automating tasks, and managing git workflows via natural language.
 - [claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python): This repository provides a Python SDK for building and interacting with AI agents powered by Anthropic's Claude model.
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev): ChatDev leverages LLM-powered multi-agent collaboration to automate and streamline the entire software development process.
 
 ## AI Projects
 - [haeggee/hot-mess-of-ai](https://github.com/haeggee/hot-mess-of-ai): This repository appears to be a collection or experiment related to artificial intelligence.
@@ -1609,4 +1610,10 @@ Last Updated: 2026-02-23
 
 ## Software Development
 - [Frayo44/agent-view](https://github.com/Frayo44/agent-view): This repository appears to be related to creating a viewing interface for an agent system, though specific details are unavailable.
+
+## Productivity Tools
+- [cpcloud/micasa](https://github.com/cpcloud/micasa): This TUI application helps users manage home-related tasks, appliances, and vendor information.
+
+## AI Wearables
+- [BasedHardware/omi](https://github.com/BasedHardware/omi): Omi is an AI-powered wearable device designed for convenient voice transcription and interaction.
 
