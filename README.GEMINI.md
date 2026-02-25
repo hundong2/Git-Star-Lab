@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-02-24
+Last Updated: 2026-02-25
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1573,6 +1573,7 @@ Last Updated: 2026-02-24
 
 ## Artificial Intelligence
 - [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python): A Python SDK for developing and interacting with Claude AI agents.
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev): A multi-agent collaboration system powered by Large Language Models (LLMs) to facilitate comprehensive software development.
 
 ## Artificial Intelligence Models
 - [MiniMax-AI/MiniMax-M2.5](https://github.com/MiniMax-AI/MiniMax-M2.5): This repository from MiniMax-AI likely hosts an artificial intelligence model, potentially a large language model or a related AI system, though specific details are unavailable.
@@ -1613,7 +1614,14 @@ Last Updated: 2026-02-24
 
 ## Productivity Tools
 - [cpcloud/micasa](https://github.com/cpcloud/micasa): This TUI application helps users manage home-related tasks, appliances, and vendor information.
+- [cpcloud/micasa](https://github.com/cpcloud/micasa): A modal Terminal User Interface (TUI) for tracking home projects, maintenance schedules, appliances, and vendor quotes.
 
 ## AI Wearables
 - [BasedHardware/omi](https://github.com/BasedHardware/omi): Omi is an AI-powered wearable device designed for convenient voice transcription and interaction.
+
+## Development Templates & Tools
+- [glaforge/adk-java-maven-template](https://github.com/glaforge/adk-java-maven-template): A project template to quickly start developing Java agents using ADK and Maven.
+
+## Virtual Environments & Simulations
+- [pablodelucca/pixel-agents](https://github.com/pablodelucca/pixel-agents): A project creating a "pixel office," likely involving virtual agents or a simulated environment.
 
