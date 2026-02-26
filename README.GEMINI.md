@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-02-25
+Last Updated: 2026-02-26
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1624,4 +1624,7 @@ Last Updated: 2026-02-25
 
 ## Virtual Environments & Simulations
 - [pablodelucca/pixel-agents](https://github.com/pablodelucca/pixel-agents): A project creating a "pixel office," likely involving virtual agents or a simulated environment.
+
+## Project Templates
+- [glaforge/adk-java-maven-template](https://github.com/glaforge/adk-java-maven-template): This repository offers a Maven-based project template to quickly start developing agents with the ADK for Java.
 
