@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-02-26
+Last Updated: 2026-02-27
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1456,6 +1456,7 @@ Last Updated: 2026-02-26
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex): PageIndex provides a document indexing solution tailored for vectorless, reasoning-based Retrieval Augmented Generation (RAG) systems.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem): This Claude Code plugin automates the capture, compression, and injection of contextual memory from AI coding sessions to enhance future interactions.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi): This repository offers a free, local, open-source 24/7 cowork app and OpenClaw for integrating with various large language models and coding assistants.
+- [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude): This repository provides an autonomous AI system designed to perform multi-session coding tasks.
 
 ## AI Agent Tools
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator): A visual tool to annotate, review, share, and provide feedback on coding agent plans for teams.
@@ -1627,4 +1628,7 @@ Last Updated: 2026-02-26
 
 ## Project Templates
 - [glaforge/adk-java-maven-template](https://github.com/glaforge/adk-java-maven-template): This repository offers a Maven-based project template to quickly start developing agents with the ADK for Java.
+
+## Simulation
+- [nvidia-cosmos/cosmos-transfer2.5](https://github.com/nvidia-cosmos/cosmos-transfer2.5): This repository offers a system for producing high-quality world simulations conditioned on multiple spatial control inputs.
 
