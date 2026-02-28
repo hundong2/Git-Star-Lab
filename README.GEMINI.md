@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-02-27
+Last Updated: 2026-02-28
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1503,6 +1503,7 @@ Last Updated: 2026-02-27
 - [anthropics/claude-code](https://github.com/anthropics/claude-code): This terminal-based agentic coding tool, powered by Claude, assists developers by understanding codebases, automating tasks, and managing git workflows via natural language.
 - [claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python): This repository provides a Python SDK for building and interacting with AI agents powered by Anthropic's Claude model.
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev): ChatDev leverages LLM-powered multi-agent collaboration to automate and streamline the entire software development process.
+- [Auto-Claude](https://github.com/AndyMik90/Auto-Claude): This repository offers an autonomous system for multi-session AI-driven code generation.
 
 ## AI Projects
 - [haeggee/hot-mess-of-ai](https://github.com/haeggee/hot-mess-of-ai): This repository appears to be a collection or experiment related to artificial intelligence.
@@ -1631,4 +1632,7 @@ Last Updated: 2026-02-27
 
 ## Simulation
 - [nvidia-cosmos/cosmos-transfer2.5](https://github.com/nvidia-cosmos/cosmos-transfer2.5): This repository offers a system for producing high-quality world simulations conditioned on multiple spatial control inputs.
+
+## Simulation & Modeling
+- [cosmos-transfer2.5](https://github.com/nvidia-cosmos/cosmos-transfer2.5): This project produces high-quality world simulations by conditioning on multiple spatial control inputs, building on Cosmos-Predict2.5.
 
