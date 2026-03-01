@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-02-28
+Last Updated: 2026-03-01
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1635,4 +1635,8 @@ Last Updated: 2026-02-28
 
 ## Simulation & Modeling
 - [cosmos-transfer2.5](https://github.com/nvidia-cosmos/cosmos-transfer2.5): This project produces high-quality world simulations by conditioning on multiple spatial control inputs, building on Cosmos-Predict2.5.
+
+## Edge AI
+- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine): This repository offers a fast and accurate automatic speech recognition (ASR) solution specifically optimized for edge devices.
+- [google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT): LiteRT is Google's on-device framework for high-performance deployment and optimization of machine learning and generative AI models on edge platforms.
 
