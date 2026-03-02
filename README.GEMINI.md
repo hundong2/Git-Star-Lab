@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-01
+Last Updated: 2026-03-02
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1639,4 +1639,6 @@ Last Updated: 2026-03-01
 ## Edge AI
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine): This repository offers a fast and accurate automatic speech recognition (ASR) solution specifically optimized for edge devices.
 - [google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT): LiteRT is Google's on-device framework for high-performance deployment and optimization of machine learning and generative AI models on edge platforms.
+- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine): This repository offers a fast and accurate automatic speech recognition (ASR) solution specifically designed for deployment on edge devices.
+- [google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT): LiteRT is Google's on-device framework for efficient, high-performance deployment of Machine Learning and Generative AI models on edge platforms, succeeding TensorFlow Lite.
 
