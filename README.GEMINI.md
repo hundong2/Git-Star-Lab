@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-02
+Last Updated: 2026-03-03
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1515,6 +1515,7 @@ Last Updated: 2026-03-02
 - [THUDM/GLM](https://github.com/THUDM/GLM): This project implements GLM, a General Language Model for various natural language processing tasks.
 - [BasedHardware/omi](https://github.com/BasedHardware/omi): This project focuses on AI-powered wearable devices designed for automatic speech transcription.
 - [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp): This project, WebMCP, is developed by webmachinelearning and likely focuses on machine learning applications for the web.
+- [RotoAI](https://github.com/sPappalard/RotoAI): RotoAI is an open-source studio for prompt-driven video segmentation, powered by SAM2 and Grounding DINO with a hybrid cloud-local architecture.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
@@ -1641,4 +1642,7 @@ Last Updated: 2026-03-02
 - [google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT): LiteRT is Google's on-device framework for high-performance deployment and optimization of machine learning and generative AI models on edge platforms.
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine): This repository offers a fast and accurate automatic speech recognition (ASR) solution specifically designed for deployment on edge devices.
 - [google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT): LiteRT is Google's on-device framework for efficient, high-performance deployment of Machine Learning and Generative AI models on edge platforms, succeeding TensorFlow Lite.
+
+## Unspecified Project
+- [way-back-home](https://github.com/google-americas/way-back-home): This repository has a very minimal description, making its specific purpose unclear beyond being a project titled "Way Back Home".
 
