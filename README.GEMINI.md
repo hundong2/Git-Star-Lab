@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-03
+Last Updated: 2026-03-04
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1586,6 +1586,7 @@ Last Updated: 2026-03-03
 
 ## Awesome Lists
 - [n2cholas/awesome-jax](https://github.com/n2cholas/awesome-jax): An awesome list compiling a curated collection of resources, tools, and projects related to the JAX machine learning framework.
+- [Uzaaft/awesome-libghostty](https://github.com/Uzaaft/awesome-libghostty): A curated list of resources, tools, and libraries related to `libghostty`.
 
 ## Machine Learning Models
 - [MiniMax-AI/MiniMax-M2.5](https://github.com/MiniMax-AI/MiniMax-M2.5): A repository from MiniMax-AI likely related to a specific artificial intelligence model or system, possibly for research or application.
@@ -1645,4 +1646,13 @@ Last Updated: 2026-03-03
 
 ## Unspecified Project
 - [way-back-home](https://github.com/google-americas/way-back-home): This repository has a very minimal description, making its specific purpose unclear beyond being a project titled "Way Back Home".
+
+## CLI Tools
+- [steipete/gogcli](https://github.com/steipete/gogcli): A command-line interface tool designed to manage various Google Suite services including Gmail, Calendar, Drive, and Contacts.
+
+## Software Projects
+- [google-americas/way-back-home](https://github.com/google-americas/way-back-home): A software project from Google Americas named "Way Back Home," for which specific technical details or purpose are not provided.
+
+## AI/Computer Vision Tools
+- [sPappalard/RotoAI](https://github.com/sPappalard/RotoAI): An open-source studio for prompt-driven video segmentation, utilizing advanced models like SAM2 and Grounding DINO in a hybrid cloud-local architecture.
 
