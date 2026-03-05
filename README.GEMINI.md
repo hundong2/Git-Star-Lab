@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-04
+Last Updated: 2026-03-05
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1457,6 +1457,7 @@ Last Updated: 2026-03-04
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem): This Claude Code plugin automates the capture, compression, and injection of contextual memory from AI coding sessions to enhance future interactions.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi): This repository offers a free, local, open-source 24/7 cowork app and OpenClaw for integrating with various large language models and coding assistants.
 - [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude): This repository provides an autonomous AI system designed to perform multi-session coding tasks.
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser): This project provides a command-line interface for automating browser interactions specifically designed for AI agents.
 
 ## AI Agent Tools
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator): A visual tool to annotate, review, share, and provide feedback on coding agent plans for teams.
@@ -1516,6 +1517,7 @@ Last Updated: 2026-03-04
 - [BasedHardware/omi](https://github.com/BasedHardware/omi): This project focuses on AI-powered wearable devices designed for automatic speech transcription.
 - [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp): This project, WebMCP, is developed by webmachinelearning and likely focuses on machine learning applications for the web.
 - [RotoAI](https://github.com/sPappalard/RotoAI): RotoAI is an open-source studio for prompt-driven video segmentation, powered by SAM2 and Grounding DINO with a hybrid cloud-local architecture.
+- [mikexcohen/ML4LLM_book](https://github.com/mikexcohen/ML4LLM_book): This repository provides code and materials for a book focused on understanding Large Language Models through practical machine learning projects.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
@@ -1587,6 +1589,7 @@ Last Updated: 2026-03-04
 ## Awesome Lists
 - [n2cholas/awesome-jax](https://github.com/n2cholas/awesome-jax): An awesome list compiling a curated collection of resources, tools, and projects related to the JAX machine learning framework.
 - [Uzaaft/awesome-libghostty](https://github.com/Uzaaft/awesome-libghostty): A curated list of resources, tools, and libraries related to `libghostty`.
+- [Uzaaft/awesome-libghostty](https://github.com/Uzaaft/awesome-libghostty): A curated list of resources related to `libghostty`, following the common "awesome list" convention.
 
 ## Machine Learning Models
 - [MiniMax-AI/MiniMax-M2.5](https://github.com/MiniMax-AI/MiniMax-M2.5): A repository from MiniMax-AI likely related to a specific artificial intelligence model or system, possibly for research or application.
@@ -1643,12 +1646,15 @@ Last Updated: 2026-03-04
 - [google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT): LiteRT is Google's on-device framework for high-performance deployment and optimization of machine learning and generative AI models on edge platforms.
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine): This repository offers a fast and accurate automatic speech recognition (ASR) solution specifically designed for deployment on edge devices.
 - [google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT): LiteRT is Google's on-device framework for efficient, high-performance deployment of Machine Learning and Generative AI models on edge platforms, succeeding TensorFlow Lite.
+- [vini-muchulski/ESP32_AI_at_the_edge](https://github.com/vini-muchulski/ESP32_AI_at_the_edge): This project focuses on implementing Artificial Intelligence directly on ESP32 microcontrollers for edge computing applications.
 
 ## Unspecified Project
 - [way-back-home](https://github.com/google-americas/way-back-home): This repository has a very minimal description, making its specific purpose unclear beyond being a project titled "Way Back Home".
 
 ## CLI Tools
 - [steipete/gogcli](https://github.com/steipete/gogcli): A command-line interface tool designed to manage various Google Suite services including Gmail, Calendar, Drive, and Contacts.
+- [googleworkspace/cli](https://github.com/googleworkspace/cli): A comprehensive command-line interface tool for managing various Google Workspace services, including AI agent functionalities.
+- [steipete/gogcli](https://github.com/steipete/gogcli): This is a command-line interface tool designed for interacting with Google Suite services such as Gmail, Calendar, Drive, and Contacts.
 
 ## Software Projects
 - [google-americas/way-back-home](https://github.com/google-americas/way-back-home): A software project from Google Americas named "Way Back Home," for which specific technical details or purpose are not provided.
