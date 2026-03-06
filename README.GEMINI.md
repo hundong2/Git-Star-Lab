@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-05
+Last Updated: 2026-03-06
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1505,6 +1505,7 @@ Last Updated: 2026-03-05
 - [claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python): This repository provides a Python SDK for building and interacting with AI agents powered by Anthropic's Claude model.
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev): ChatDev leverages LLM-powered multi-agent collaboration to automate and streamline the entire software development process.
 - [Auto-Claude](https://github.com/AndyMik90/Auto-Claude): This repository offers an autonomous system for multi-session AI-driven code generation.
+- [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex): This project offers enhancements for "codex" with features like hooks, agent teams, and HUDs.
 
 ## AI Projects
 - [haeggee/hot-mess-of-ai](https://github.com/haeggee/hot-mess-of-ai): This repository appears to be a collection or experiment related to artificial intelligence.
@@ -1562,6 +1563,7 @@ Last Updated: 2026-03-05
 ## Tools
 - [binbinsh/zotero-easytrans](https://github.com/binbinsh/zotero-easytrans): This is an offline translation plugin for Zotero 8, leveraging an on-device AI model for translations.
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew): This project offers an experimental, significantly faster alternative to the Homebrew package manager for macOS.
+- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py): This repository provides an unofficial Python API for interacting with Google NotebookLM.
 
 ## Web Development / AI
 - [GoogleChromeLabs/web-ai-demos](https://github.com/GoogleChromeLabs/web-ai-demos): This repository from Google Chrome Labs showcases demonstrations of integrating and utilizing AI capabilities directly within web browsers.
@@ -1647,6 +1649,7 @@ Last Updated: 2026-03-05
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine): This repository offers a fast and accurate automatic speech recognition (ASR) solution specifically designed for deployment on edge devices.
 - [google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT): LiteRT is Google's on-device framework for efficient, high-performance deployment of Machine Learning and Generative AI models on edge platforms, succeeding TensorFlow Lite.
 - [vini-muchulski/ESP32_AI_at_the_edge](https://github.com/vini-muchulski/ESP32_AI_at_the_edge): This project focuses on implementing Artificial Intelligence directly on ESP32 microcontrollers for edge computing applications.
+- [vini-muchulski/ESP32_AI_at_the_edge](https://github.com/vini-muchulski/ESP32_AI_at_the_edge): This project explores the implementation of Artificial Intelligence models on ESP32 microcontrollers for edge computing.
 
 ## Unspecified Project
 - [way-back-home](https://github.com/google-americas/way-back-home): This repository has a very minimal description, making its specific purpose unclear beyond being a project titled "Way Back Home".
@@ -1655,10 +1658,17 @@ Last Updated: 2026-03-05
 - [steipete/gogcli](https://github.com/steipete/gogcli): A command-line interface tool designed to manage various Google Suite services including Gmail, Calendar, Drive, and Contacts.
 - [googleworkspace/cli](https://github.com/googleworkspace/cli): A comprehensive command-line interface tool for managing various Google Workspace services, including AI agent functionalities.
 - [steipete/gogcli](https://github.com/steipete/gogcli): This is a command-line interface tool designed for interacting with Google Suite services such as Gmail, Calendar, Drive, and Contacts.
+- [googleworkspace/cli](https://github.com/googleworkspace/cli): This is a comprehensive command-line interface for managing various Google Workspace services, including AI agent functionalities.
 
 ## Software Projects
 - [google-americas/way-back-home](https://github.com/google-americas/way-back-home): A software project from Google Americas named "Way Back Home," for which specific technical details or purpose are not provided.
 
 ## AI/Computer Vision Tools
 - [sPappalard/RotoAI](https://github.com/sPappalard/RotoAI): An open-source studio for prompt-driven video segmentation, utilizing advanced models like SAM2 and Grounding DINO in a hybrid cloud-local architecture.
+
+## AI Research
+- [aloshdenny/reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID): This repository focuses on reverse engineering Google Gemini's SynthID detection mechanism.
+
+## Machine Learning Education
+- [mikexcohen/ML4LLM_book](https://github.com/mikexcohen/ML4LLM_book): This repository contains code and materials accompanying a book on 50 machine learning projects designed to help understand LLMs.
 
