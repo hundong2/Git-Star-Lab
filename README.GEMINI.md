@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-06
+Last Updated: 2026-03-07
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -275,6 +275,7 @@ Last Updated: 2026-03-06
 - [twbs/bootstrap](https://github.com/twbs/bootstrap): The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first web projects.
 - [vuejs/vue](https://github.com/vuejs/vue): The repository for Vue.js version 2, a progressive JavaScript framework for building user interfaces.
 - [GoogleChromeLabs/web-ai-demos](https://github.com/GoogleChromeLabs/web-ai-demos): A collection of demonstrations exploring the integration and execution of artificial intelligence models directly within web browsers.
+- [Yeachan-Heo/oh-my-codex-website](https://github.com/Yeachan-Heo/oh-my-codex-website): This is the GitHub Pages website providing documentation and information for the "oh-my-codex" multi-agent orchestration tool.
 
 ## Workflow & Automation
 - [AppiumTestDistribution/appium-device-farm](https://github.com/AppiumTestDistribution/appium-device-farm): An Appium 2.0 plugin that manages and creates driver sessions on available mobile devices for testing.
@@ -1458,6 +1459,10 @@ Last Updated: 2026-03-06
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi): This repository offers a free, local, open-source 24/7 cowork app and OpenClaw for integrating with various large language models and coding assistants.
 - [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude): This repository provides an autonomous AI system designed to perform multi-session coding tasks.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser): This project provides a command-line interface for automating browser interactions specifically designed for AI agents.
+- [Yeachan-Heo/oh-my-gemini](https://github.com/Yeachan-Heo/oh-my-gemini): This repository likely provides a utility or interface for interacting with Google Gemini, similar to the "oh-my-codex" project.
+- [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext): This project provides an MCP server and CLI tool to index local code into a graph database, offering context for AI assistants.
+- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py): This repository offers an unofficial Python API client for interacting with Google NotebookLM.
+- [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex): Oh My codeX (OmX) enhances the OpenAI Codex CLI by adding features like hooks, agent teams, and HUDs for multi-agent orchestration.
 
 ## AI Agent Tools
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator): A visual tool to annotate, review, share, and provide feedback on coding agent plans for teams.
@@ -1671,4 +1676,10 @@ Last Updated: 2026-03-06
 
 ## Machine Learning Education
 - [mikexcohen/ML4LLM_book](https://github.com/mikexcohen/ML4LLM_book): This repository contains code and materials accompanying a book on 50 machine learning projects designed to help understand LLMs.
+
+## Network & Security Tools
+- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx): httpx is a fast and versatile HTTP toolkit designed for running multiple probes using the retryablehttp library.
+
+## Reverse Engineering & AI Security
+- [aloshdenny/reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID): This project focuses on reverse engineering Google Gemini's SynthID detection mechanism.
 
