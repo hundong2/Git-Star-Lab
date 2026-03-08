@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-07
+Last Updated: 2026-03-08
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -276,6 +276,7 @@ Last Updated: 2026-03-07
 - [vuejs/vue](https://github.com/vuejs/vue): The repository for Vue.js version 2, a progressive JavaScript framework for building user interfaces.
 - [GoogleChromeLabs/web-ai-demos](https://github.com/GoogleChromeLabs/web-ai-demos): A collection of demonstrations exploring the integration and execution of artificial intelligence models directly within web browsers.
 - [Yeachan-Heo/oh-my-codex-website](https://github.com/Yeachan-Heo/oh-my-codex-website): This is the GitHub Pages website providing documentation and information for the "oh-my-codex" multi-agent orchestration tool.
+- [Yeachan-Heo/oh-my-codex-website](https://github.com/Yeachan-Heo/oh-my-codex-website): This repository hosts the GitHub Pages website for "oh-my-codex," a tool for multi-agent orchestration of the OpenAI Codex CLI.
 
 ## Workflow & Automation
 - [AppiumTestDistribution/appium-device-farm](https://github.com/AppiumTestDistribution/appium-device-farm): An Appium 2.0 plugin that manages and creates driver sessions on available mobile devices for testing.
@@ -1463,6 +1464,8 @@ Last Updated: 2026-03-07
 - [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext): This project provides an MCP server and CLI tool to index local code into a graph database, offering context for AI assistants.
 - [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py): This repository offers an unofficial Python API client for interacting with Google NotebookLM.
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex): Oh My codeX (OmX) enhances the OpenAI Codex CLI by adding features like hooks, agent teams, and HUDs for multi-agent orchestration.
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official): This is the official, Anthropic-managed directory containing high-quality code plugins for the Claude AI model.
+- [Yeachan-Heo/oh-my-gemini](https://github.com/Yeachan-Heo/oh-my-gemini): This project likely provides a utility or wrapper for interacting with Google's Gemini AI model.
 
 ## AI Agent Tools
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator): A visual tool to annotate, review, share, and provide feedback on coding agent plans for teams.
