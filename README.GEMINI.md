@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-08
+Last Updated: 2026-03-09
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1501,6 +1501,7 @@ Last Updated: 2026-03-08
 
 ## AI Infrastructure
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway): This project provides a next-generation agentic proxy designed for AI agents and MCP servers.
+- [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang): An open-source operating system designed to manage and orchestrate AI agents.
 
 ## Cloud & Networking
 - [microsoft/mcp-gateway](https://github.com/microsoft/mcp-gateway): This repository offers a reverse proxy and management layer for MCP servers, enabling scalable and stateful routing in Kubernetes environments.
@@ -1685,4 +1686,7 @@ Last Updated: 2026-03-08
 
 ## Reverse Engineering & AI Security
 - [aloshdenny/reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID): This project focuses on reverse engineering Google Gemini's SynthID detection mechanism.
+
+## AI Tools & Plugins
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official): An official, Anthropic-managed directory of high-quality plugins to extend the functionality of the Claude AI model.
 
