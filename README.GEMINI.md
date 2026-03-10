@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-09
+Last Updated: 2026-03-10
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1253,6 +1253,7 @@ Last Updated: 2026-03-09
 - [opencv/opencv](https://github.com/opencv/opencv): The Open Source Computer Vision Library for various image and video processing tasks.
 - [Labellerr/Hands-On-Learning-in-Computer-Vision](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision): A practical resource offering hands-on learning materials for understanding and applying computer vision concepts.
 - [Labellerr/Hands-On-Learning-in-Computer-Vision](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision): This repository provides practical, hands-on learning resources and materials specifically for the field of Computer Vision.
+- [Robertleoj/lensboy](https://github.com/Robertleoj/lensboy): Lensboy is a camera calibration library offering powerful spline and parametric distortion models.
 
 ## Data Serialization & RPC
 - [capnproto/capnproto](https://github.com/capnproto/capnproto): A data interchange format and RPC system, providing core tools and a C++ library.
@@ -1502,6 +1503,7 @@ Last Updated: 2026-03-09
 ## AI Infrastructure
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway): This project provides a next-generation agentic proxy designed for AI agents and MCP servers.
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang): An open-source operating system designed to manage and orchestrate AI agents.
+- [andrewyng/context-hub](https://github.com/andrewyng/context-hub): This repository appears to be a hub for managing or aggregating contextual information, likely for AI systems.
 
 ## Cloud & Networking
 - [microsoft/mcp-gateway](https://github.com/microsoft/mcp-gateway): This repository offers a reverse proxy and management layer for MCP servers, enabling scalable and stateful routing in Kubernetes environments.
@@ -1689,4 +1691,13 @@ Last Updated: 2026-03-09
 
 ## AI Tools & Plugins
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official): An official, Anthropic-managed directory of high-quality plugins to extend the functionality of the Claude AI model.
+
+## Standards & Specifications
+- [c2pa-org/specifications](https://github.com/c2pa-org/specifications): This repository contains the public specifications for the C2PA standard.
+
+## Tools & Utilities
+- [jaredpalmer/mogcli](https://github.com/jaredpalmer/mogcli): Mogcli is an agent-friendly command-line interface for managing Microsoft 365.
+
+## AI/Agent Systems
+- [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang): Openfang is an open-source operating system specifically designed for AI agents.
 
