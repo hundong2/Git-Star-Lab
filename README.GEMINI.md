@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-10
+Last Updated: 2026-03-11
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1254,6 +1254,7 @@ Last Updated: 2026-03-10
 - [Labellerr/Hands-On-Learning-in-Computer-Vision](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision): A practical resource offering hands-on learning materials for understanding and applying computer vision concepts.
 - [Labellerr/Hands-On-Learning-in-Computer-Vision](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision): This repository provides practical, hands-on learning resources and materials specifically for the field of Computer Vision.
 - [Robertleoj/lensboy](https://github.com/Robertleoj/lensboy): Lensboy is a camera calibration library offering powerful spline and parametric distortion models.
+- [Robertleoj/lensboy](https://github.com/Robertleoj/lensboy): A camera calibration library offering powerful spline and parametric distortion models for precise image correction.
 
 ## Data Serialization & RPC
 - [capnproto/capnproto](https://github.com/capnproto/capnproto): A data interchange format and RPC system, providing core tools and a C++ library.
@@ -1467,6 +1468,7 @@ Last Updated: 2026-03-10
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex): Oh My codeX (OmX) enhances the OpenAI Codex CLI by adding features like hooks, agent teams, and HUDs for multi-agent orchestration.
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official): This is the official, Anthropic-managed directory containing high-quality code plugins for the Claude AI model.
 - [Yeachan-Heo/oh-my-gemini](https://github.com/Yeachan-Heo/oh-my-gemini): This project likely provides a utility or wrapper for interacting with Google's Gemini AI model.
+- [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex): A remote control application designed for managing and interacting with Codex, likely an AI coding assistant.
 
 ## AI Agent Tools
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator): A visual tool to annotate, review, share, and provide feedback on coding agent plans for teams.
@@ -1588,6 +1590,7 @@ Last Updated: 2026-03-10
 
 ## AI Applications
 - [nanoclaw](https://github.com/qwibitai/nanoclaw): This project offers a lightweight AI agent, built on Anthropic's Agents SDK, that connects to WhatsApp with memory and scheduled job capabilities, running securely in Apple containers.
+- [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog): An AI-powered ecosystem utilizing Claude for creating, optimizing, and managing blog content with dual-optimization for Google rankings and AI citations.
 
 ## Artificial Intelligence
 - [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python): A Python SDK for developing and interacting with Claude AI agents.
@@ -1694,10 +1697,14 @@ Last Updated: 2026-03-10
 
 ## Standards & Specifications
 - [c2pa-org/specifications](https://github.com/c2pa-org/specifications): This repository contains the public specifications for the C2PA standard.
+- [c2pa-org/specifications](https://github.com/c2pa-org/specifications): This repository contains the official public specifications for the Content Authenticity Initiative (C2PA).
 
 ## Tools & Utilities
 - [jaredpalmer/mogcli](https://github.com/jaredpalmer/mogcli): Mogcli is an agent-friendly command-line interface for managing Microsoft 365.
 
 ## AI/Agent Systems
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang): Openfang is an open-source operating system specifically designed for AI agents.
+
+## Command Line Tools
+- [jaredpalmer/mogcli](https://github.com/jaredpalmer/mogcli): An agent-friendly command-line interface (CLI) for interacting with Microsoft 365 services.
 
