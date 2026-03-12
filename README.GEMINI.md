@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-11
+Last Updated: 2026-03-12
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -943,6 +943,7 @@ Last Updated: 2026-03-11
 - [DeskHog](https://github.com/PostHog/DeskHog): A developer toy designed to bring joy and utility to developers.
 - [hurl](https://github.com/Orange-OpenSource/hurl): A command-line tool for running and testing HTTP requests defined in plain text.
 - [beheshty/SetSharp](https://github.com/beheshty/SetSharp): A C# source generator that automatically creates strongly-typed settings classes from `appsettings.json` files, eliminating boilerplate.
+- [flamestro/deff](https://github.com/flamestro/deff): Deff provides an interactive, side-by-side file review interface for git diffs with enhanced navigation and display features.
 
 ## Programming & Libraries
 - [zerocopy](https://github.com/google/zerocopy): A library that enables zero-cost memory manipulation by abstracting unsafe code.
@@ -1519,6 +1520,8 @@ Last Updated: 2026-03-11
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev): ChatDev leverages LLM-powered multi-agent collaboration to automate and streamline the entire software development process.
 - [Auto-Claude](https://github.com/AndyMik90/Auto-Claude): This repository offers an autonomous system for multi-session AI-driven code generation.
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex): This project offers enhancements for "codex" with features like hooks, agent teams, and HUDs.
+- [superset-sh/superset](https://github.com/superset-sh/superset): An IDE designed for developing and managing AI agents like Claude Code and Codex on a local machine.
+- [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex): This project offers a remote control interface for OpenAI's Codex, with plans for a 24/7 version.
 
 ## AI Projects
 - [haeggee/hot-mess-of-ai](https://github.com/haeggee/hot-mess-of-ai): This repository appears to be a collection or experiment related to artificial intelligence.
@@ -1707,4 +1710,19 @@ Last Updated: 2026-03-11
 
 ## Command Line Tools
 - [jaredpalmer/mogcli](https://github.com/jaredpalmer/mogcli): An agent-friendly command-line interface (CLI) for interacting with Microsoft 365 services.
+
+## Machine Learning Optimization
+- [RightNow-AI/autokernel](https://github.com/RightNow-AI/autokernel): This tool automates the optimization of GPU kernels for PyTorch models, generating optimized Triton kernels.
+
+## Sensor & IoT Applications
+- [ruvnet/RuView](https://github.com/ruvnet/RuView): RuView utilizes commodity WiFi signals for real-time human pose estimation, vital sign monitoring, and presence detection without video.
+
+## 3D Vision & Machine Learning
+- [Pointcept/Utonia](https://github.com/Pointcept/Utonia): Utonia is a research project focused on creating a universal encoder for all types of point clouds in 3D vision.
+
+## AI Ecosystem Utilities
+- [nvidia-cosmos/cosmos-cookbook](https://github.com/nvidia-cosmos/cosmos-cookbook): This repository contains post-training scripts and samples to support the NVIDIA Cosmos ecosystem.
+
+## AI Models & Reasoning
+- [nvidia-cosmos/cosmos-reason2](https://github.com/nvidia-cosmos/cosmos-reason2): Cosmos-Reason2 models are designed to understand physical common sense and generate embodied decisions using natural language and chain-of-thought reasoning.
 
