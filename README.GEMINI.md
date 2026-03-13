@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-12
+Last Updated: 2026-03-13
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1725,4 +1725,22 @@ Last Updated: 2026-03-12
 
 ## AI Models & Reasoning
 - [nvidia-cosmos/cosmos-reason2](https://github.com/nvidia-cosmos/cosmos-reason2): Cosmos-Reason2 models are designed to understand physical common sense and generate embodied decisions using natural language and chain-of-thought reasoning.
+
+## AI Agents & Orchestration
+- [openai/symphony](https://github.com/openai/symphony): Symphony transforms project work into isolated, autonomous implementation runs, enabling teams to manage tasks without supervising coding agents.
+- [superset-sh/superset](https://github.com/superset-sh/superset): Superset functions as an IDE for the AI Agents Era, allowing users to run an army of AI coding agents like Claude Code and Codex on their machine.
+- [RGLie/AgentBlue](https://github.com/RGLie/AgentBlue): AgentBlue appears to be an AI agent project, though its specific functionality is not detailed in the description.
+
+## Machine Learning Development & Optimization
+- [Yeachan-Heo/My-Jogyo](https://github.com/Yeachan-Heo/My-Jogyo): My-Jogyo provides a one-click scientific research lab for Opencode, featuring seamless .ipynb and REPL integration.
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit): llmfit helps users identify which of hundreds of LLM models and providers can run on their hardware with a single command.
+- [RightNow-AI/autokernel](https://github.com/RightNow-AI/autokernel): Autokernel automates the optimization of GPU kernels for PyTorch models, generating optimized Triton kernels.
+- [Pointcept/Utonia](https://github.com/Pointcept/Utonia): Utonia is the official repository dedicated to developing a single encoder solution for all point cloud data.
+
+## Developer Utilities
+- [jetkvm/kvm](https://github.com/jetkvm/kvm): JetKVM offers a tool for remotely controlling any computer.
+- [flamestro/deff](https://github.com/flamestro/deff): Deff provides an interactive, side-by-side file review tool for git diffs, complete with navigation, scrolling, syntax highlighting, and line tinting.
+
+## AI Sensing & Applications
+- [ruvnet/RuView](https://github.com/ruvnet/RuView): RuView utilizes commodity WiFi signals to perform real-time human pose estimation, vital sign monitoring, and presence detection without requiring video.
 
