@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-13
+Last Updated: 2026-03-14
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -591,6 +591,8 @@ Last Updated: 2026-03-13
 - [nanoclaw](https://github.com/qwibitai/nanoclaw): This project is a lightweight, secure AI agent that integrates with WhatsApp, offers memory and scheduled jobs, and runs on Anthropic's Agents SDK within Apple containers.
 - [unitedbyai/droidclaw](https://github.com/unitedbyai/droidclaw): This repository enables users to transform old phones into AI agents capable of performing tasks by interpreting the screen and interacting via ADB based on plain English goals.
 - [precious112/prism-ai-deep-research](https://github.com/precious112/prism-ai-deep-research): This project offers an open-source deep research and learning agent that orchestrates autonomous researchers using LangGraph, Python, and Next.js, serving as an alternative to tools like Perplexity Pro.
+- [garrytan/gstack](https://github.com/garrytan/gstack): This repository provides Garry Tan's opinionated Claude Code setup, offering six AI-powered tools to manage various software development roles.
+- [RGLie/AgentBlue](https://github.com/RGLie/AgentBlue): AgentBlue is a repository with no provided description, but its name suggests a focus on agent-based systems or automation.
 
 ## AI Development Tools/Libraries
 - [BerriAI/litellm](https://github.com/BerriAI/litellm): A Python SDK and proxy server that provides a unified interface for calling over 100 LLM APIs with features like cost tracking and load balancing.
@@ -1256,6 +1258,7 @@ Last Updated: 2026-03-13
 - [Labellerr/Hands-On-Learning-in-Computer-Vision](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision): This repository provides practical, hands-on learning resources and materials specifically for the field of Computer Vision.
 - [Robertleoj/lensboy](https://github.com/Robertleoj/lensboy): Lensboy is a camera calibration library offering powerful spline and parametric distortion models.
 - [Robertleoj/lensboy](https://github.com/Robertleoj/lensboy): A camera calibration library offering powerful spline and parametric distortion models for precise image correction.
+- [IDEA-Research/Grounded-SAM-2](https://github.com/IDEA-Research/Grounded-SAM-2): Grounded SAM 2 enables grounding and tracking of objects in videos by integrating Grounding DINO, Florence-2, and SAM 2 models.
 
 ## Data Serialization & RPC
 - [capnproto/capnproto](https://github.com/capnproto/capnproto): A data interchange format and RPC system, providing core tools and a C++ library.
@@ -1743,4 +1746,16 @@ Last Updated: 2026-03-13
 
 ## AI Sensing & Applications
 - [ruvnet/RuView](https://github.com/ruvnet/RuView): RuView utilizes commodity WiFi signals to perform real-time human pose estimation, vital sign monitoring, and presence detection without requiring video.
+
+## AI Project Management
+- [openai/symphony](https://github.com/openai/symphony): Symphony transforms project work into autonomous implementation runs, enabling teams to manage tasks by orchestrating coding agents rather than direct supervision.
+
+## Development Environments
+- [Yeachan-Heo/My-Jogyo](https://github.com/Yeachan-Heo/My-Jogyo): My-Jogyo offers a one-click scientific research lab for Opencode, featuring seamless integration with .ipynb notebooks and REPL functionality.
+
+## LLM Tools
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit): llmfit is a utility that helps users find which large language models from various providers can run on their specific hardware with a single command.
+
+## System Utilities
+- [jetkvm/kvm](https://github.com/jetkvm/kvm): JetKVM is a tool designed to allow users to remotely control any computer.
 
