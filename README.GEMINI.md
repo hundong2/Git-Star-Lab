@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-14
+Last Updated: 2026-03-15
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1259,6 +1259,7 @@ Last Updated: 2026-03-14
 - [Robertleoj/lensboy](https://github.com/Robertleoj/lensboy): Lensboy is a camera calibration library offering powerful spline and parametric distortion models.
 - [Robertleoj/lensboy](https://github.com/Robertleoj/lensboy): A camera calibration library offering powerful spline and parametric distortion models for precise image correction.
 - [IDEA-Research/Grounded-SAM-2](https://github.com/IDEA-Research/Grounded-SAM-2): Grounded SAM 2 enables grounding and tracking of objects in videos by integrating Grounding DINO, Florence-2, and SAM 2 models.
+- [Grounded-SAM-2](https://github.com/IDEA-Research/Grounded-SAM-2): This project presents Grounded SAM 2, an advanced computer vision model capable of grounding and tracking any object within videos by integrating Grounding DINO, Florence-2, and SAM 2.
 
 ## Data Serialization & RPC
 - [capnproto/capnproto](https://github.com/capnproto/capnproto): A data interchange format and RPC system, providing core tools and a C++ library.
@@ -1473,6 +1474,7 @@ Last Updated: 2026-03-14
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official): This is the official, Anthropic-managed directory containing high-quality code plugins for the Claude AI model.
 - [Yeachan-Heo/oh-my-gemini](https://github.com/Yeachan-Heo/oh-my-gemini): This project likely provides a utility or wrapper for interacting with Google's Gemini AI model.
 - [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex): A remote control application designed for managing and interacting with Codex, likely an AI coding assistant.
+- [gstack](https://github.com/garrytan/gstack): This repository outlines Garry Tan's specific Claude Code setup, offering six opinionated AI tools designed to act as a CEO, engineering manager, release manager, and QA engineer.
 
 ## AI Agent Tools
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator): A visual tool to annotate, review, share, and provide feedback on coding agent plans for teams.
@@ -1758,4 +1760,7 @@ Last Updated: 2026-03-14
 
 ## System Utilities
 - [jetkvm/kvm](https://github.com/jetkvm/kvm): JetKVM is a tool designed to allow users to remotely control any computer.
+
+## Data Science Education
+- [Linear-Algebra-With-Python](https://github.com/weijie-chen/Linear-Algebra-With-Python): This repository provides Python-enhanced lecture notes to refresh or learn linear algebra concepts essential for data science and quantitative analysis.
 
