@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-15
+Last Updated: 2026-03-16
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1763,4 +1763,7 @@ Last Updated: 2026-03-15
 
 ## Data Science Education
 - [Linear-Algebra-With-Python](https://github.com/weijie-chen/Linear-Algebra-With-Python): This repository provides Python-enhanced lecture notes to refresh or learn linear algebra concepts essential for data science and quantitative analysis.
+
+## Educational Resources
+- [weijie-chen/Linear-Algebra-With-Python](https://github.com/weijie-chen/Linear-Algebra-With-Python): This repository offers lecture notes to teach or refresh foundational linear algebra concepts using Python for computation and visualization, crucial for data science and quantitative fields.
 
