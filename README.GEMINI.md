@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-16
+Last Updated: 2026-03-17
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1260,6 +1260,7 @@ Last Updated: 2026-03-16
 - [Robertleoj/lensboy](https://github.com/Robertleoj/lensboy): A camera calibration library offering powerful spline and parametric distortion models for precise image correction.
 - [IDEA-Research/Grounded-SAM-2](https://github.com/IDEA-Research/Grounded-SAM-2): Grounded SAM 2 enables grounding and tracking of objects in videos by integrating Grounding DINO, Florence-2, and SAM 2 models.
 - [Grounded-SAM-2](https://github.com/IDEA-Research/Grounded-SAM-2): This project presents Grounded SAM 2, an advanced computer vision model capable of grounding and tracking any object within videos by integrating Grounding DINO, Florence-2, and SAM 2.
+- [sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation](https://github.com/sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation): Netryx is a locally-hosted, open-source geolocation tool that leverages state-of-the-art computer vision to identify precise coordinates from street-level images, replicating high-end SaaS functionality.
 
 ## Data Serialization & RPC
 - [capnproto/capnproto](https://github.com/capnproto/capnproto): A data interchange format and RPC system, providing core tools and a C++ library.
