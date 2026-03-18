@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-17
+Last Updated: 2026-03-18
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1767,4 +1767,16 @@ Last Updated: 2026-03-17
 
 ## Educational Resources
 - [weijie-chen/Linear-Algebra-With-Python](https://github.com/weijie-chen/Linear-Algebra-With-Python): This repository offers lecture notes to teach or refresh foundational linear algebra concepts using Python for computation and visualization, crucial for data science and quantitative fields.
+
+## Computer Vision Resources
+- [awesome_3DVision_2026_conference](https://github.com/harpreetsahota204/awesome_3DVision_2026_conference): A curated list of notable research papers presented at the 2026 3D Vision Conference.
+
+## AI Infrastructure & Runtimes
+- [OpenShell](https://github.com/NVIDIA/OpenShell): OpenShell provides a secure and private runtime environment designed for autonomous AI agents.
+
+## Robotics AI Tools
+- [mcp-ros2-logs](https://github.com/spanchal001/mcp-ros2-logs): This project enables AI agents to debug ROS2 logs across multiple nodes without requiring a direct ROS2 installation.
+
+## Computer Vision Applications
+- [Netryx-OpenSource-Next-Gen-Street-Level-Geolocation](https://github.com/sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation): Netryx is a local, open-source geolocation tool that leverages advanced computer vision to determine precise coordinates from street-level images.
 
