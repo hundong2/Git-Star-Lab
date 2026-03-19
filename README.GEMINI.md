@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-18
+Last Updated: 2026-03-19
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1779,4 +1779,15 @@ Last Updated: 2026-03-18
 
 ## Computer Vision Applications
 - [Netryx-OpenSource-Next-Gen-Street-Level-Geolocation](https://github.com/sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation): Netryx is a local, open-source geolocation tool that leverages advanced computer vision to determine precise coordinates from street-level images.
+
+## Machine Learning & Computer Vision
+- [Fast-Track](https://github.com/nmhaddad/Fast-Track): This repository provides comprehensive object tracking pipelines integrating various YOLO detection models and the BYTETracker.
+- [STEM-Automated-Nanoparticle-Analysis-YOLOv8-SAM](https://github.com/ArdaGen/STEM-Automated-Nanoparticle-Analysis-YOLOv8-SAM): This project offers an automated system for analyzing nanoparticles using S/TEM imaging, leveraging YOLOv8 and SAM.
+
+## AI Tools & Platforms
+- [OpenShell](https://github.com/NVIDIA/OpenShell): OpenShell provides a secure and private runtime environment designed for autonomous AI agents.
+- [mcp-ros2-logs](https://github.com/spanchal001/mcp-ros2-logs): This project enables AI agents to debug ROS2 logs across multiple nodes via an MCP server, without requiring a local ROS2 installation.
+
+## Resource & Conference Papers
+- [awesome_3DVision_2026_conference](https://github.com/harpreetsahota204/awesome_3DVision_2026_conference): This repository curates an awesome list of papers presented at the 2026 3D Vision Conference.
 
