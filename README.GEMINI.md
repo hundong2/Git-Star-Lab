@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-19
+Last Updated: 2026-03-20
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1790,4 +1790,16 @@ Last Updated: 2026-03-19
 
 ## Resource & Conference Papers
 - [awesome_3DVision_2026_conference](https://github.com/harpreetsahota204/awesome_3DVision_2026_conference): This repository curates an awesome list of papers presented at the 2026 3D Vision Conference.
+
+## Machine Learning & Simulation
+- [naver-ai/seoul-world-model](https://github.com/naver-ai/seoul-world-model): This project introduces a "Seoul World Model" for grounding world simulation models in a real-world urban environment.
+
+## AI Development Resources
+- [VoltAgent/awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents): This repository is an awesome list collecting over 130 specialized subagents for Codex, designed for various development use cases.
+
+## Computer Vision & Object Tracking
+- [nmhaddad/Fast-Track](https://github.com/nmhaddad/Fast-Track): This project provides comprehensive object tracking pipelines integrating various YOLO models and RF-DETR for detection with BYTETracker for tracking.
+
+## Scientific Imaging & Computer Vision
+- [ArdaGen/STEM-Automated-Nanoparticle-Analysis-YOLOv8-SAM](https://github.com/ArdaGen/STEM-Automated-Nanoparticle-Analysis-YOLOv8-SAM): This repository offers an automated system for nanoparticle analysis in S/TEM images, utilizing YOLOv8 and SAM.
 
