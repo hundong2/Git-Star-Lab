@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-20
+Last Updated: 2026-03-21
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1476,6 +1476,7 @@ Last Updated: 2026-03-20
 - [Yeachan-Heo/oh-my-gemini](https://github.com/Yeachan-Heo/oh-my-gemini): This project likely provides a utility or wrapper for interacting with Google's Gemini AI model.
 - [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex): A remote control application designed for managing and interacting with Codex, likely an AI coding assistant.
 - [gstack](https://github.com/garrytan/gstack): This repository outlines Garry Tan's specific Claude Code setup, offering six opinionated AI tools designed to act as a CEO, engineering manager, release manager, and QA engineer.
+- [VoltAgent/awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents): This repository provides a comprehensive collection of over 130 specialized subagents that leverage AI models like Codex for diverse development use cases.
 
 ## AI Agent Tools
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator): A visual tool to annotate, review, share, and provide feedback on coding agent plans for teams.
@@ -1541,6 +1542,7 @@ Last Updated: 2026-03-20
 - [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp): This project, WebMCP, is developed by webmachinelearning and likely focuses on machine learning applications for the web.
 - [RotoAI](https://github.com/sPappalard/RotoAI): RotoAI is an open-source studio for prompt-driven video segmentation, powered by SAM2 and Grounding DINO with a hybrid cloud-local architecture.
 - [mikexcohen/ML4LLM_book](https://github.com/mikexcohen/ML4LLM_book): This repository provides code and materials for a book focused on understanding Large Language Models through practical machine learning projects.
+- [naver-ai/seoul-world-model](https://github.com/naver-ai/seoul-world-model): This project presents an AI model designed to simulate and understand the dynamics of a real-world metropolis like Seoul.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
