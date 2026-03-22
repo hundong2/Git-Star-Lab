@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-21
+Last Updated: 2026-03-22
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1543,6 +1543,7 @@ Last Updated: 2026-03-21
 - [RotoAI](https://github.com/sPappalard/RotoAI): RotoAI is an open-source studio for prompt-driven video segmentation, powered by SAM2 and Grounding DINO with a hybrid cloud-local architecture.
 - [mikexcohen/ML4LLM_book](https://github.com/mikexcohen/ML4LLM_book): This repository provides code and materials for a book focused on understanding Large Language Models through practical machine learning projects.
 - [naver-ai/seoul-world-model](https://github.com/naver-ai/seoul-world-model): This project presents an AI model designed to simulate and understand the dynamics of a real-world metropolis like Seoul.
+- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight): This repository provides an intelligent memory system designed to learn and improve for AI agents.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
