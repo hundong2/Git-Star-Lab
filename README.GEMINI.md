@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-22
+Last Updated: 2026-03-23
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1529,6 +1529,8 @@ Last Updated: 2026-03-22
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex): This project offers enhancements for "codex" with features like hooks, agent teams, and HUDs.
 - [superset-sh/superset](https://github.com/superset-sh/superset): An IDE designed for developing and managing AI agents like Claude Code and Codex on a local machine.
 - [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex): This project offers a remote control interface for OpenAI's Codex, with plans for a 24/7 version.
+- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw): NemoClaw enables secure execution of OpenClaw within NVIDIA OpenShell, providing managed inference capabilities.
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable): Impeccable is a design language aimed at enhancing the design capabilities of AI harnesses.
 
 ## AI Projects
 - [haeggee/hot-mess-of-ai](https://github.com/haeggee/hot-mess-of-ai): This repository appears to be a collection or experiment related to artificial intelligence.
@@ -1544,6 +1546,9 @@ Last Updated: 2026-03-22
 - [mikexcohen/ML4LLM_book](https://github.com/mikexcohen/ML4LLM_book): This repository provides code and materials for a book focused on understanding Large Language Models through practical machine learning projects.
 - [naver-ai/seoul-world-model](https://github.com/naver-ai/seoul-world-model): This project presents an AI model designed to simulate and understand the dynamics of a real-world metropolis like Seoul.
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight): This repository provides an intelligent memory system designed to learn and improve for AI agents.
+- [AgriciDaniel/banana-claude](https://github.com/AgriciDaniel/banana-claude): This project provides an AI image generation skill designed for Claude Code, powered by Google's Gemini.
+- [nv-tlabs/kimodo](https://github.com/nv-tlabs/kimodo): Kimodo offers the official implementation of a kinematic motion diffusion model for generating high-quality human and humanoid movements.
+- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight): Hindsight provides a learning-enabled memory system specifically designed for AI agents.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
@@ -1805,4 +1810,10 @@ Last Updated: 2026-03-22
 
 ## Scientific Imaging & Computer Vision
 - [ArdaGen/STEM-Automated-Nanoparticle-Analysis-YOLOv8-SAM](https://github.com/ArdaGen/STEM-Automated-Nanoparticle-Analysis-YOLOv8-SAM): This repository offers an automated system for nanoparticle analysis in S/TEM images, utilizing YOLOv8 and SAM.
+
+## Cloud Emulators
+- [hectorvent/floci](https://github.com/hectorvent/floci): Floci is a lightweight and free local emulator for AWS services, facilitating offline development and testing.
+
+## Educational Platform
+- [duoan/TorchCode](https://github.com/duoan/TorchCode): TorchCode is a Jupyter-based platform for practicing PyTorch implementations of AI models like GPT-2 from scratch, complete with auto-grading.
 
