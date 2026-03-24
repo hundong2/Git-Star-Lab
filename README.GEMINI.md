@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-23
+Last Updated: 2026-03-24
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -946,6 +946,8 @@ Last Updated: 2026-03-23
 - [hurl](https://github.com/Orange-OpenSource/hurl): A command-line tool for running and testing HTTP requests defined in plain text.
 - [beheshty/SetSharp](https://github.com/beheshty/SetSharp): A C# source generator that automatically creates strongly-typed settings classes from `appsettings.json` files, eliminating boilerplate.
 - [flamestro/deff](https://github.com/flamestro/deff): Deff provides an interactive, side-by-side file review interface for git diffs with enhanced navigation and display features.
+- [floci](https://github.com/hectorvent/floci): A light and free local emulator for AWS services, designed for development and testing.
+- [TorchCode](https://github.com/duoan/TorchCode): A LeetCode-style platform for practicing PyTorch implementations of ML concepts like softmax and attention with instant auto-grading.
 
 ## Programming & Libraries
 - [zerocopy](https://github.com/google/zerocopy): A library that enables zero-cost memory manipulation by abstracting unsafe code.
@@ -1608,6 +1610,7 @@ Last Updated: 2026-03-23
 ## AI Applications
 - [nanoclaw](https://github.com/qwibitai/nanoclaw): This project offers a lightweight AI agent, built on Anthropic's Agents SDK, that connects to WhatsApp with memory and scheduled job capabilities, running securely in Apple containers.
 - [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog): An AI-powered ecosystem utilizing Claude for creating, optimizing, and managing blog content with dual-optimization for Google rankings and AI citations.
+- [banana-claude](https://github.com/AgriciDaniel/banana-claude): An AI skill for Claude Code that enables image generation, powered by Gemini.
 
 ## Artificial Intelligence
 - [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python): A Python SDK for developing and interacting with Claude AI agents.
@@ -1816,4 +1819,17 @@ Last Updated: 2026-03-23
 
 ## Educational Platform
 - [duoan/TorchCode](https://github.com/duoan/TorchCode): TorchCode is a Jupyter-based platform for practicing PyTorch implementations of AI models like GPT-2 from scratch, complete with auto-grading.
+
+## AI Orchestration & Management
+- [claude-squad](https://github.com/smtg-ai/claude-squad): A tool for managing and orchestrating multiple AI terminal agents like Claude Code, Codex, and OpenCode.
+
+## Machine Learning Resources & Models
+- [notebooks](https://github.com/unslothai/notebooks): A collection of over 250 notebooks for fine-tuning and applying Reinforcement Learning to various text, vision, audio, and embedding models.
+- [kimodo](https://github.com/nv-tlabs/kimodo): The official implementation of Kimodo, a kinematic motion diffusion model for generating high-quality human and humanoid movements.
+
+## AI Infrastructure & Security
+- [NemoClaw](https://github.com/NVIDIA/NemoClaw): A tool for securely running OpenClaw models inside NVIDIA OpenShell, providing managed inference capabilities.
+
+## AI Design Frameworks
+- [impeccable](https://github.com/pbakaus/impeccable): A design language aimed at enhancing the design capabilities of AI harnesses.
 
