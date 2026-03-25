@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-24
+Last Updated: 2026-03-25
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1551,6 +1551,8 @@ Last Updated: 2026-03-24
 - [AgriciDaniel/banana-claude](https://github.com/AgriciDaniel/banana-claude): This project provides an AI image generation skill designed for Claude Code, powered by Google's Gemini.
 - [nv-tlabs/kimodo](https://github.com/nv-tlabs/kimodo): Kimodo offers the official implementation of a kinematic motion diffusion model for generating high-quality human and humanoid movements.
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight): Hindsight provides a learning-enabled memory system specifically designed for AI agents.
+- [ykumards/eCLIP](https://github.com/ykumards/eCLIP): This repository provides the code for a research paper presented at ECCV'24, focusing on improving medical multi-modal contrastive learning using expert annotations.
+- [unslothai/notebooks](https://github.com/unslothai/notebooks): This project offers a collection of over 250 notebooks for fine-tuning and applying reinforcement learning to various text, vision, audio, embedding, and TTS models.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
@@ -1596,6 +1598,7 @@ Last Updated: 2026-03-24
 - [binbinsh/zotero-easytrans](https://github.com/binbinsh/zotero-easytrans): This is an offline translation plugin for Zotero 8, leveraging an on-device AI model for translations.
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew): This project offers an experimental, significantly faster alternative to the Homebrew package manager for macOS.
 - [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py): This repository provides an unofficial Python API for interacting with Google NotebookLM.
+- [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad): This tool allows users to manage and orchestrate multiple AI terminal agents, such as Claude Code, Codex, OpenCode, and Amp.
 
 ## Web Development / AI
 - [GoogleChromeLabs/web-ai-demos](https://github.com/GoogleChromeLabs/web-ai-demos): This repository from Google Chrome Labs showcases demonstrations of integrating and utilizing AI capabilities directly within web browsers.
