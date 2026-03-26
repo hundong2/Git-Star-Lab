@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-25
+Last Updated: 2026-03-26
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1553,6 +1553,7 @@ Last Updated: 2026-03-25
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight): Hindsight provides a learning-enabled memory system specifically designed for AI agents.
 - [ykumards/eCLIP](https://github.com/ykumards/eCLIP): This repository provides the code for a research paper presented at ECCV'24, focusing on improving medical multi-modal contrastive learning using expert annotations.
 - [unslothai/notebooks](https://github.com/unslothai/notebooks): This project offers a collection of over 250 notebooks for fine-tuning and applying reinforcement learning to various text, vision, audio, embedding, and TTS models.
+- [ykumards/eCLIP](https://github.com/ykumards/eCLIP): This repository provides the official code for an ECCV'24 paper that focuses on improving medical multi-modal contrastive learning with expert annotations.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
