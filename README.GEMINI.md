@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-27
+Last Updated: 2026-03-28
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -191,6 +191,7 @@ Last Updated: 2026-03-27
 - [openstf/stf](https://github.com/openstf/stf): A web-based tool for remotely controlling and managing Android devices.
 - [quamotion/madb](https://github.com/quamotion/madb): A .NET library for communicating with Android devices, implementing the adb protocol.
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated): A powerful, reimplemented animation library for React Native applications, offering enhanced performance and flexibility.
+- [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated): A powerful re-implementation of React Native's Animated library, providing enhanced performance and more expressive ways to create animations.
 
 ## Programming Languages
 - [GlyphLang/GlyphLang](https://github.com/GlyphLang/GlyphLang): An AI-optimized programming language designed for efficient development.
