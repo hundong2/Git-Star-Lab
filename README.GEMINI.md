@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-28
+Last Updated: 2026-03-29
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1265,6 +1265,7 @@ Last Updated: 2026-03-28
 - [IDEA-Research/Grounded-SAM-2](https://github.com/IDEA-Research/Grounded-SAM-2): Grounded SAM 2 enables grounding and tracking of objects in videos by integrating Grounding DINO, Florence-2, and SAM 2 models.
 - [Grounded-SAM-2](https://github.com/IDEA-Research/Grounded-SAM-2): This project presents Grounded SAM 2, an advanced computer vision model capable of grounding and tracking any object within videos by integrating Grounding DINO, Florence-2, and SAM 2.
 - [sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation](https://github.com/sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation): Netryx is a locally-hosted, open-source geolocation tool that leverages state-of-the-art computer vision to identify precise coordinates from street-level images, replicating high-end SaaS functionality.
+- [facebookresearch/sam3](https://github.com/facebookresearch/sam3): This repository offers code, trained model checkpoints, and example notebooks for running inference and finetuning with the Meta Segment Anything Model 3 (SAM 3).
 
 ## Data Serialization & RPC
 - [capnproto/capnproto](https://github.com/capnproto/capnproto): A data interchange format and RPC system, providing core tools and a C++ library.
@@ -1632,6 +1633,7 @@ Last Updated: 2026-03-28
 - [n2cholas/awesome-jax](https://github.com/n2cholas/awesome-jax): An awesome list compiling a curated collection of resources, tools, and projects related to the JAX machine learning framework.
 - [Uzaaft/awesome-libghostty](https://github.com/Uzaaft/awesome-libghostty): A curated list of resources, tools, and libraries related to `libghostty`.
 - [Uzaaft/awesome-libghostty](https://github.com/Uzaaft/awesome-libghostty): A curated list of resources related to `libghostty`, following the common "awesome list" convention.
+- [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis): This repository is an awesome list compiling permanent free Large Language Model (LLM) APIs and their associated API keys.
 
 ## Machine Learning Models
 - [MiniMax-AI/MiniMax-M2.5](https://github.com/MiniMax-AI/MiniMax-M2.5): A repository from MiniMax-AI likely related to a specific artificial intelligence model or system, possibly for research or application.
@@ -1838,4 +1840,7 @@ Last Updated: 2026-03-28
 
 ## AI Design Frameworks
 - [impeccable](https://github.com/pbakaus/impeccable): A design language aimed at enhancing the design capabilities of AI harnesses.
+
+## AI/ML Tools
+- [comet-ml/opik-openclaw](https://github.com/comet-ml/opik-openclaw): This repository provides an official plugin for OpenClaw that exports and monitors AI agent traces, including behavior, cost, tokens, and errors, to Opik.
 
