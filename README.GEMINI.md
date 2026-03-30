@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-29
+Last Updated: 2026-03-30
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1557,6 +1557,9 @@ Last Updated: 2026-03-29
 - [ykumards/eCLIP](https://github.com/ykumards/eCLIP): This repository provides the code for a research paper presented at ECCV'24, focusing on improving medical multi-modal contrastive learning using expert annotations.
 - [unslothai/notebooks](https://github.com/unslothai/notebooks): This project offers a collection of over 250 notebooks for fine-tuning and applying reinforcement learning to various text, vision, audio, embedding, and TTS models.
 - [ykumards/eCLIP](https://github.com/ykumards/eCLIP): This repository provides the official code for an ECCV'24 paper that focuses on improving medical multi-modal contrastive learning with expert annotations.
+- [comet-ml/opik-openclaw](https://github.com/comet-ml/opik-openclaw): An official plugin for OpenClaw that integrates with Opik to export and monitor agent traces, behavior, cost, tokens, and errors.
+- [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis): A curated "awesome list" providing a permanent collection of free Large Language Model (LLM) APIs with their respective API keys.
+- [facebookresearch/sam3](https://github.com/facebookresearch/sam3): This repository provides code, model checkpoints, and example notebooks for running inference and finetuning Meta's Segment Anything Model 3 (SAM 3).
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
@@ -1843,4 +1846,7 @@ Last Updated: 2026-03-29
 
 ## AI/ML Tools
 - [comet-ml/opik-openclaw](https://github.com/comet-ml/opik-openclaw): This repository provides an official plugin for OpenClaw that exports and monitors AI agent traces, including behavior, cost, tokens, and errors, to Opik.
+
+## Mathematical Tools
+- [AxiomMath/axplorer](https://github.com/AxiomMath/axplorer): A tool by AxiomMath likely for exploring mathematical concepts, systems, or performing symbolic computations.
 
