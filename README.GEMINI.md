@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-03-31
+Last Updated: 2026-04-01
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -951,6 +951,7 @@ Last Updated: 2026-03-31
 - [floci](https://github.com/hectorvent/floci): A light and free local emulator for AWS services, designed for development and testing.
 - [TorchCode](https://github.com/duoan/TorchCode): A LeetCode-style platform for practicing PyTorch implementations of ML concepts like softmax and attention with instant auto-grading.
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc): This repository provides a plugin to integrate OpenAI's Codex via Claude Code for code review and task delegation.
+- [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc): This repository provides a plugin to integrate OpenAI's Codex with Claude Code for AI-assisted code review and task delegation.
 
 ## Programming & Libraries
 - [zerocopy](https://github.com/google/zerocopy): A library that enables zero-cost memory manipulation by abstracting unsafe code.
@@ -1856,4 +1857,7 @@ Last Updated: 2026-03-31
 
 ## Mathematics
 - [AxiomMath/axplorer](https://github.com/AxiomMath/axplorer): This project, by AxiomMath, is likely a tool for exploring or interacting with mathematical concepts.
+
+## Guides & Best Practices
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice): This repository offers a collection of best practices and examples designed to help users master "Claude Code."
 
