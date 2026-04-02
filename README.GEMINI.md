@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-04-01
+Last Updated: 2026-04-02
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1484,6 +1484,7 @@ Last Updated: 2026-04-01
 - [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex): A remote control application designed for managing and interacting with Codex, likely an AI coding assistant.
 - [gstack](https://github.com/garrytan/gstack): This repository outlines Garry Tan's specific Claude Code setup, offering six opinionated AI tools designed to act as a CEO, engineering manager, release manager, and QA engineer.
 - [VoltAgent/awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents): This repository provides a comprehensive collection of over 130 specialized subagents that leverage AI models like Codex for diverse development use cases.
+- [m0at/rvllm](https://github.com/m0at/rvllm): This repository provides a high-performance LLM inference engine written in Rust, designed as a drop-in replacement for vLLM.
 
 ## AI Agent Tools
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator): A visual tool to annotate, review, share, and provide feedback on coding agent plans for teams.
@@ -1860,4 +1861,7 @@ Last Updated: 2026-04-01
 
 ## Guides & Best Practices
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice): This repository offers a collection of best practices and examples designed to help users master "Claude Code."
+
+## Documentation
+- [johnfkoo951/cmds-system-files](https://github.com/johnfkoo951/cmds-system-files): This project offers a documentation hub styled with a brutalist aesthetic, serving as a system files repository.
 
