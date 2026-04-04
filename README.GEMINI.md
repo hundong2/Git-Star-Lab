@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-04-03
+Last Updated: 2026-04-04
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -459,6 +459,7 @@ Last Updated: 2026-04-03
 - [NeiroEvgen/ros2-blueprint-studio](https://github.com/NeiroEvgen/ros2-blueprint-studio): This repository, likely a studio for ROS2 blueprints, has no description.
 - [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower): A project to upgrade consumer robotic mowers into smart, RTK GPS-based lawn mowing robots.
 - [ROBOTIS-GIT/turtlebot3](https://github.com/ROBOTIS-GIT/turtlebot3): ROS (Robot Operating System) packages specifically for the Turtlebot3 robot.
+- [mandarwagh9/openeyes](https://github.com/mandarwagh9/openeyes): A vision system developed to provide perception capabilities specifically for humanoid robots.
 
 ## Gaming & AI
 - [deeean/silksong-agent](https://github.com/deeean/silksong-agent): An RL agent specifically developed to play boss fights in the game Hollow Knight: Silksong.
