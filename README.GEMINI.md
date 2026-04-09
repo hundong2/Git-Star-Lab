@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-04-04
+Last Updated: 2026-04-09
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1469,6 +1469,7 @@ Last Updated: 2026-04-04
 - [SuperBruceJia/Awesome-Large-Vision-Language-Model](https://github.com/SuperBruceJia/Awesome-Large-Vision-Language-Model): This repository offers a curated list of resources focused on Large Vision-Language Models.
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills): This is a comprehensive collection of over 200 agent skills for AI models like Claude, Codex, and Gemini CLI, contributed by official teams and the community.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): This repository is an awesome collection of applications built with Large Language Models (LLMs), featuring AI agents and RAG implementations.
+- [Overshoot-ai/vlm-benchmarks](https://github.com/Overshoot-ai/vlm-benchmarks): A daily auto-updated collection of over 2500 benchmarks for Vision-Language Models sourced from arXiv.
 
 ## AI Tools
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex): PageIndex provides a document indexing solution tailored for vectorless, reasoning-based Retrieval Augmented Generation (RAG) systems.
@@ -1486,6 +1487,7 @@ Last Updated: 2026-04-04
 - [gstack](https://github.com/garrytan/gstack): This repository outlines Garry Tan's specific Claude Code setup, offering six opinionated AI tools designed to act as a CEO, engineering manager, release manager, and QA engineer.
 - [VoltAgent/awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents): This repository provides a comprehensive collection of over 130 specialized subagents that leverage AI models like Codex for diverse development use cases.
 - [m0at/rvllm](https://github.com/m0at/rvllm): This repository provides a high-performance LLM inference engine written in Rust, designed as a drop-in replacement for vLLM.
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills): A repository providing production-grade engineering skills designed to enhance AI coding agents.
 
 ## AI Agent Tools
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator): A visual tool to annotate, review, share, and provide feedback on coding agent plans for teams.
@@ -1565,6 +1567,7 @@ Last Updated: 2026-04-04
 - [comet-ml/opik-openclaw](https://github.com/comet-ml/opik-openclaw): An official plugin for OpenClaw that integrates with Opik to export and monitor agent traces, behavior, cost, tokens, and errors.
 - [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis): A curated "awesome list" providing a permanent collection of free Large Language Model (LLM) APIs with their respective API keys.
 - [facebookresearch/sam3](https://github.com/facebookresearch/sam3): This repository provides code, model checkpoints, and example notebooks for running inference and finetuning Meta's Segment Anything Model 3 (SAM 3).
+- [Netflix/void-model](https://github.com/Netflix/void-model): A deep learning model from Netflix for detecting voids in time series data.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
@@ -1875,4 +1878,7 @@ Last Updated: 2026-04-04
 
 ## Web Development & Documentation
 - [cmds-system-files](https://github.com/johnfkoo951/cmds-system-files): This repository serves as a documentation hub for CMDS System Files, featuring a brutalism-style design.
+
+## Open Data
+- [legalize-kr/legalize-kr](https://github.com/legalize-kr/legalize-kr): A Git repository that manages Korean laws as Markdown files, tracking each amendment as a commit with its promulgation date.
 
