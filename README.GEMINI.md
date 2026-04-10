@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-04-09
+Last Updated: 2026-04-10
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1568,6 +1568,8 @@ Last Updated: 2026-04-09
 - [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis): A curated "awesome list" providing a permanent collection of free Large Language Model (LLM) APIs with their respective API keys.
 - [facebookresearch/sam3](https://github.com/facebookresearch/sam3): This repository provides code, model checkpoints, and example notebooks for running inference and finetuning Meta's Segment Anything Model 3 (SAM 3).
 - [Netflix/void-model](https://github.com/Netflix/void-model): A deep learning model from Netflix for detecting voids in time series data.
+- [guppylm](https://github.com/arman-bd/guppylm): This repository features a unique ~9M parameter Large Language Model (LLM) designed to communicate with the persona of a small fish.
+- [void-model](https://github.com/Netflix/void-model): This repository from Netflix likely contains a machine learning model or related framework, though specific details are not provided.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
@@ -1881,4 +1883,7 @@ Last Updated: 2026-04-09
 
 ## Open Data
 - [legalize-kr/legalize-kr](https://github.com/legalize-kr/legalize-kr): A Git repository that manages Korean laws as Markdown files, tracking each amendment as a commit with its promulgation date.
+
+## Machine Learning Tools
+- [vlm-benchmarks](https://github.com/Overshoot-ai/vlm-benchmarks): This repository provides an extensive, daily auto-updated collection of over 2500 benchmarks for Visual Language Models (VLMs), aggregated from arXiv.
 
