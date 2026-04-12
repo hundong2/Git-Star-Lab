@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-04-11
+Last Updated: 2026-04-12
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1887,4 +1887,7 @@ Last Updated: 2026-04-11
 
 ## Machine Learning Tools
 - [vlm-benchmarks](https://github.com/Overshoot-ai/vlm-benchmarks): This repository provides an extensive, daily auto-updated collection of over 2500 benchmarks for Visual Language Models (VLMs), aggregated from arXiv.
+
+## Multimodal AI
+- [mattmireles/gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal): This repository provides a tool for fine-tuning Gemma 4 and 3n models with multimodal data (audio, images, and text) on Apple Silicon, utilizing PyTorch and Metal Performance Shaders.
 
