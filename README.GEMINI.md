@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-04-12
+Last Updated: 2026-04-14
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1571,6 +1571,7 @@ Last Updated: 2026-04-12
 - [guppylm](https://github.com/arman-bd/guppylm): This repository features a unique ~9M parameter Large Language Model (LLM) designed to communicate with the persona of a small fish.
 - [void-model](https://github.com/Netflix/void-model): This repository from Netflix likely contains a machine learning model or related framework, though specific details are not provided.
 - [arman-bd/guppylm](https://github.com/arman-bd/guppylm): A ~9M parameter Large Language Model (LLM) designed to converse in the manner of a small fish.
+- [mattmireles/gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal): This project allows users to fine-tune Gemma 4 and 3n multimodal models using audio, image, and text data specifically on Apple Silicon, utilizing PyTorch and Metal Performance Shaders.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
