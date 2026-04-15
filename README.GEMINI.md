@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-04-14
+Last Updated: 2026-04-15
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1459,6 +1459,7 @@ Last Updated: 2026-04-14
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp): A curated list of excellent C++ and C frameworks, libraries, and resources.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome): A meta-list of "awesome" lists covering a wide range of interesting topics.
 - [n2cholas/awesome-jax](https://github.com/n2cholas/awesome-jax): A curated list of resources, libraries, and tools related to JAX, designed to help users discover useful information about the framework.
+- [darjeeling/awesome-mcp-korea](https://github.com/darjeeling/awesome-mcp-korea): This repository provides a curated "awesome list" of MCP servers tailored for the Korean market, detailing their integrations with legal, commerce, public data, and local services.
 
 ## General Projects & Applications
 - [yourtablecloth/TableCloth](https://github.com/yourtablecloth/TableCloth): A project named "TableCloth," likely a general application or utility based on its Korean description.
@@ -1637,6 +1638,7 @@ Last Updated: 2026-04-14
 ## Artificial Intelligence
 - [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python): A Python SDK for developing and interacting with Claude AI agents.
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev): A multi-agent collaboration system powered by Large Language Models (LLMs) to facilitate comprehensive software development.
+- [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness): OpenHarness is an open platform designed for developing and managing AI agents, featuring a built-in personal agent named Ohmo.
 
 ## Artificial Intelligence Models
 - [MiniMax-AI/MiniMax-M2.5](https://github.com/MiniMax-AI/MiniMax-M2.5): This repository from MiniMax-AI likely hosts an artificial intelligence model, potentially a large language model or a related AI system, though specific details are unavailable.
