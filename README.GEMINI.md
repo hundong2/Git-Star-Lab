@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-04-15
+Last Updated: 2026-04-16
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1639,6 +1639,7 @@ Last Updated: 2026-04-15
 - [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python): A Python SDK for developing and interacting with Claude AI agents.
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev): A multi-agent collaboration system powered by Large Language Models (LLMs) to facilitate comprehensive software development.
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness): OpenHarness is an open platform designed for developing and managing AI agents, featuring a built-in personal agent named Ohmo.
+- [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness): This project provides an open harness for developing and utilizing AI agents, featuring a built-in personal agent named Ohmo.
 
 ## Artificial Intelligence Models
 - [MiniMax-AI/MiniMax-M2.5](https://github.com/MiniMax-AI/MiniMax-M2.5): This repository from MiniMax-AI likely hosts an artificial intelligence model, potentially a large language model or a related AI system, though specific details are unavailable.
@@ -1651,6 +1652,7 @@ Last Updated: 2026-04-15
 - [Uzaaft/awesome-libghostty](https://github.com/Uzaaft/awesome-libghostty): A curated list of resources, tools, and libraries related to `libghostty`.
 - [Uzaaft/awesome-libghostty](https://github.com/Uzaaft/awesome-libghostty): A curated list of resources related to `libghostty`, following the common "awesome list" convention.
 - [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis): This repository is an awesome list compiling permanent free Large Language Model (LLM) APIs and their associated API keys.
+- [darjeeling/awesome-mcp-korea](https://github.com/darjeeling/awesome-mcp-korea): This repository is an awesome list curating MCP servers tailored for the Korean market, encompassing integrations for legal, commerce, public data, and local services.
 
 ## Machine Learning Models
 - [MiniMax-AI/MiniMax-M2.5](https://github.com/MiniMax-AI/MiniMax-M2.5): A repository from MiniMax-AI likely related to a specific artificial intelligence model or system, possibly for research or application.
