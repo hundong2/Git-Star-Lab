@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-04-16
+Last Updated: 2026-04-19
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -279,6 +279,7 @@ Last Updated: 2026-04-16
 - [GoogleChromeLabs/web-ai-demos](https://github.com/GoogleChromeLabs/web-ai-demos): A collection of demonstrations exploring the integration and execution of artificial intelligence models directly within web browsers.
 - [Yeachan-Heo/oh-my-codex-website](https://github.com/Yeachan-Heo/oh-my-codex-website): This is the GitHub Pages website providing documentation and information for the "oh-my-codex" multi-agent orchestration tool.
 - [Yeachan-Heo/oh-my-codex-website](https://github.com/Yeachan-Heo/oh-my-codex-website): This repository hosts the GitHub Pages website for "oh-my-codex," a tool for multi-agent orchestration of the OpenAI Codex CLI.
+- [JinoPay/Seoro](https://github.com/JinoPay/Seoro): A web application built with Next.js and React, likely serving as a platform or service.
 
 ## Workflow & Automation
 - [AppiumTestDistribution/appium-device-farm](https://github.com/AppiumTestDistribution/appium-device-farm): An Appium 2.0 plugin that manages and creates driver sessions on available mobile devices for testing.
@@ -1573,6 +1574,7 @@ Last Updated: 2026-04-16
 - [void-model](https://github.com/Netflix/void-model): This repository from Netflix likely contains a machine learning model or related framework, though specific details are not provided.
 - [arman-bd/guppylm](https://github.com/arman-bd/guppylm): A ~9M parameter Large Language Model (LLM) designed to converse in the manner of a small fish.
 - [mattmireles/gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal): This project allows users to fine-tune Gemma 4 and 3n multimodal models using audio, image, and text data specifically on Apple Silicon, utilizing PyTorch and Metal Performance Shaders.
+- [kessler/gemma-gem](https://github.com/kessler/gemma-gem): A tool that runs Google's Gemma 4 large language model entirely on-device using WebGPU for private, local execution.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
