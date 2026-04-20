@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-04-19
+Last Updated: 2026-04-20
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -280,6 +280,7 @@ Last Updated: 2026-04-19
 - [Yeachan-Heo/oh-my-codex-website](https://github.com/Yeachan-Heo/oh-my-codex-website): This is the GitHub Pages website providing documentation and information for the "oh-my-codex" multi-agent orchestration tool.
 - [Yeachan-Heo/oh-my-codex-website](https://github.com/Yeachan-Heo/oh-my-codex-website): This repository hosts the GitHub Pages website for "oh-my-codex," a tool for multi-agent orchestration of the OpenAI Codex CLI.
 - [JinoPay/Seoro](https://github.com/JinoPay/Seoro): A web application built with Next.js and React, likely serving as a platform or service.
+- [xyflow/xyflow](https://github.com/xyflow/xyflow): This repository provides React Flow and Svelte Flow, open-source libraries for building customizable node-based user interfaces for the web.
 
 ## Workflow & Automation
 - [AppiumTestDistribution/appium-device-farm](https://github.com/AppiumTestDistribution/appium-device-farm): An Appium 2.0 plugin that manages and creates driver sessions on available mobile devices for testing.
@@ -571,6 +572,7 @@ Last Updated: 2026-04-19
 - [microsoft/amplifier](https://github.com/microsoft/amplifier): No description provided for this repository.
 - [hshi74/toddlerbot](https://github.com/hshi74/toddlerbot): No description provided for this repository.
 - [google/mcp](https://github.com/google/mcp): The purpose and functionality of this repository are not described, with its description simply stating "Google 💚 MCP".
+- [JinoPay/Seoro](https://github.com/JinoPay/Seoro): The purpose of this repository is unknown due to a lack of description.
 
 ## AI Agents
 - [CursorTouch/Windows-Use](https://github.com/CursorTouch/Windows-Use): Provides an open-source framework for AI agents to interact with and control Windows computers.
@@ -1490,6 +1492,7 @@ Last Updated: 2026-04-19
 - [VoltAgent/awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents): This repository provides a comprehensive collection of over 130 specialized subagents that leverage AI models like Codex for diverse development use cases.
 - [m0at/rvllm](https://github.com/m0at/rvllm): This repository provides a high-performance LLM inference engine written in Rust, designed as a drop-in replacement for vLLM.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills): A repository providing production-grade engineering skills designed to enhance AI coding agents.
+- [kessler/gemma-gem](https://github.com/kessler/gemma-gem): Gemma Gem enables running Google's Gemma 4 model entirely on-device via WebGPU, bypassing cloud and API dependencies.
 
 ## AI Agent Tools
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator): A visual tool to annotate, review, share, and provide feedback on coding agent plans for teams.
@@ -1575,6 +1578,8 @@ Last Updated: 2026-04-19
 - [arman-bd/guppylm](https://github.com/arman-bd/guppylm): A ~9M parameter Large Language Model (LLM) designed to converse in the manner of a small fish.
 - [mattmireles/gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal): This project allows users to fine-tune Gemma 4 and 3n multimodal models using audio, image, and text data specifically on Apple Silicon, utilizing PyTorch and Metal Performance Shaders.
 - [kessler/gemma-gem](https://github.com/kessler/gemma-gem): A tool that runs Google's Gemma 4 large language model entirely on-device using WebGPU for private, local execution.
+- [google-research/timesfm](https://github.com/google-research/timesfm): This repository provides TimesFM, a pretrained foundation model by Google Research for time-series forecasting.
+- [nv-tlabs/lyra](https://github.com/nv-tlabs/lyra): Project Lyra offers open generative models for creating 3D virtual worlds.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
