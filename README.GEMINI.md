@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-04-20
+Last Updated: 2026-04-22
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -462,6 +462,8 @@ Last Updated: 2026-04-20
 - [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower): A project to upgrade consumer robotic mowers into smart, RTK GPS-based lawn mowing robots.
 - [ROBOTIS-GIT/turtlebot3](https://github.com/ROBOTIS-GIT/turtlebot3): ROS (Robot Operating System) packages specifically for the Turtlebot3 robot.
 - [mandarwagh9/openeyes](https://github.com/mandarwagh9/openeyes): A vision system developed to provide perception capabilities specifically for humanoid robots.
+- [rvxfahim/voxelize_navmesh](https://github.com/rvxfahim/voxelize_navmesh): Provides a voxel-based navigation mesh workflow designed for efficient pathfinding within point cloud environments.
+- [stanford-iris-lab/meta-harness](https://github.com/stanford-iris-lab/meta-harness): Contains the reference code accompanying the "Meta-Harness" research paper, likely related to robotics or intelligent systems from Stanford's IRIS Lab.
 
 ## Gaming & AI
 - [deeean/silksong-agent](https://github.com/deeean/silksong-agent): An RL agent specifically developed to play boss fights in the game Hollow Knight: Silksong.
@@ -1580,6 +1582,8 @@ Last Updated: 2026-04-20
 - [kessler/gemma-gem](https://github.com/kessler/gemma-gem): A tool that runs Google's Gemma 4 large language model entirely on-device using WebGPU for private, local execution.
 - [google-research/timesfm](https://github.com/google-research/timesfm): This repository provides TimesFM, a pretrained foundation model by Google Research for time-series forecasting.
 - [nv-tlabs/lyra](https://github.com/nv-tlabs/lyra): Project Lyra offers open generative models for creating 3D virtual worlds.
+- [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos): Offers a theoretical reconstruction of the Claude Mythos architecture, built from available research literature to understand its design principles.
+- [google-research/timesfm](https://github.com/google-research/timesfm): Presents TimesFM, a pretrained time-series foundation model developed by Google Research for advanced time-series forecasting.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
