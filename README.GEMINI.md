@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-04-22
+Last Updated: 2026-04-23
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1584,6 +1584,7 @@ Last Updated: 2026-04-22
 - [nv-tlabs/lyra](https://github.com/nv-tlabs/lyra): Project Lyra offers open generative models for creating 3D virtual worlds.
 - [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos): Offers a theoretical reconstruction of the Claude Mythos architecture, built from available research literature to understand its design principles.
 - [google-research/timesfm](https://github.com/google-research/timesfm): Presents TimesFM, a pretrained time-series foundation model developed by Google Research for advanced time-series forecasting.
+- [facebookresearch/ai4animationpy](https://github.com/facebookresearch/ai4animationpy): This Python framework enables AI-driven character animation through the application of neural networks.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
@@ -1906,4 +1907,7 @@ Last Updated: 2026-04-22
 
 ## Multimodal AI
 - [mattmireles/gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal): This repository provides a tool for fine-tuning Gemma 4 and 3n models with multimodal data (audio, images, and text) on Apple Silicon, utilizing PyTorch and Metal Performance Shaders.
+
+## Navigation
+- [rvxfahim/voxelize_navmesh](https://github.com/rvxfahim/voxelize_navmesh): This repository provides a workflow for voxel-based navigation using navmeshes derived from point clouds.
 
