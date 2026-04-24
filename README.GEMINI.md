@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-04-23
+Last Updated: 2026-04-24
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1910,4 +1910,13 @@ Last Updated: 2026-04-23
 
 ## Navigation
 - [rvxfahim/voxelize_navmesh](https://github.com/rvxfahim/voxelize_navmesh): This repository provides a workflow for voxel-based navigation using navmeshes derived from point clouds.
+
+## AI Assistants
+- [openclaw/openclaw](https://github.com/openclaw/openclaw): A personal AI assistant designed to run across various operating systems and platforms.
+
+## Simulation Tools
+- [NVIDIA/asset-harvester](https://github.com/NVIDIA/asset-harvester): A tool for extracting 3D assets from autonomous driving logs to use in simulations.
+
+## AI for Graphics & Animation
+- [facebookresearch/ai4animationpy](https://github.com/facebookresearch/ai4animationpy): A Python framework leveraging AI and neural networks for character animation.
 
