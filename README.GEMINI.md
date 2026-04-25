@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-04-24
+Last Updated: 2026-04-25
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1913,10 +1913,17 @@ Last Updated: 2026-04-24
 
 ## AI Assistants
 - [openclaw/openclaw](https://github.com/openclaw/openclaw): A personal AI assistant designed to run across various operating systems and platforms.
+- [openclaw/openclaw](https://github.com/openclaw/openclaw): Openclaw is a cross-platform personal AI assistant designed to run universally across any operating system and platform.
 
 ## Simulation Tools
 - [NVIDIA/asset-harvester](https://github.com/NVIDIA/asset-harvester): A tool for extracting 3D assets from autonomous driving logs to use in simulations.
 
 ## AI for Graphics & Animation
 - [facebookresearch/ai4animationpy](https://github.com/facebookresearch/ai4animationpy): A Python framework leveraging AI and neural networks for character animation.
+
+## AI-Powered Knowledge Management
+- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian): This repository integrates the Claude AI with Obsidian to build a persistent, compounding knowledge vault for research and personal knowledge management.
+
+## 3D Graphics & Simulation
+- [NVIDIA/asset-harvester](https://github.com/NVIDIA/asset-harvester): NVIDIA's Asset Harvester extracts 3D assets from autonomous driving logs specifically for use in simulation environments.
 
