@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-04-25
+Last Updated: 2026-04-26
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1646,6 +1646,7 @@ Last Updated: 2026-04-25
 - [nanoclaw](https://github.com/qwibitai/nanoclaw): This project offers a lightweight AI agent, built on Anthropic's Agents SDK, that connects to WhatsApp with memory and scheduled job capabilities, running securely in Apple containers.
 - [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog): An AI-powered ecosystem utilizing Claude for creating, optimizing, and managing blog content with dual-optimization for Google rankings and AI citations.
 - [banana-claude](https://github.com/AgriciDaniel/banana-claude): An AI skill for Claude Code that enables image generation, powered by Gemini.
+- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian): This project integrates Claude AI with Obsidian to create a persistent knowledge companion and auto-researching wiki vault based on an LLM Wiki pattern.
 
 ## Artificial Intelligence
 - [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python): A Python SDK for developing and interacting with Claude AI agents.
