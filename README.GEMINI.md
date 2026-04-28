@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-04-26
+Last Updated: 2026-04-28
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1927,4 +1927,10 @@ Last Updated: 2026-04-26
 
 ## 3D Graphics & Simulation
 - [NVIDIA/asset-harvester](https://github.com/NVIDIA/asset-harvester): NVIDIA's Asset Harvester extracts 3D assets from autonomous driving logs specifically for use in simulation environments.
+
+## Marketing & SEO Tools
+- [AgriciDaniel/codex-seo](https://github.com/AgriciDaniel/codex-seo): This repository provides an AI-powered SEO skill suite with workflows, agents, and integrations for comprehensive SEO management, reporting, and optimization.
+
+## Development Tools
+- [microsoft/winappCli](https://github.com/microsoft/winappCli): This is a command-line interface (CLI) designed to streamline Windows application development by managing SDKs, packaging, app identity, and build tools.
 
