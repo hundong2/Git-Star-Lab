@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-04-28
+Last Updated: 2026-04-29
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -958,6 +958,8 @@ Last Updated: 2026-04-28
 - [TorchCode](https://github.com/duoan/TorchCode): A LeetCode-style platform for practicing PyTorch implementations of ML concepts like softmax and attention with instant auto-grading.
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc): This repository provides a plugin to integrate OpenAI's Codex via Claude Code for code review and task delegation.
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc): This repository provides a plugin to integrate OpenAI's Codex with Claude Code for AI-assisted code review and task delegation.
+- [warpdotdev/warp](https://github.com/warpdotdev/warp): Warp provides an agentic development environment that enhances the terminal experience for developers.
+- [microsoft/winappCli](https://github.com/microsoft/winappCli): WinApp CLI is a command-line interface for managing Windows SDKs, packaging, identity, and build tools across various app frameworks.
 
 ## Programming & Libraries
 - [zerocopy](https://github.com/google/zerocopy): A library that enables zero-cost memory manipulation by abstracting unsafe code.
@@ -1933,4 +1935,10 @@ Last Updated: 2026-04-28
 
 ## Development Tools
 - [microsoft/winappCli](https://github.com/microsoft/winappCli): This is a command-line interface (CLI) designed to streamline Windows application development by managing SDKs, packaging, app identity, and build tools.
+
+## AI/Agent Tools
+- [google/skills](https://github.com/google/skills): This repository offers agent skills tailored for integration with various Google products and technologies.
+
+## SEO Tools
+- [AgriciDaniel/codex-seo](https://github.com/AgriciDaniel/codex-seo): Codex-SEO is an AI-powered skill suite offering workflows and agents for comprehensive SEO analysis and reporting.
 
