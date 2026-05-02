@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-04-30
+Last Updated: 2026-05-02
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -601,6 +601,7 @@ Last Updated: 2026-04-30
 - [precious112/prism-ai-deep-research](https://github.com/precious112/prism-ai-deep-research): This project offers an open-source deep research and learning agent that orchestrates autonomous researchers using LangGraph, Python, and Next.js, serving as an alternative to tools like Perplexity Pro.
 - [garrytan/gstack](https://github.com/garrytan/gstack): This repository provides Garry Tan's opinionated Claude Code setup, offering six AI-powered tools to manage various software development roles.
 - [RGLie/AgentBlue](https://github.com/RGLie/AgentBlue): AgentBlue is a repository with no provided description, but its name suggests a focus on agent-based systems or automation.
+- [huggingface/ml-intern](https://github.com/huggingface/ml-intern): An open-source AI agent that automates various tasks for ML engineers, from research to model training and deployment.
 
 ## AI Development Tools/Libraries
 - [BerriAI/litellm](https://github.com/BerriAI/litellm): A Python SDK and proxy server that provides a unified interface for calling over 100 LLM APIs with features like cost tracking and load balancing.
@@ -1884,6 +1885,7 @@ Last Updated: 2026-04-30
 
 ## Learning Resources
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice): This repository offers practices aimed at improving proficiency and achieving best results when working with Claude Code.
+- [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium): A comprehensive compendium of resources designed to help individuals become proficient AI/ML Research Engineers.
 
 ## Mathematics
 - [AxiomMath/axplorer](https://github.com/AxiomMath/axplorer): This project, by AxiomMath, is likely a tool for exploring or interacting with mathematical concepts.
@@ -1945,4 +1947,10 @@ Last Updated: 2026-04-30
 
 ## AI Agent Development
 - [google/skills](https://github.com/google/skills): This repository provides frameworks and resources for developing agentic skills that can interact with various Google products and technologies.
+
+## AI Platforms
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx): An open-source AI platform providing advanced AI chat features compatible with any Large Language Model.
+
+## AI Agent Frameworks
+- [Q00/ouroboros](https://github.com/Q00/ouroboros): An Agent OS framework that enables users to specify and control AI agents in a structured manner, moving beyond simple prompting.
 
