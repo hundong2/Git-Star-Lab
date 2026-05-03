@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-05-02
+Last Updated: 2026-05-03
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -602,6 +602,7 @@ Last Updated: 2026-05-02
 - [garrytan/gstack](https://github.com/garrytan/gstack): This repository provides Garry Tan's opinionated Claude Code setup, offering six AI-powered tools to manage various software development roles.
 - [RGLie/AgentBlue](https://github.com/RGLie/AgentBlue): AgentBlue is a repository with no provided description, but its name suggests a focus on agent-based systems or automation.
 - [huggingface/ml-intern](https://github.com/huggingface/ml-intern): An open-source AI agent that automates various tasks for ML engineers, from research to model training and deployment.
+- [huggingface/ml-intern](https://github.com/huggingface/ml-intern): An open-source AI agent designed to function as an ML engineer by reading papers, training models, and deploying them.
 
 ## AI Development Tools/Libraries
 - [BerriAI/litellm](https://github.com/BerriAI/litellm): A Python SDK and proxy server that provides a unified interface for calling over 100 LLM APIs with features like cost tracking and load balancing.
@@ -1950,7 +1951,18 @@ Last Updated: 2026-05-02
 
 ## AI Platforms
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx): An open-source AI platform providing advanced AI chat features compatible with any Large Language Model.
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx): An open-source AI platform offering advanced AI chat capabilities compatible with any Large Language Model.
 
 ## AI Agent Frameworks
 - [Q00/ouroboros](https://github.com/Q00/ouroboros): An Agent OS framework that enables users to specify and control AI agents in a structured manner, moving beyond simple prompting.
+- [Q00/ouroboros](https://github.com/Q00/ouroboros): An "Agent OS" designed to facilitate the specification of AI agent behavior rather than traditional prompting.
+
+## LLM Infrastructure
+- [dimohy/IgnisCore](https://github.com/dimohy/IgnisCore): An experimental C#/.NET LLM inference engine leveraging Vulkan Compute to run GGUF models on Windows GPUs with advanced features like FlashAttention and KV-cache compression.
+
+## Generative AI Applications
+- [nexu-io/open-design](https://github.com/nexu-io/open-design): A local-first, open-source AI design alternative that generates web, desktop, and mobile prototypes, slides, images, and videos using various AI models.
+
+## AI/ML Learning Resources
+- [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium): A comprehensive compendium designed to help individuals become proficient AI/ML Research Engineers.
 
