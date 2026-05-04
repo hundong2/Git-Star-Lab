@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-05-03
+Last Updated: 2026-05-04
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1965,4 +1965,13 @@ Last Updated: 2026-05-03
 
 ## AI/ML Learning Resources
 - [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium): A comprehensive compendium designed to help individuals become proficient AI/ML Research Engineers.
+
+## Large Language Models & Generative AI
+- [ZHZisZZ/dllm](https://github.com/ZHZisZZ/dllm): An implementation focusing on simple diffusion language modeling, named dLLM.
+- [dimohy/IgnisCore](https://github.com/dimohy/IgnisCore): An experimental local LLM inference engine built in C#/.NET, leveraging Vulkan Compute for efficient Gemma 4 GGUF model execution on Windows GPUs.
+- [nexu-io/open-design](https://github.com/nexu-io/open-design): A local-first, open-source AI-powered design tool offering an alternative to Claude Design, capable of generating various prototypes and media with multiple export options.
+
+## 3D Graphics & Content Creation
+- [RVizSplat/RVizSplat](https://github.com/RVizSplat/RVizSplat): A project focused on rendering 3D Gaussian Splats within the RViz2 robotics visualization environment.
+- [visualbruno/3DGenStudio](https://github.com/visualbruno/3DGenStudio): A studio or platform designed for the generation of 3D content.
 
