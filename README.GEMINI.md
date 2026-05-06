@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-05-04
+Last Updated: 2026-05-06
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1590,6 +1590,7 @@ Last Updated: 2026-05-04
 - [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos): Offers a theoretical reconstruction of the Claude Mythos architecture, built from available research literature to understand its design principles.
 - [google-research/timesfm](https://github.com/google-research/timesfm): Presents TimesFM, a pretrained time-series foundation model developed by Google Research for advanced time-series forecasting.
 - [facebookresearch/ai4animationpy](https://github.com/facebookresearch/ai4animationpy): This Python framework enables AI-driven character animation through the application of neural networks.
+- [ZHZisZZ/dllm](https://github.com/ZHZisZZ/dllm): This repository implements dLLM, a framework focused on simple diffusion-based language modeling.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
@@ -1974,4 +1975,10 @@ Last Updated: 2026-05-04
 ## 3D Graphics & Content Creation
 - [RVizSplat/RVizSplat](https://github.com/RVizSplat/RVizSplat): A project focused on rendering 3D Gaussian Splats within the RViz2 robotics visualization environment.
 - [visualbruno/3DGenStudio](https://github.com/visualbruno/3DGenStudio): A studio or platform designed for the generation of 3D content.
+
+## 3D Graphics & Visualization
+- [RVizSplat/RVizSplat](https://github.com/RVizSplat/RVizSplat): This repository provides a tool for rendering 3D Gaussian Splats within the RViz2 visualization environment.
+
+## 3D Content Generation
+- [visualbruno/3DGenStudio](https://github.com/visualbruno/3DGenStudio): This repository appears to be a studio or toolkit designed for generating 3D content.
 
