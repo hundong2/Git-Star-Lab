@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-05-06
+Last Updated: 2026-05-08
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1981,4 +1981,18 @@ Last Updated: 2026-05-06
 
 ## 3D Content Generation
 - [visualbruno/3DGenStudio](https://github.com/visualbruno/3DGenStudio): This repository appears to be a studio or toolkit designed for generating 3D content.
+
+## AI Platforms & Infrastructure
+- [NeoMind](https://github.com/camthink-ai/NeoMind): A Rust-based edge AI platform that leverages LLMs for autonomous device management and automated decision-making.
+- [OpenKB](https://github.com/VectifyAI/OpenKB): An open-source knowledge base designed to support Large Language Models.
+
+## AI-Powered Applications & Tools
+- [chromex](https://github.com/GENEXIS-AI/chromex): A Codex-powered Chrome side-panel assistant that enhances workflows for page context, tabs, voice, and images.
+- [browser-harness](https://github.com/browser-use/browser-harness): A self-healing browser harness enabling Large Language Models to complete arbitrary tasks.
+
+## Robotics & Computer Vision
+- [lidar-perception-pipeline](https://github.com/bonsai89/lidar-perception-pipeline): A pipeline designed for processing and interpreting data from LiDAR sensors for perception tasks.
+
+## Multimedia & Productivity
+- [monocurl](https://github.com/monocurl/monocurl): A desktop application used for creating mathematical videos and slideshows.
 
