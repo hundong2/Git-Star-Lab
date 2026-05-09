@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-05-08
+Last Updated: 2026-05-09
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1995,4 +1995,19 @@ Last Updated: 2026-05-08
 
 ## Multimedia & Productivity
 - [monocurl](https://github.com/monocurl/monocurl): A desktop application used for creating mathematical videos and slideshows.
+
+## Edge AI & Platforms
+- [NeoMind](https://github.com/camthink-ai/NeoMind): NeoMind is a Rust-based edge AI platform that leverages LLMs for autonomous device management and automated decision-making.
+
+## Content Creation & Multimedia
+- [monocurl](https://github.com/monocurl/monocurl): monocurl is a desktop application designed for creating math-based videos and slideshows.
+
+## Browser Extensions & AI Assistants
+- [chromex](https://github.com/GENEXIS-AI/chromex): chromex is a Codex-powered Chrome side-panel assistant that enhances browser workflows with page context, tabs, voice, and image capabilities.
+
+## LLM Automation & Orchestration
+- [browser-harness](https://github.com/browser-use/browser-harness): Browser Harness is a self-healing system that enables Large Language Models (LLMs) to complete any task by interacting with web browsers.
+
+## LLM Data & Knowledge Bases
+- [OpenKB](https://github.com/VectifyAI/OpenKB): OpenKB is an open knowledge base specifically designed to support Large Language Models (LLMs).
 
