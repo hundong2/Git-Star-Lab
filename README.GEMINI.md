@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-05-09
+Last Updated: 2026-05-10
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1591,6 +1591,7 @@ Last Updated: 2026-05-09
 - [google-research/timesfm](https://github.com/google-research/timesfm): Presents TimesFM, a pretrained time-series foundation model developed by Google Research for advanced time-series forecasting.
 - [facebookresearch/ai4animationpy](https://github.com/facebookresearch/ai4animationpy): This Python framework enables AI-driven character animation through the application of neural networks.
 - [ZHZisZZ/dllm](https://github.com/ZHZisZZ/dllm): This repository implements dLLM, a framework focused on simple diffusion-based language modeling.
+- [TruongDat05/machine-learning-notes-and-code](https://github.com/TruongDat05/machine-learning-notes-and-code): This repository contains study notes and lab code for a Machine Learning Specialization.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
@@ -2010,4 +2011,7 @@ Last Updated: 2026-05-09
 
 ## LLM Data & Knowledge Bases
 - [OpenKB](https://github.com/VectifyAI/OpenKB): OpenKB is an open knowledge base specifically designed to support Large Language Models (LLMs).
+
+## Public Data Archive
+- [ckpxgfnksd-max/uap-release-01](https://github.com/ckpxgfnksd-max/uap-release-01): This repository mirrors the May 2026 war.gov PURSUE UAP/UFO release, serving as an LFS-backed example corpus for UAP analysis tools.
 
