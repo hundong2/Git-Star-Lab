@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-05-10
+Last Updated: 2026-05-11
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -464,6 +464,8 @@ Last Updated: 2026-05-10
 - [mandarwagh9/openeyes](https://github.com/mandarwagh9/openeyes): A vision system developed to provide perception capabilities specifically for humanoid robots.
 - [rvxfahim/voxelize_navmesh](https://github.com/rvxfahim/voxelize_navmesh): Provides a voxel-based navigation mesh workflow designed for efficient pathfinding within point cloud environments.
 - [stanford-iris-lab/meta-harness](https://github.com/stanford-iris-lab/meta-harness): Contains the reference code accompanying the "Meta-Harness" research paper, likely related to robotics or intelligent systems from Stanford's IRIS Lab.
+- [mekion/the-bimo-project](https://github.com/mekion/the-bimo-project): This project provides an open-source, 3D-printable bipedal robotics platform with a Python API and sim-to-real transfer capabilities via Isaac Lab.
+- [rlxai/rbot](https://github.com/rlxai/rbot): This repository provides an open-source, end-to-end simulation stack for autonomous mobile robots, utilizing ROS 2 Jazzy and Gazebo Harmonic.
 
 ## Gaming & AI
 - [deeean/silksong-agent](https://github.com/deeean/silksong-agent): An RL agent specifically developed to play boss fights in the game Hollow Knight: Silksong.
@@ -1592,6 +1594,8 @@ Last Updated: 2026-05-10
 - [facebookresearch/ai4animationpy](https://github.com/facebookresearch/ai4animationpy): This Python framework enables AI-driven character animation through the application of neural networks.
 - [ZHZisZZ/dllm](https://github.com/ZHZisZZ/dllm): This repository implements dLLM, a framework focused on simple diffusion-based language modeling.
 - [TruongDat05/machine-learning-notes-and-code](https://github.com/TruongDat05/machine-learning-notes-and-code): This repository contains study notes and lab code for a Machine Learning Specialization.
+- [MercuriusTech/Odyseus-Spatial-VLM](https://github.com/MercuriusTech/Odyseus-Spatial-VLM): This repository likely focuses on a Spatial Vision-Language Model (VLM), exploring multi-modal AI and spatial reasoning.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML): This repository offers comprehensive learning resources for developing, deploying, and iterating on production-grade machine learning applications.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
@@ -2014,4 +2018,7 @@ Last Updated: 2026-05-10
 
 ## Public Data Archive
 - [ckpxgfnksd-max/uap-release-01](https://github.com/ckpxgfnksd-max/uap-release-01): This repository mirrors the May 2026 war.gov PURSUE UAP/UFO release, serving as an LFS-backed example corpus for UAP analysis tools.
+
+## Data Repository
+- [ckpxgfnksd-max/uap-release-01](https://github.com/ckpxgfnksd-max/uap-release-01): This repository serves as a mirror of the May 2026 war.gov PURSUE UAP/UFO release, acting as an LFS-backed example corpus for analysis.
 
