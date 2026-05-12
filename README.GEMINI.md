@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-05-11
+Last Updated: 2026-05-12
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -466,6 +466,8 @@ Last Updated: 2026-05-11
 - [stanford-iris-lab/meta-harness](https://github.com/stanford-iris-lab/meta-harness): Contains the reference code accompanying the "Meta-Harness" research paper, likely related to robotics or intelligent systems from Stanford's IRIS Lab.
 - [mekion/the-bimo-project](https://github.com/mekion/the-bimo-project): This project provides an open-source, 3D-printable bipedal robotics platform with a Python API and sim-to-real transfer capabilities via Isaac Lab.
 - [rlxai/rbot](https://github.com/rlxai/rbot): This repository provides an open-source, end-to-end simulation stack for autonomous mobile robots, utilizing ROS 2 Jazzy and Gazebo Harmonic.
+- [mekion/the-bimo-project](https://github.com/mekion/the-bimo-project): A fully 3D printable, open-source bipedal robotics platform featuring a Python API and sim-to-real transfer capabilities within the Isaac Lab environment.
+- [rlxai/rbot](https://github.com/rlxai/rbot): An open-source, end-to-end simulation stack designed for Autonomous Mobile Robots, compatible with ROS 2 Jazzy and Gazebo Harmonic.
 
 ## Gaming & AI
 - [deeean/silksong-agent](https://github.com/deeean/silksong-agent): An RL agent specifically developed to play boss fights in the game Hollow Knight: Silksong.
@@ -1596,6 +1598,8 @@ Last Updated: 2026-05-11
 - [TruongDat05/machine-learning-notes-and-code](https://github.com/TruongDat05/machine-learning-notes-and-code): This repository contains study notes and lab code for a Machine Learning Specialization.
 - [MercuriusTech/Odyseus-Spatial-VLM](https://github.com/MercuriusTech/Odyseus-Spatial-VLM): This repository likely focuses on a Spatial Vision-Language Model (VLM), exploring multi-modal AI and spatial reasoning.
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML): This repository offers comprehensive learning resources for developing, deploying, and iterating on production-grade machine learning applications.
+- [MercuriusTech/Odyseus-Spatial-VLM](https://github.com/MercuriusTech/Odyseus-Spatial-VLM): An open-source framework for developing spatially-aware Vision-Language Models capable of understanding and interacting with 3D environments.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML): An educational resource for learning the development, deployment, and iteration processes of production-grade Machine Learning applications.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
