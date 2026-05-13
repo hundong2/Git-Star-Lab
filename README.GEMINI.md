@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-05-12
+Last Updated: 2026-05-13
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -2025,4 +2025,7 @@ Last Updated: 2026-05-12
 
 ## Data Repository
 - [ckpxgfnksd-max/uap-release-01](https://github.com/ckpxgfnksd-max/uap-release-01): This repository serves as a mirror of the May 2026 war.gov PURSUE UAP/UFO release, acting as an LFS-backed example corpus for analysis.
+
+## Generative AI
+- [tachikomared/character-animation-creator-skill](https://github.com/tachikomared/character-animation-creator-skill): This repository provides an AI skill for agents like Codex and GPT to generate game-ready character animations and sprites from text prompts or reference images.
 
