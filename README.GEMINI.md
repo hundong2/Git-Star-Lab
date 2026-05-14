@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-05-13
+Last Updated: 2026-05-14
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -2028,4 +2028,10 @@ Last Updated: 2026-05-13
 
 ## Generative AI
 - [tachikomared/character-animation-creator-skill](https://github.com/tachikomared/character-animation-creator-skill): This repository provides an AI skill for agents like Codex and GPT to generate game-ready character animations and sprites from text prompts or reference images.
+
+## Robotics & AI Research
+- [Embodied-R1](https://github.com/pickxiguapi/Embodied-R1): This repository contains the official code for a research project on reinforced embodied reasoning for general robotic manipulation.
+
+## Generative AI Tools
+- [character-animation-creator-skill](https://github.com/tachikomared/character-animation-creator-skill): This project offers an AI skill for Codex and GPT agents to generate game-ready character animations and sprites from images or text.
 
