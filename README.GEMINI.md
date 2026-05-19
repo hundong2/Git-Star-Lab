@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-05-18
+Last Updated: 2026-05-19
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1601,6 +1601,7 @@ Last Updated: 2026-05-18
 - [MercuriusTech/Odyseus-Spatial-VLM](https://github.com/MercuriusTech/Odyseus-Spatial-VLM): An open-source framework for developing spatially-aware Vision-Language Models capable of understanding and interacting with 3D environments.
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML): An educational resource for learning the development, deployment, and iteration processes of production-grade Machine Learning applications.
 - [dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference): A comprehensive guide and toolkit for deploying deep learning inference and computer vision models on NVIDIA Jetson platforms using TensorRT.
+- [dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference): This repository provides a guide for deploying deep-learning inference networks and deep vision primitives using TensorRT on NVIDIA Jetson devices.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
