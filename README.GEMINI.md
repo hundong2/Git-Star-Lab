@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-05-19
+Last Updated: 2026-05-21
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1835,6 +1835,7 @@ Last Updated: 2026-05-19
 
 ## Educational Resources
 - [weijie-chen/Linear-Algebra-With-Python](https://github.com/weijie-chen/Linear-Algebra-With-Python): This repository offers lecture notes to teach or refresh foundational linear algebra concepts using Python for computation and visualization, crucial for data science and quantitative fields.
+- [christian289/dotnet-with-claudecode](https://github.com/christian289/dotnet-with-claudecode): A tutorial designed to guide users through .NET development, potentially incorporating or demonstrating the use of an AI assistant named ClaudeCode.
 
 ## Computer Vision Resources
 - [awesome_3DVision_2026_conference](https://github.com/harpreetsahota204/awesome_3DVision_2026_conference): A curated list of notable research papers presented at the 2026 3D Vision Conference.
@@ -2037,4 +2038,13 @@ Last Updated: 2026-05-19
 
 ## Generative AI Tools
 - [character-animation-creator-skill](https://github.com/tachikomared/character-animation-creator-skill): This project offers an AI skill for Codex and GPT agents to generate game-ready character animations and sprites from images or text.
+
+## Resource Collection
+- [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill): A comprehensive collection of tools, information, and utilities specifically curated for Korean users, covering various daily life, cultural, and financial aspects.
+
+## Multimedia Tools
+- [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif): A desktop application enabling users to record selected screen areas, then edit and save the captures as GIFs or videos.
+
+## Foundational AI/ML
+- [OpenSenseNova/SenseNova-U1](https://github.com/OpenSenseNova/SenseNova-U1): Presents the SenseNova-U series, detailing a native unified paradigm and NEO-unify approach developed from first principles, indicating foundational research in AI/ML or a novel computing framework.
 
