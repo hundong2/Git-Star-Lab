@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-05-21
+Last Updated: 2026-05-22
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -607,6 +607,7 @@ Last Updated: 2026-05-21
 - [RGLie/AgentBlue](https://github.com/RGLie/AgentBlue): AgentBlue is a repository with no provided description, but its name suggests a focus on agent-based systems or automation.
 - [huggingface/ml-intern](https://github.com/huggingface/ml-intern): An open-source AI agent that automates various tasks for ML engineers, from research to model training and deployment.
 - [huggingface/ml-intern](https://github.com/huggingface/ml-intern): An open-source AI agent designed to function as an ML engineer by reading papers, training models, and deploying them.
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent): This repository contains an AI agent designed to learn and evolve with user interaction.
 
 ## AI Development Tools/Libraries
 - [BerriAI/litellm](https://github.com/BerriAI/litellm): A Python SDK and proxy server that provides a unified interface for calling over 100 LLM APIs with features like cost tracking and load balancing.
@@ -1504,6 +1505,8 @@ Last Updated: 2026-05-21
 - [m0at/rvllm](https://github.com/m0at/rvllm): This repository provides a high-performance LLM inference engine written in Rust, designed as a drop-in replacement for vLLM.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills): A repository providing production-grade engineering skills designed to enhance AI coding agents.
 - [kessler/gemma-gem](https://github.com/kessler/gemma-gem): Gemma Gem enables running Google's Gemma 4 model entirely on-device via WebGPU, bypassing cloud and API dependencies.
+- [hundong2/whichllm](https://github.com/hundong2/whichllm): This tool helps users find and benchmark local Large Language Models (LLMs) that perform optimally on their specific hardware.
+- [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm): This tool helps users find and benchmark local Large Language Models (LLMs) that perform optimally on their specific hardware.
 
 ## AI Agent Tools
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator): A visual tool to annotate, review, share, and provide feedback on coding agent plans for teams.
@@ -1836,6 +1839,7 @@ Last Updated: 2026-05-21
 ## Educational Resources
 - [weijie-chen/Linear-Algebra-With-Python](https://github.com/weijie-chen/Linear-Algebra-With-Python): This repository offers lecture notes to teach or refresh foundational linear algebra concepts using Python for computation and visualization, crucial for data science and quantitative fields.
 - [christian289/dotnet-with-claudecode](https://github.com/christian289/dotnet-with-claudecode): A tutorial designed to guide users through .NET development, potentially incorporating or demonstrating the use of an AI assistant named ClaudeCode.
+- [christian289/dotnet-with-claudecode](https://github.com/christian289/dotnet-with-claudecode): This repository provides a tutorial for .NET development, presumably integrating or using "ClaudeCode" as part of the learning process.
 
 ## Computer Vision Resources
 - [awesome_3DVision_2026_conference](https://github.com/harpreetsahota204/awesome_3DVision_2026_conference): A curated list of notable research papers presented at the 2026 3D Vision Conference.
@@ -2044,7 +2048,11 @@ Last Updated: 2026-05-21
 
 ## Multimedia Tools
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif): A desktop application enabling users to record selected screen areas, then edit and save the captures as GIFs or videos.
+- [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif): This application allows users to record screen activity, edit the footage, and export it as a GIF or video file.
 
 ## Foundational AI/ML
 - [OpenSenseNova/SenseNova-U1](https://github.com/OpenSenseNova/SenseNova-U1): Presents the SenseNova-U series, detailing a native unified paradigm and NEO-unify approach developed from first principles, indicating foundational research in AI/ML or a novel computing framework.
+
+## Utilities
+- [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill): This repository offers a collection of skills and utilities specifically tailored for Korean users, covering various local services and information.
 
