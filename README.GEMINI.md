@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-05-24
+Last Updated: 2026-05-25
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1920,6 +1920,7 @@ Last Updated: 2026-05-24
 ## Robotics & AI
 - [openeyes](https://github.com/mandarwagh9/openeyes): This repository develops a vision system specifically designed for humanoid robots.
 - [openvla/openvla](https://github.com/openvla/openvla): OpenVLA is an open-source vision-language-action model designed to enable robotic manipulation.
+- [openvla/openvla](https://github.com/openvla/openvla): OpenVLA is an open-source vision-language-action model designed to enable robotic manipulation through advanced AI capabilities.
 
 ## AI Infrastructure & Performance
 - [rvllm](https://github.com/m0at/rvllm): rvLLM provides a high-performance LLM inference engine written in Rust, serving as a drop-in replacement for vLLM.
