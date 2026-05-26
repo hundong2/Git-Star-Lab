@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-05-25
+Last Updated: 2026-05-26
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1508,6 +1508,7 @@ Last Updated: 2026-05-25
 - [kessler/gemma-gem](https://github.com/kessler/gemma-gem): Gemma Gem enables running Google's Gemma 4 model entirely on-device via WebGPU, bypassing cloud and API dependencies.
 - [hundong2/whichllm](https://github.com/hundong2/whichllm): This tool helps users find and benchmark local Large Language Models (LLMs) that perform optimally on their specific hardware.
 - [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm): This tool helps users find and benchmark local Large Language Models (LLMs) that perform optimally on their specific hardware.
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph): This project offers a pre-indexed code knowledge graph to optimize and enhance various AI code models and agents by reducing token usage and tool calls locally.
 
 ## AI Agent Tools
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator): A visual tool to annotate, review, share, and provide feedback on coding agent plans for teams.
@@ -1606,6 +1607,7 @@ Last Updated: 2026-05-25
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML): An educational resource for learning the development, deployment, and iteration processes of production-grade Machine Learning applications.
 - [dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference): A comprehensive guide and toolkit for deploying deep learning inference and computer vision models on NVIDIA Jetson platforms using TensorRT.
 - [dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference): This repository provides a guide for deploying deep-learning inference networks and deep vision primitives using TensorRT on NVIDIA Jetson devices.
+- [hundong2/openvla](https://github.com/hundong2/openvla): This repository provides an open-source vision-language-action model designed to enable robotic manipulation.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
