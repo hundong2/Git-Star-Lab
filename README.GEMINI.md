@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-05-26
+Last Updated: 2026-05-27
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -468,6 +468,7 @@ Last Updated: 2026-05-26
 - [rlxai/rbot](https://github.com/rlxai/rbot): This repository provides an open-source, end-to-end simulation stack for autonomous mobile robots, utilizing ROS 2 Jazzy and Gazebo Harmonic.
 - [mekion/the-bimo-project](https://github.com/mekion/the-bimo-project): A fully 3D printable, open-source bipedal robotics platform featuring a Python API and sim-to-real transfer capabilities within the Isaac Lab environment.
 - [rlxai/rbot](https://github.com/rlxai/rbot): An open-source, end-to-end simulation stack designed for Autonomous Mobile Robots, compatible with ROS 2 Jazzy and Gazebo Harmonic.
+- [hundong2/openvla](https://github.com/hundong2/openvla): OpenVLA is an open-source vision-language-action model designed for robotic manipulation tasks.
 
 ## Gaming & AI
 - [deeean/silksong-agent](https://github.com/deeean/silksong-agent): An RL agent specifically developed to play boss fights in the game Hollow Knight: Silksong.
