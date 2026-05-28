@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-05-27
+Last Updated: 2026-05-28
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -2063,4 +2063,7 @@ Last Updated: 2026-05-27
 
 ## Utilities
 - [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill): This repository offers a collection of skills and utilities specifically tailored for Korean users, covering various local services and information.
+
+## Data Processing
+- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf): This open-source tool parses PDF documents to extract and prepare AI-ready data, automating accessibility.
 
