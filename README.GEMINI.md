@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-05-28
+Last Updated: 2026-05-29
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -2066,4 +2066,7 @@ Last Updated: 2026-05-28
 
 ## Data Processing
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf): This open-source tool parses PDF documents to extract and prepare AI-ready data, automating accessibility.
+
+## AI Data Tools
+- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf): This open-source tool parses PDF documents to extract and prepare AI-ready data, aiming to automate PDF accessibility for AI applications.
 
