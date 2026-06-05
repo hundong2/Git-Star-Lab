@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-06-04
+Last Updated: 2026-06-05
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -2073,7 +2073,11 @@ Last Updated: 2026-06-04
 
 ## Quantum Computing
 - [Qiskit/qiskit](https://github.com/Qiskit/qiskit): An open-source SDK for developing and running programs on quantum computers, focusing on extended quantum circuits and operators.
+- [Qiskit/qiskit](https://github.com/Qiskit/qiskit): Qiskit is an open-source SDK for developing and interacting with quantum computers using extended quantum circuits, operators, and primitives.
 
 ## AI-Powered 3D Tools
 - [tangtangtang1995/3D-Claw](https://github.com/tangtangtang1995/3D-Claw): An AI-assisted workspace designed for 3D geometry processing, featuring contextual AI guidance and algorithm visualization.
+
+## AI & 3D Graphics Tools
+- [tangtangtang1995/3D-Claw](https://github.com/tangtangtang1995/3D-Claw): This repository offers an AI-assisted workspace for 3D geometry processing, complete with contextual AI guidance and algorithm visualization.
 
