@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-06-05
+Last Updated: 2026-06-07
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -2080,4 +2080,7 @@ Last Updated: 2026-06-05
 
 ## AI & 3D Graphics Tools
 - [tangtangtang1995/3D-Claw](https://github.com/tangtangtang1995/3D-Claw): This repository offers an AI-assisted workspace for 3D geometry processing, complete with contextual AI guidance and algorithm visualization.
+
+## Data Generation
+- [Data-Centric-AI-Community/fg-data-synthetic](https://github.com/Data-Centric-AI-Community/fg-data-synthetic): This repository provides tools for generating synthetic tabular and time-series data.
 
