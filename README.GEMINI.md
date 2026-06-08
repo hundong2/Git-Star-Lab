@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-06-07
+Last Updated: 2026-06-08
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1511,6 +1511,7 @@ Last Updated: 2026-06-07
 - [hundong2/whichllm](https://github.com/hundong2/whichllm): This tool helps users find and benchmark local Large Language Models (LLMs) that perform optimally on their specific hardware.
 - [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm): This tool helps users find and benchmark local Large Language Models (LLMs) that perform optimally on their specific hardware.
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph): This project offers a pre-indexed code knowledge graph to optimize and enhance various AI code models and agents by reducing token usage and tool calls locally.
+- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi): This project provides an OpenAI-compatible proxy that aggregates free tiers from multiple LLM providers, offering smart routing, automatic failover, and encrypted key management for large-scale token access.
 
 ## AI Agent Tools
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator): A visual tool to annotate, review, share, and provide feedback on coding agent plans for teams.
@@ -2083,4 +2084,7 @@ Last Updated: 2026-06-07
 
 ## Data Generation
 - [Data-Centric-AI-Community/fg-data-synthetic](https://github.com/Data-Centric-AI-Community/fg-data-synthetic): This repository provides tools for generating synthetic tabular and time-series data.
+
+## Data Science Tools
+- [Data-Centric-AI-Community/fg-data-synthetic](https://github.com/Data-Centric-AI-Community/fg-data-synthetic): This repository offers various generators for creating synthetic tabular and time-series data, aiding in data-centric AI development and experimentation.
 
