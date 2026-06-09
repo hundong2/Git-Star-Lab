@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-06-08
+Last Updated: 2026-06-09
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1657,6 +1657,7 @@ Last Updated: 2026-06-08
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew): This project offers an experimental, significantly faster alternative to the Homebrew package manager for macOS.
 - [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py): This repository provides an unofficial Python API for interacting with Google NotebookLM.
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad): This tool allows users to manage and orchestrate multiple AI terminal agents, such as Claude Code, Codex, OpenCode, and Amp.
+- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi): An OpenAI-compatible proxy that aggregates free tiers from multiple LLM providers into a single endpoint, offering smart routing and automatic failover.
 
 ## Web Development / AI
 - [GoogleChromeLabs/web-ai-demos](https://github.com/GoogleChromeLabs/web-ai-demos): This repository from Google Chrome Labs showcases demonstrations of integrating and utilizing AI capabilities directly within web browsers.
