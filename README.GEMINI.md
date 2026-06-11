@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-06-09
+Last Updated: 2026-06-11
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -2088,4 +2088,10 @@ Last Updated: 2026-06-09
 
 ## Data Science Tools
 - [Data-Centric-AI-Community/fg-data-synthetic](https://github.com/Data-Centric-AI-Community/fg-data-synthetic): This repository offers various generators for creating synthetic tabular and time-series data, aiding in data-centric AI development and experimentation.
+
+## Computer Vision Tutorials
+- [roboflow/notebooks](https://github.com/roboflow/notebooks): This repository provides a collection of tutorials covering state-of-the-art computer vision models and techniques, from foundational architectures to advanced models like YOLO11 and SAM 3.
+
+## SDR Applications
+- [cpaczek/skylight](https://github.com/cpaczek/skylight): This project uses an RTL-SDR to project real-time overhead aircraft and a dynamic sky layer, complete with sun, moon, stars, and the ISS, onto a ceiling.
 
