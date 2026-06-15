@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-06-14
+Last Updated: 2026-06-15
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1613,6 +1613,7 @@ Last Updated: 2026-06-14
 - [dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference): This repository provides a guide for deploying deep-learning inference networks and deep vision primitives using TensorRT on NVIDIA Jetson devices.
 - [hundong2/openvla](https://github.com/hundong2/openvla): This repository provides an open-source vision-language-action model designed to enable robotic manipulation.
 - [vdumoulin/conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic): This repository offers a technical report explaining convolution arithmetic as applied in deep learning contexts.
+- [nanoowl](https://github.com/NVIDIA-AI-IOT/nanoowl): This project optimizes the OWL-ViT vision model for real-time inference using NVIDIA TensorRT.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
