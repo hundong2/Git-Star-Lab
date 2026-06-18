@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-06-15
+Last Updated: 2026-06-18
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1961,6 +1961,7 @@ Last Updated: 2026-06-15
 
 ## AI-Powered Knowledge Management
 - [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian): This repository integrates the Claude AI with Obsidian to build a persistent, compounding knowledge vault for research and personal knowledge management.
+- [llm_wiki](https://github.com/nashsu/llm_wiki): This cross-platform desktop application leverages LLMs to automatically build and maintain a persistent, interlinked knowledge base from user documents, offering an alternative to traditional RAG.
 
 ## 3D Graphics & Simulation
 - [NVIDIA/asset-harvester](https://github.com/NVIDIA/asset-harvester): NVIDIA's Asset Harvester extracts 3D assets from autonomous driving logs specifically for use in simulation environments.
@@ -1987,6 +1988,7 @@ Last Updated: 2026-06-15
 ## AI Agent Frameworks
 - [Q00/ouroboros](https://github.com/Q00/ouroboros): An Agent OS framework that enables users to specify and control AI agents in a structured manner, moving beyond simple prompting.
 - [Q00/ouroboros](https://github.com/Q00/ouroboros): An "Agent OS" designed to facilitate the specification of AI agent behavior rather than traditional prompting.
+- [omnigent](https://github.com/omnigent-ai/omnigent): This open-source AI agent framework and meta-harness allows for orchestration of various AI agents, enforcing policies, sandboxing, and facilitating real-time collaboration.
 
 ## LLM Infrastructure
 - [dimohy/IgnisCore](https://github.com/dimohy/IgnisCore): An experimental C#/.NET LLM inference engine leveraging Vulkan Compute to run GGUF models on Windows GPUs with advanced features like FlashAttention and KV-cache compression.
