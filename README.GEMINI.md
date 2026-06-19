@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-06-18
+Last Updated: 2026-06-19
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1513,6 +1513,7 @@ Last Updated: 2026-06-18
 - [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm): This tool helps users find and benchmark local Large Language Models (LLMs) that perform optimally on their specific hardware.
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph): This project offers a pre-indexed code knowledge graph to optimize and enhance various AI code models and agents by reducing token usage and tool calls locally.
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi): This project provides an OpenAI-compatible proxy that aggregates free tiers from multiple LLM providers, offering smart routing, automatic failover, and encrypted key management for large-scale token access.
+- [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki): LLM Wiki is a cross-platform desktop application that utilizes Large Language Models to automatically build and maintain an interlinked, persistent knowledge base from user documents, offering an incremental alternative to traditional RAG.
 
 ## AI Agent Tools
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator): A visual tool to annotate, review, share, and provide feedback on coding agent plans for teams.
