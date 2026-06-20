@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-06-19
+Last Updated: 2026-06-20
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -2103,4 +2103,7 @@ Last Updated: 2026-06-19
 
 ## Signal Processing
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code): This repository likely contains code related to Multiple-Input Multiple-Output (MIMO) systems, a common concept in wireless communications and signal processing.
+
+## Computer Graphics
+- [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians): This repository presents a CVPR 2024 method for real-time dynamic scene rendering utilizing 4D Gaussian Splatting.
 
