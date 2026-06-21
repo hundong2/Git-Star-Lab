@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-06-20
+Last Updated: 2026-06-21
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1490,6 +1490,7 @@ Last Updated: 2026-06-20
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills): This is a comprehensive collection of over 200 agent skills for AI models like Claude, Codex, and Gemini CLI, contributed by official teams and the community.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): This repository is an awesome collection of applications built with Large Language Models (LLMs), featuring AI agents and RAG implementations.
 - [Overshoot-ai/vlm-benchmarks](https://github.com/Overshoot-ai/vlm-benchmarks): A daily auto-updated collection of over 2500 benchmarks for Vision-Language Models sourced from arXiv.
+- [12britz/awesome-free-models](https://github.com/12britz/awesome-free-models): This repository offers a curated list of free AI models, APIs, and tools that can be utilized without cost.
 
 ## AI Tools
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex): PageIndex provides a document indexing solution tailored for vectorless, reasoning-based Retrieval Augmented Generation (RAG) systems.
