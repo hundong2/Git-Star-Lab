@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-06-21
+Last Updated: 2026-06-22
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -2107,4 +2107,13 @@ Last Updated: 2026-06-21
 
 ## Computer Graphics
 - [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians): This repository presents a CVPR 2024 method for real-time dynamic scene rendering utilizing 4D Gaussian Splatting.
+
+## Developer Tools & Resources
+- [mattpocock/skills](https://github.com/mattpocock/skills): This repository contains a collection of practical skills, prompts, and configurations for engineers, likely derived from personal use with AI assistants like Claude.
+
+## Machine Learning Research
+- [facebookresearch/meshflow](https://github.com/facebookresearch/meshflow): This repository hosts the official implementation of MeshFlow, a research project for efficient artistic 3D mesh generation using advanced generative AI models.
+
+## AI Resource Curation
+- [12britz/awesome-free-models](https://github.com/12britz/awesome-free-models): This is an awesome list providing a curated collection of free artificial intelligence models, APIs, and tools.
 
