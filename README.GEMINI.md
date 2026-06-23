@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-06-22
+Last Updated: 2026-06-23
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1515,6 +1515,7 @@ Last Updated: 2026-06-22
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph): This project offers a pre-indexed code knowledge graph to optimize and enhance various AI code models and agents by reducing token usage and tool calls locally.
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi): This project provides an OpenAI-compatible proxy that aggregates free tiers from multiple LLM providers, offering smart routing, automatic failover, and encrypted key management for large-scale token access.
 - [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki): LLM Wiki is a cross-platform desktop application that utilizes Large Language Models to automatically build and maintain an interlinked, persistent knowledge base from user documents, offering an incremental alternative to traditional RAG.
+- [mex-memory/mex](https://github.com/mex-memory/mex): A CLI tool providing persistent project memory, structured scaffolding, and drift detection for AI coding agents.
 
 ## AI Agent Tools
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator): A visual tool to annotate, review, share, and provide feedback on coding agent plans for teams.
@@ -2116,4 +2117,7 @@ Last Updated: 2026-06-22
 
 ## AI Resource Curation
 - [12britz/awesome-free-models](https://github.com/12britz/awesome-free-models): This is an awesome list providing a curated collection of free artificial intelligence models, APIs, and tools.
+
+## Developer Resources
+- [mattpocock/skills](https://github.com/mattpocock/skills): A curated collection of engineering skills, best practices, and AI-assisted workflows from the author's personal directory.
 
