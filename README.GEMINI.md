@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-06-23
+Last Updated: 2026-06-24
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1571,6 +1571,7 @@ Last Updated: 2026-06-23
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw): NemoClaw enables secure execution of OpenClaw within NVIDIA OpenShell, providing managed inference capabilities.
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable): Impeccable is a design language aimed at enhancing the design capabilities of AI harnesses.
 - [openclaude](https://github.com/Gitlawb/openclaude): This is an open-source CLI coding agent that integrates with numerous AI models, including OpenAI, Gemini, and Ollama, via compatible APIs.
+- [mex-memory/mex](https://github.com/mex-memory/mex): This CLI tool provides persistent project memory, a structured scaffold, and drift detection capabilities specifically designed for AI coding agents.
 
 ## AI Projects
 - [haeggee/hot-mess-of-ai](https://github.com/haeggee/hot-mess-of-ai): This repository appears to be a collection or experiment related to artificial intelligence.
