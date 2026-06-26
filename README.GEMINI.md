@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-06-24
+Last Updated: 2026-06-26
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -2121,4 +2121,7 @@ Last Updated: 2026-06-24
 
 ## Developer Resources
 - [mattpocock/skills](https://github.com/mattpocock/skills): A curated collection of engineering skills, best practices, and AI-assisted workflows from the author's personal directory.
+
+## AI Evaluation
+- [ApodexAI/AgentHarness](https://github.com/ApodexAI/AgentHarness): This repository provides an evaluation harness for assessing the Apodex-1.0 model's performance on public deep-research benchmarks.
 
