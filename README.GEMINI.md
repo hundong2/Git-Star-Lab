@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-06-28
+Last Updated: 2026-06-29
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1288,6 +1288,7 @@ Last Updated: 2026-06-28
 - [sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation](https://github.com/sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation): Netryx is a locally-hosted, open-source geolocation tool that leverages state-of-the-art computer vision to identify precise coordinates from street-level images, replicating high-end SaaS functionality.
 - [facebookresearch/sam3](https://github.com/facebookresearch/sam3): This repository offers code, trained model checkpoints, and example notebooks for running inference and finetuning with the Meta Segment Anything Model 3 (SAM 3).
 - [roboflow/notebooks](https://github.com/roboflow/notebooks): This repository offers tutorials and practical examples for state-of-the-art computer vision models and techniques.
+- [hazegreleases/fotonet](https://github.com/hazegreleases/fotonet): This repository appears to be a project related to image processing or computer vision, potentially involving neural networks, based on its name "fotonet".
 
 ## Data Serialization & RPC
 - [capnproto/capnproto](https://github.com/capnproto/capnproto): A data interchange format and RPC system, providing core tools and a C++ library.
@@ -2129,4 +2130,10 @@ Last Updated: 2026-06-28
 
 ## Uncategorized
 - [hazegreleases/fotonet](https://github.com/hazegreleases/fotonet): No description was provided for this repository, so an informative content-based category and specific summary cannot be determined.
+
+## Machine Learning Examples
+- [deepspeedai/DeepSpeedExamples](https://github.com/deepspeedai/DeepSpeedExamples): This repository provides example deep learning models demonstrating the usage of the DeepSpeed optimization library.
+
+## AI/ML Education
+- [mlabonne/llm-course](https://github.com/mlabonne/llm-course): This repository offers a comprehensive course with roadmaps and Colab notebooks for learning about Large Language Models (LLMs).
 
