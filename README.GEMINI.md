@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-06-29
+Last Updated: 2026-06-30
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1621,6 +1621,7 @@ Last Updated: 2026-06-29
 - [nanoowl](https://github.com/NVIDIA-AI-IOT/nanoowl): This project optimizes the OWL-ViT vision model for real-time inference using NVIDIA TensorRT.
 - [ApodexAI/AgentHarness](https://github.com/ApodexAI/AgentHarness): An evaluation harness designed for benchmarking the Apodex-1.0 model against public deep-research datasets.
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course): A comprehensive course providing roadmaps and Colab notebooks for learning Large Language Models (LLMs).
+- [deepspeedai/DeepSpeedExamples](https://github.com/deepspeedai/DeepSpeedExamples): This repository offers example deep learning models showcasing the implementation and usage of the DeepSpeed optimization library.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
