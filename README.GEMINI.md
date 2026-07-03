@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-07-02
+Last Updated: 2026-07-03
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1289,6 +1289,7 @@ Last Updated: 2026-07-02
 - [facebookresearch/sam3](https://github.com/facebookresearch/sam3): This repository offers code, trained model checkpoints, and example notebooks for running inference and finetuning with the Meta Segment Anything Model 3 (SAM 3).
 - [roboflow/notebooks](https://github.com/roboflow/notebooks): This repository offers tutorials and practical examples for state-of-the-art computer vision models and techniques.
 - [hazegreleases/fotonet](https://github.com/hazegreleases/fotonet): This repository appears to be a project related to image processing or computer vision, potentially involving neural networks, based on its name "fotonet".
+- [hank-ai/darknet](https://github.com/hank-ai/darknet): This repository provides an open-source neural network framework, Darknet, designed for real-time object detection using algorithms like YOLO.
 
 ## Data Serialization & RPC
 - [capnproto/capnproto](https://github.com/capnproto/capnproto): A data interchange format and RPC system, providing core tools and a C++ library.
@@ -2138,4 +2139,7 @@ Last Updated: 2026-07-02
 
 ## AI/ML Education
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course): This repository offers a comprehensive course with roadmaps and Colab notebooks for learning about Large Language Models (LLMs).
+
+## Machine Learning Datasets
+- [zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist): This repository hosts Fashion-MNIST, a dataset of Zalando's fashion article images, intended as a drop-in replacement and benchmark for the original MNIST dataset in machine learning.
 
