@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-07-03
+Last Updated: 2026-07-04
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -469,6 +469,7 @@ Last Updated: 2026-07-03
 - [mekion/the-bimo-project](https://github.com/mekion/the-bimo-project): A fully 3D printable, open-source bipedal robotics platform featuring a Python API and sim-to-real transfer capabilities within the Isaac Lab environment.
 - [rlxai/rbot](https://github.com/rlxai/rbot): An open-source, end-to-end simulation stack designed for Autonomous Mobile Robots, compatible with ROS 2 Jazzy and Gazebo Harmonic.
 - [hundong2/openvla](https://github.com/hundong2/openvla): OpenVLA is an open-source vision-language-action model designed for robotic manipulation tasks.
+- [WLaney/pifi-slam](https://github.com/WLaney/pifi-slam): This project implements Simultaneous Localization and Mapping (SLAM) using WiFi signals, designed to run on a Raspberry Pi.
 
 ## Gaming & AI
 - [deeean/silksong-agent](https://github.com/deeean/silksong-agent): An RL agent specifically developed to play boss fights in the game Hollow Knight: Silksong.
@@ -1290,6 +1291,7 @@ Last Updated: 2026-07-03
 - [roboflow/notebooks](https://github.com/roboflow/notebooks): This repository offers tutorials and practical examples for state-of-the-art computer vision models and techniques.
 - [hazegreleases/fotonet](https://github.com/hazegreleases/fotonet): This repository appears to be a project related to image processing or computer vision, potentially involving neural networks, based on its name "fotonet".
 - [hank-ai/darknet](https://github.com/hank-ai/darknet): This repository provides an open-source neural network framework, Darknet, designed for real-time object detection using algorithms like YOLO.
+- [hank-ai/darknet](https://github.com/hank-ai/darknet): This repository provides the Darknet framework, an open-source neural network framework notably used for the YOLO (You Only Look Once) real-time object detection system.
 
 ## Data Serialization & RPC
 - [capnproto/capnproto](https://github.com/capnproto/capnproto): A data interchange format and RPC system, providing core tools and a C++ library.
@@ -1624,6 +1626,7 @@ Last Updated: 2026-07-03
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course): A comprehensive course providing roadmaps and Colab notebooks for learning Large Language Models (LLMs).
 - [deepspeedai/DeepSpeedExamples](https://github.com/deepspeedai/DeepSpeedExamples): This repository offers example deep learning models showcasing the implementation and usage of the DeepSpeed optimization library.
 - [zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist): This repository provides a dataset of fashion product images, designed as a direct replacement for the original MNIST dataset for benchmarking machine learning algorithms.
+- [facebookresearch/VLM3](https://github.com/facebookresearch/VLM3): This repository provides the official implementation for a research paper demonstrating that Vision Language Models can natively learn 3D concepts.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
