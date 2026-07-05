@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-07-04
+Last Updated: 2026-07-05
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1627,6 +1627,7 @@ Last Updated: 2026-07-04
 - [deepspeedai/DeepSpeedExamples](https://github.com/deepspeedai/DeepSpeedExamples): This repository offers example deep learning models showcasing the implementation and usage of the DeepSpeed optimization library.
 - [zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist): This repository provides a dataset of fashion product images, designed as a direct replacement for the original MNIST dataset for benchmarking machine learning algorithms.
 - [facebookresearch/VLM3](https://github.com/facebookresearch/VLM3): This repository provides the official implementation for a research paper demonstrating that Vision Language Models can natively learn 3D concepts.
+- [facebookresearch/VLM3](https://github.com/facebookresearch/VLM3): This is the official implementation of the paper "VLM³", showcasing how Vision Language Models can natively learn 3D information.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
@@ -2145,4 +2146,10 @@ Last Updated: 2026-07-04
 
 ## Machine Learning Datasets
 - [zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist): This repository hosts Fashion-MNIST, a dataset of Zalando's fashion article images, intended as a drop-in replacement and benchmark for the original MNIST dataset in machine learning.
+
+## AI & Design Systems
+- [google-labs-code/design.md](https://github.com/google-labs-code/design.md): This repository defines DESIGN.md, a format specification enabling coding agents to persistently understand visual identities and design systems.
+
+## Robotics & Embedded Systems
+- [WLaney/pifi-slam](https://github.com/WLaney/pifi-slam): This project implements Simultaneous Localization and Mapping (SLAM) using WiFi signals, designed to run on a Raspberry Pi.
 
