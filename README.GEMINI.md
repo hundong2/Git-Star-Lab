@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-07-05
+Last Updated: 2026-07-07
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -562,6 +562,7 @@ Last Updated: 2026-07-05
 
 ## Robotics & Simulation
 - [isaac-sim/IsaacSim](https://github.com/isaac-sim/IsaacSim): An open-source application for developing, simulating, and testing AI-driven robots in virtual environments within NVIDIA Omniverse.
+- [NVlabs/ProtoMotions](https://github.com/NVlabs/ProtoMotions): ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.
 
 ## Productivity & Office Tools
 - [gavrielc/Nano-PDF](https://github.com/gavrielc/Nano-PDF): A tool for editing PDF files.
@@ -1292,6 +1293,8 @@ Last Updated: 2026-07-05
 - [hazegreleases/fotonet](https://github.com/hazegreleases/fotonet): This repository appears to be a project related to image processing or computer vision, potentially involving neural networks, based on its name "fotonet".
 - [hank-ai/darknet](https://github.com/hank-ai/darknet): This repository provides an open-source neural network framework, Darknet, designed for real-time object detection using algorithms like YOLO.
 - [hank-ai/darknet](https://github.com/hank-ai/darknet): This repository provides the Darknet framework, an open-source neural network framework notably used for the YOLO (You Only Look Once) real-time object detection system.
+- [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7): This repository implements YOLOv7, a state-of-the-art real-time object detector.
+- [aiptimizer/TurboOCR](https://github.com/aiptimizer/TurboOCR): TurboOCR is a fast, GPU-accelerated OCR server built with TensorRT and PP-OCRv5 for high-performance text recognition.
 
 ## Data Serialization & RPC
 - [capnproto/capnproto](https://github.com/capnproto/capnproto): A data interchange format and RPC system, providing core tools and a C++ library.
@@ -2152,4 +2155,14 @@ Last Updated: 2026-07-05
 
 ## Robotics & Embedded Systems
 - [WLaney/pifi-slam](https://github.com/WLaney/pifi-slam): This project implements Simultaneous Localization and Mapping (SLAM) using WiFi signals, designed to run on a Raspberry Pi.
+
+## Machine Learning Models & Frameworks
+- [allenai/olmoearth_pretrain](https://github.com/allenai/olmoearth_pretrain): This repository provides data, training, and evaluation resources for an Earth system foundation model.
+- [pjreddie/darknet](https://github.com/pjreddie/darknet): Darknet is an open-source framework focused on Convolutional Neural Networks.
+- [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM): MiniCPM is a state-of-the-art, small yet powerful 1-billion parameter Large Language Model optimized for on-device deployment.
+
+## Cloud & AI Development Tools
+- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog): This repository offers tools and samples for interacting with the Google Cloud Knowledge Catalog.
+- [jamesob/local-llm](https://github.com/jamesob/local-llm): This repository compiles knowledge and resources for running Large Language Models (LLMs) locally.
+- [google-labs-code/design.md](https://github.com/google-labs-code/design.md): DESIGN.md is a format specification for describing visual identity to coding agents, enabling structured understanding of design systems.
 
