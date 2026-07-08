@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-07-07
+Last Updated: 2026-07-08
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -2165,4 +2165,17 @@ Last Updated: 2026-07-07
 - [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog): This repository offers tools and samples for interacting with the Google Cloud Knowledge Catalog.
 - [jamesob/local-llm](https://github.com/jamesob/local-llm): This repository compiles knowledge and resources for running Large Language Models (LLMs) locally.
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md): DESIGN.md is a format specification for describing visual identity to coding agents, enabling structured understanding of design systems.
+
+## Deep Learning & Computer Vision
+- [pjreddie/darknet](https://github.com/pjreddie/darknet): A neural network framework primarily known for its implementation of Convolutional Neural Networks, including YOLO.
+- [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7): Provides the official implementation of the YOLOv7 model, setting new benchmarks for real-time object detection.
+- [jamesob/local-llm](https://github.com/jamesob/local-llm): A comprehensive resource detailing how to run Large Language Models (LLMs) efficiently on local machines.
+- [allenai/olmoearth_pretrain](https://github.com/allenai/olmoearth_pretrain): Offers data, training tools, and evaluation resources for an Earth system foundation model.
+
+## Robotics & AI Systems
+- [NVlabs/ProtoMotions](https://github.com/NVlabs/ProtoMotions): A GPU-accelerated framework for simulating and training physically simulated digital humans and humanoid robots.
+- [engiengi/physical-ai-system-design](https://github.com/engiengi/physical-ai-system-design): Focuses on principles and methodologies for designing AI systems that interact with the physical world.
+
+## Cloud & Data Management Tools
+- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog): Provides tools and samples for leveraging Google Cloud's Knowledge Catalog service for data governance.
 
