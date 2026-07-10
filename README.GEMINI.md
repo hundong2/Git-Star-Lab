@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-07-08
+Last Updated: 2026-07-10
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -973,6 +973,7 @@ Last Updated: 2026-07-08
 - [warpdotdev/warp](https://github.com/warpdotdev/warp): Warp provides an agentic development environment that enhances the terminal experience for developers.
 - [microsoft/winappCli](https://github.com/microsoft/winappCli): WinApp CLI is a command-line interface for managing Windows SDKs, packaging, identity, and build tools across various app frameworks.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp): Warp is an advanced, agentic development environment that enhances the traditional terminal with AI-powered features for improved developer workflow.
+- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki): A command-line interface tool that leverages AI agents to automatically write and maintain documentation for a codebase.
 
 ## Programming & Libraries
 - [zerocopy](https://github.com/google/zerocopy): A library that enables zero-cost memory manipulation by abstracting unsafe code.
@@ -2178,4 +2179,16 @@ Last Updated: 2026-07-08
 
 ## Cloud & Data Management Tools
 - [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog): Provides tools and samples for leveraging Google Cloud's Knowledge Catalog service for data governance.
+
+## AI Tools & Frameworks
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm): Provides a comprehensive local-first platform for building and managing LLM-powered agent experiences.
+
+## Machine Learning Libraries
+- [dotnet/TorchSharp](https://github.com/dotnet/TorchSharp): A .NET library that enables developers to access and utilize the underlying PyTorch machine learning library.
+
+## AI Integration & Frontend
+- [hundong2/ag-ui](https://github.com/hundong2/ag-ui): Introduces a protocol and framework to seamlessly integrate AI agents into frontend applications for enhanced user interaction.
+
+## AI Systems Design & Research
+- [engiengi/physical-ai-system-design](https://github.com/engiengi/physical-ai-system-design): Explores the design principles and architectural considerations for physical systems incorporating artificial intelligence.
 
