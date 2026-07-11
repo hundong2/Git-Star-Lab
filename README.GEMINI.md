@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-07-10
+Last Updated: 2026-07-11
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1859,6 +1859,7 @@ Last Updated: 2026-07-10
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit): llmfit is a utility that helps users find which large language models from various providers can run on their specific hardware with a single command.
 - [hundong2/whichllm](https://github.com/hundong2/whichllm): This tool helps users find and benchmark local Large Language Models that perform optimally on their specific hardware.
 - [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm): This tool helps users find and benchmark local Large Language Models that perform optimally on their specific hardware.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm): This platform enables users to build and manage local-first agent experiences powered by Large Language Models.
 
 ## System Utilities
 - [jetkvm/kvm](https://github.com/jetkvm/kvm): JetKVM is a tool designed to allow users to remotely control any computer.
@@ -2185,6 +2186,7 @@ Last Updated: 2026-07-10
 
 ## Machine Learning Libraries
 - [dotnet/TorchSharp](https://github.com/dotnet/TorchSharp): A .NET library that enables developers to access and utilize the underlying PyTorch machine learning library.
+- [dotnet/TorchSharp](https://github.com/dotnet/TorchSharp): This .NET library provides access to the underlying functionalities of the PyTorch machine learning framework.
 
 ## AI Integration & Frontend
 - [hundong2/ag-ui](https://github.com/hundong2/ag-ui): Introduces a protocol and framework to seamlessly integrate AI agents into frontend applications for enhanced user interaction.
