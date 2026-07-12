@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-07-11
+Last Updated: 2026-07-12
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1524,6 +1524,7 @@ Last Updated: 2026-07-11
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi): This project provides an OpenAI-compatible proxy that aggregates free tiers from multiple LLM providers, offering smart routing, automatic failover, and encrypted key management for large-scale token access.
 - [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki): LLM Wiki is a cross-platform desktop application that utilizes Large Language Models to automatically build and maintain an interlinked, persistent knowledge base from user documents, offering an incremental alternative to traditional RAG.
 - [mex-memory/mex](https://github.com/mex-memory/mex): A CLI tool providing persistent project memory, structured scaffolding, and drift detection for AI coding agents.
+- [microsoft/flint-chart](https://github.com/microsoft/flint-chart): Flint is a visualization language designed to enable AI agents to reliably generate expressive charts from simple specifications.
 
 ## AI Agent Tools
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator): A visual tool to annotate, review, share, and provide feedback on coding agent plans for teams.
@@ -1632,6 +1633,7 @@ Last Updated: 2026-07-11
 - [zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist): This repository provides a dataset of fashion product images, designed as a direct replacement for the original MNIST dataset for benchmarking machine learning algorithms.
 - [facebookresearch/VLM3](https://github.com/facebookresearch/VLM3): This repository provides the official implementation for a research paper demonstrating that Vision Language Models can natively learn 3D concepts.
 - [facebookresearch/VLM3](https://github.com/facebookresearch/VLM3): This is the official implementation of the paper "VLM³", showcasing how Vision Language Models can natively learn 3D information.
+- [Tencent-Hunyuan/Hy3](https://github.com/Tencent-Hunyuan/Hy3): Hy3 is a leading reasoning and agent AI model known for its performance and cost efficiency.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
