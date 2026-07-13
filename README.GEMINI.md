@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-07-12
+Last Updated: 2026-07-13
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -653,6 +653,8 @@ Last Updated: 2026-07-12
 - [AnkitNayak-eth/EpsteinFiles-RAG](https://github.com/AnkitNayak-eth/EpsteinFiles-RAG): This repository implements a Retrieval-Augmented Generation (RAG) pipeline using a large dataset for natural language processing tasks.
 - [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss): This repository likely provides an open-source framework or implementation related to AI agents.
 - [NVlabs/alpamayo](https://github.com/NVlabs/alpamayo): From NVIDIA Labs, this project appears to focus on a single global model for various long-range machine learning tasks.
+- [microsoft/flint-chart](https://github.com/microsoft/flint-chart): Flint is a visualization language designed to enable AI agents to reliably create expressive charts from human-editable specifications.
+- [Tencent-Hunyuan/Hy3](https://github.com/Tencent-Hunyuan/Hy3): Hy3 is a leading large-scale AI model excelling in reasoning and agent capabilities, offering great cost efficiency for its size.
 
 ## Research/Academic
 - [NVlabs/UniversalDeepResearch](https://github.com/NVlabs/UniversalDeepResearch): Contains the code implementation accompanying the "Universal Deep Research" academic paper.
