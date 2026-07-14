@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-07-13
+Last Updated: 2026-07-14
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -613,6 +613,7 @@ Last Updated: 2026-07-13
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent): This repository contains an AI agent designed to learn and evolve with user interaction.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent): This repository contains an AI agent designed to learn and adapt over time.
 - [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope): A framework designed for building, running, and managing intelligent agents with an emphasis on visibility, interpretability, and trustworthiness.
+- [VILA-Lab/Dive-into-Claude-Code](https://github.com/VILA-Lab/Dive-into-Claude-Code): This repository provides a systematic analysis and discussion of Claude's code to facilitate the design of contemporary and future AI agent systems.
 
 ## AI Development Tools/Libraries
 - [BerriAI/litellm](https://github.com/BerriAI/litellm): A Python SDK and proxy server that provides a unified interface for calling over 100 LLM APIs with features like cost tracking and load balancing.
