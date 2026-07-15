@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-07-14
+Last Updated: 2026-07-15
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1684,6 +1684,7 @@ Last Updated: 2026-07-14
 - [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py): This repository provides an unofficial Python API for interacting with Google NotebookLM.
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad): This tool allows users to manage and orchestrate multiple AI terminal agents, such as Claude Code, Codex, OpenCode, and Amp.
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi): An OpenAI-compatible proxy that aggregates free tiers from multiple LLM providers into a single endpoint, offering smart routing and automatic failover.
+- [pdf-inspector](https://github.com/firecrawl/pdf-inspector): This Rust library provides fast PDF inspection, classification, and intelligent text extraction, differentiating between scanned and text-based PDFs.
 
 ## Web Development / AI
 - [GoogleChromeLabs/web-ai-demos](https://github.com/GoogleChromeLabs/web-ai-demos): This repository from Google Chrome Labs showcases demonstrations of integrating and utilizing AI capabilities directly within web browsers.
@@ -1795,6 +1796,8 @@ Last Updated: 2026-07-14
 
 ## AI Research
 - [aloshdenny/reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID): This repository focuses on reverse engineering Google Gemini's SynthID detection mechanism.
+- [TRACE](https://github.com/ScalingIntelligence/TRACE): This repository contains the implementation for TRACE, a method focused on capability-targeted agentic training in AI systems.
+- [Dive-into-Claude-Code](https://github.com/VILA-Lab/Dive-into-Claude-Code): This project offers a systematic analysis and discussion of Claude's code to inform the design of current and future AI agent systems.
 
 ## Machine Learning Education
 - [mikexcohen/ML4LLM_book](https://github.com/mikexcohen/ML4LLM_book): This repository contains code and materials accompanying a book on 50 machine learning projects designed to help understand LLMs.
