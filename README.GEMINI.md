@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-07-15
+Last Updated: 2026-07-16
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1798,6 +1798,7 @@ Last Updated: 2026-07-15
 - [aloshdenny/reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID): This repository focuses on reverse engineering Google Gemini's SynthID detection mechanism.
 - [TRACE](https://github.com/ScalingIntelligence/TRACE): This repository contains the implementation for TRACE, a method focused on capability-targeted agentic training in AI systems.
 - [Dive-into-Claude-Code](https://github.com/VILA-Lab/Dive-into-Claude-Code): This project offers a systematic analysis and discussion of Claude's code to inform the design of current and future AI agent systems.
+- [ScalingIntelligence/TRACE](https://github.com/ScalingIntelligence/TRACE): This repository presents TRACE, a method for capability-targeted training of agentic AI systems.
 
 ## Machine Learning Education
 - [mikexcohen/ML4LLM_book](https://github.com/mikexcohen/ML4LLM_book): This repository contains code and materials accompanying a book on 50 machine learning projects designed to help understand LLMs.
@@ -2007,6 +2008,7 @@ Last Updated: 2026-07-15
 
 ## AI Agent Development
 - [google/skills](https://github.com/google/skills): This repository provides frameworks and resources for developing agentic skills that can interact with various Google products and technologies.
+- [xai-org/grok-build](https://github.com/xai-org/grok-build): This project provides a TUI and harness for interacting with and extending SpaceXAI's coding agents.
 
 ## AI Platforms
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx): An open-source AI platform providing advanced AI chat features compatible with any Large Language Model.
@@ -2201,4 +2203,10 @@ Last Updated: 2026-07-15
 
 ## AI Systems Design & Research
 - [engiengi/physical-ai-system-design](https://github.com/engiengi/physical-ai-system-design): Explores the design principles and architectural considerations for physical systems incorporating artificial intelligence.
+
+## AI Agent Orchestration
+- [stablyai/orca](https://github.com/stablyai/orca): Orca is an Agent Development Environment (ADE) designed for managing and orchestrating a fleet of parallel coding agents across desktop and mobile platforms.
+
+## Document Processing
+- [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector): This fast Rust library facilitates PDF inspection, classification, and text extraction, intelligently detecting scanned versus text-based PDFs.
 
