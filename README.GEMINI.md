@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-07-16
+Last Updated: 2026-07-17
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1584,6 +1584,8 @@ Last Updated: 2026-07-16
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable): Impeccable is a design language aimed at enhancing the design capabilities of AI harnesses.
 - [openclaude](https://github.com/Gitlawb/openclaude): This is an open-source CLI coding agent that integrates with numerous AI models, including OpenAI, Gemini, and Ollama, via compatible APIs.
 - [mex-memory/mex](https://github.com/mex-memory/mex): This CLI tool provides persistent project memory, a structured scaffold, and drift detection capabilities specifically designed for AI coding agents.
+- [grok-build](https://github.com/xai-org/grok-build): grok-build is SpaceXAI's extensible, fullscreen, and mouse-interactive TUI harness for developing and interacting with coding agents.
+- [orca](https://github.com/stablyai/orca): Orca is an Agent Development Environment (ADE) for orchestrating and managing a fleet of parallel coding agents, available on desktop and mobile.
 
 ## AI Projects
 - [haeggee/hot-mess-of-ai](https://github.com/haeggee/hot-mess-of-ai): This repository appears to be a collection or experiment related to artificial intelligence.
@@ -1637,6 +1639,7 @@ Last Updated: 2026-07-16
 - [facebookresearch/VLM3](https://github.com/facebookresearch/VLM3): This repository provides the official implementation for a research paper demonstrating that Vision Language Models can natively learn 3D concepts.
 - [facebookresearch/VLM3](https://github.com/facebookresearch/VLM3): This is the official implementation of the paper "VLM³", showcasing how Vision Language Models can natively learn 3D information.
 - [Tencent-Hunyuan/Hy3](https://github.com/Tencent-Hunyuan/Hy3): Hy3 is a leading reasoning and agent AI model known for its performance and cost efficiency.
+- [SenseNova-Vision](https://github.com/OpenSenseNova/SenseNova-Vision): This repository presents a unified framework for multimodal generation, specifically focused on computer vision applications.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
