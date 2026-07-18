@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-07-17
+Last Updated: 2026-07-18
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1299,6 +1299,7 @@ Last Updated: 2026-07-17
 - [hank-ai/darknet](https://github.com/hank-ai/darknet): This repository provides the Darknet framework, an open-source neural network framework notably used for the YOLO (You Only Look Once) real-time object detection system.
 - [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7): This repository implements YOLOv7, a state-of-the-art real-time object detector.
 - [aiptimizer/TurboOCR](https://github.com/aiptimizer/TurboOCR): TurboOCR is a fast, GPU-accelerated OCR server built with TensorRT and PP-OCRv5 for high-performance text recognition.
+- [OpenSenseNova/SenseNova-Vision](https://github.com/OpenSenseNova/SenseNova-Vision): This project explores a unified multimodal generation approach for various computer vision tasks.
 
 ## Data Serialization & RPC
 - [capnproto/capnproto](https://github.com/capnproto/capnproto): A data interchange format and RPC system, providing core tools and a C++ library.
@@ -2083,6 +2084,7 @@ Last Updated: 2026-07-17
 
 ## Generative AI
 - [tachikomared/character-animation-creator-skill](https://github.com/tachikomared/character-animation-creator-skill): This repository provides an AI skill for agents like Codex and GPT to generate game-ready character animations and sprites from text prompts or reference images.
+- [nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos): This repository provides tools to create dynamic videos by exploring the latent space and morphing between text prompts using Stable Diffusion.
 
 ## Robotics & AI Research
 - [Embodied-R1](https://github.com/pickxiguapi/Embodied-R1): This repository contains the official code for a research project on reinforced embodied reasoning for general robotic manipulation.
