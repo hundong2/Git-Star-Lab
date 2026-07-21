@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-07-18
+Last Updated: 2026-07-21
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1587,6 +1587,7 @@ Last Updated: 2026-07-18
 - [mex-memory/mex](https://github.com/mex-memory/mex): This CLI tool provides persistent project memory, a structured scaffold, and drift detection capabilities specifically designed for AI coding agents.
 - [grok-build](https://github.com/xai-org/grok-build): grok-build is SpaceXAI's extensible, fullscreen, and mouse-interactive TUI harness for developing and interacting with coding agents.
 - [orca](https://github.com/stablyai/orca): Orca is an Agent Development Environment (ADE) for orchestrating and managing a fleet of parallel coding agents, available on desktop and mobile.
+- [shepherd-agents/shepherd](https://github.com/shepherd-agents/shepherd): A runtime framework enabling meta-agents to observe, fork, replay, and revert agent executions for supervision, optimization, and training.
 
 ## AI Projects
 - [haeggee/hot-mess-of-ai](https://github.com/haeggee/hot-mess-of-ai): This repository appears to be a collection or experiment related to artificial intelligence.
@@ -1727,6 +1728,7 @@ Last Updated: 2026-07-18
 
 ## Machine Learning Models
 - [MiniMax-AI/MiniMax-M2.5](https://github.com/MiniMax-AI/MiniMax-M2.5): A repository from MiniMax-AI likely related to a specific artificial intelligence model or system, possibly for research or application.
+- [google-research/tabfm](https://github.com/google-research/tabfm): A pretrained tabular foundation model from Google Research developed for regression and classification tasks on tabular data.
 
 ## Large Language Models
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook): A comprehensive guide and collection of recipes for building applications and solving problems using the Llama family of large language models, covering inference, fine-tuning, and RAG.
@@ -2214,4 +2216,7 @@ Last Updated: 2026-07-18
 
 ## Document Processing
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector): This fast Rust library facilitates PDF inspection, classification, and text extraction, intelligently detecting scanned versus text-based PDFs.
+
+## Optical Character Recognition
+- [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR): An advanced OCR system from Baidu designed for one-shot, long-horizon text parsing.
 
