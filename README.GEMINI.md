@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-07-21
+Last Updated: 2026-07-22
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1529,6 +1529,7 @@ Last Updated: 2026-07-21
 - [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki): LLM Wiki is a cross-platform desktop application that utilizes Large Language Models to automatically build and maintain an interlinked, persistent knowledge base from user documents, offering an incremental alternative to traditional RAG.
 - [mex-memory/mex](https://github.com/mex-memory/mex): A CLI tool providing persistent project memory, structured scaffolding, and drift detection for AI coding agents.
 - [microsoft/flint-chart](https://github.com/microsoft/flint-chart): Flint is a visualization language designed to enable AI agents to reliably generate expressive charts from simple specifications.
+- [shepherd-agents/shepherd](https://github.com/shepherd-agents/shepherd): This framework provides a runtime substrate for AI agents, enabling meta-agents to observe, fork, replay, and revert agent executions through a reversible, Git-like trace.
 
 ## AI Agent Tools
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator): A visual tool to annotate, review, share, and provide feedback on coding agent plans for teams.
@@ -2219,4 +2220,5 @@ Last Updated: 2026-07-21
 
 ## Optical Character Recognition
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR): An advanced OCR system from Baidu designed for one-shot, long-horizon text parsing.
+- [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR): This project introduces an advanced Optical Character Recognition (OCR) system designed for one-shot, long-horizon parsing tasks.
 
