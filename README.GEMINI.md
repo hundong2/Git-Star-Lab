@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-07-22
+Last Updated: 2026-07-23
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1806,6 +1806,7 @@ Last Updated: 2026-07-22
 - [TRACE](https://github.com/ScalingIntelligence/TRACE): This repository contains the implementation for TRACE, a method focused on capability-targeted agentic training in AI systems.
 - [Dive-into-Claude-Code](https://github.com/VILA-Lab/Dive-into-Claude-Code): This project offers a systematic analysis and discussion of Claude's code to inform the design of current and future AI agent systems.
 - [ScalingIntelligence/TRACE](https://github.com/ScalingIntelligence/TRACE): This repository presents TRACE, a method for capability-targeted training of agentic AI systems.
+- [opd2](https://github.com/naver-ai/opd2): This is an AI research repository from Naver AI, for which no specific description is provided.
 
 ## Machine Learning Education
 - [mikexcohen/ML4LLM_book](https://github.com/mikexcohen/ML4LLM_book): This repository contains code and materials accompanying a book on 50 machine learning projects designed to help understand LLMs.
@@ -2221,4 +2222,13 @@ Last Updated: 2026-07-22
 ## Optical Character Recognition
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR): An advanced OCR system from Baidu designed for one-shot, long-horizon text parsing.
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR): This project introduces an advanced Optical Character Recognition (OCR) system designed for one-shot, long-horizon parsing tasks.
+
+## Computer Vision & 3D Reconstruction
+- [TripoSplat](https://github.com/VAST-AI-Research/TripoSplat): This project converts a single 2D image into high-quality 3D Gaussian representations.
+
+## Machine Learning for Anomaly Detection
+- [NeuralLog](https://github.com/LogIntelligence/NeuralLog): This repository presents a method for log-based anomaly detection that bypasses the need for log parsing.
+
+## AI Explanability & Education
+- [transformer-explainer](https://github.com/poloclub/transformer-explainer): This project offers an interactive visualization tool to explain the workings of LLM Transformer models.
 
