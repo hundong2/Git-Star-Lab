@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-07-23
+Last Updated: 2026-07-24
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1643,6 +1643,7 @@ Last Updated: 2026-07-23
 - [facebookresearch/VLM3](https://github.com/facebookresearch/VLM3): This is the official implementation of the paper "VLM³", showcasing how Vision Language Models can natively learn 3D information.
 - [Tencent-Hunyuan/Hy3](https://github.com/Tencent-Hunyuan/Hy3): Hy3 is a leading reasoning and agent AI model known for its performance and cost efficiency.
 - [SenseNova-Vision](https://github.com/OpenSenseNova/SenseNova-Vision): This repository presents a unified framework for multimodal generation, specifically focused on computer vision applications.
+- [opd2](https://github.com/naver-ai/opd2): A project from Naver AI, likely related to machine learning, with no further description provided.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
@@ -2231,4 +2232,10 @@ Last Updated: 2026-07-23
 
 ## AI Explanability & Education
 - [transformer-explainer](https://github.com/poloclub/transformer-explainer): This project offers an interactive visualization tool to explain the workings of LLM Transformer models.
+
+## 3D Vision
+- [TripoSplat](https://github.com/VAST-AI-Research/TripoSplat): This tool converts a single 2D image into high-quality, variable 3D Gaussian representations.
+
+## Anomaly Detection
+- [NeuralLog](https://github.com/LogIntelligence/NeuralLog): This repository presents a research-track solution for log-based anomaly detection that operates without requiring log parsing.
 
