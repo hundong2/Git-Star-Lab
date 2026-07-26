@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-07-24
+Last Updated: 2026-07-26
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -977,6 +977,7 @@ Last Updated: 2026-07-24
 - [microsoft/winappCli](https://github.com/microsoft/winappCli): WinApp CLI is a command-line interface for managing Windows SDKs, packaging, identity, and build tools across various app frameworks.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp): Warp is an advanced, agentic development environment that enhances the traditional terminal with AI-powered features for improved developer workflow.
 - [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki): A command-line interface tool that leverages AI agents to automatically write and maintain documentation for a codebase.
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify): This tool transforms diverse codebase elements, including documentation and schemas, into a queryable knowledge graph for enhanced understanding and interaction with AI assistants.
 
 ## Programming & Libraries
 - [zerocopy](https://github.com/google/zerocopy): A library that enables zero-cost memory manipulation by abstracting unsafe code.
@@ -1300,6 +1301,7 @@ Last Updated: 2026-07-24
 - [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7): This repository implements YOLOv7, a state-of-the-art real-time object detector.
 - [aiptimizer/TurboOCR](https://github.com/aiptimizer/TurboOCR): TurboOCR is a fast, GPU-accelerated OCR server built with TensorRT and PP-OCRv5 for high-performance text recognition.
 - [OpenSenseNova/SenseNova-Vision](https://github.com/OpenSenseNova/SenseNova-Vision): This project explores a unified multimodal generation approach for various computer vision tasks.
+- [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2): This repository provides a state-of-the-art platform for various visual recognition tasks like object detection and segmentation.
 
 ## Data Serialization & RPC
 - [capnproto/capnproto](https://github.com/capnproto/capnproto): A data interchange format and RPC system, providing core tools and a C++ library.
@@ -1889,6 +1891,7 @@ Last Updated: 2026-07-24
 - [weijie-chen/Linear-Algebra-With-Python](https://github.com/weijie-chen/Linear-Algebra-With-Python): This repository offers lecture notes to teach or refresh foundational linear algebra concepts using Python for computation and visualization, crucial for data science and quantitative fields.
 - [christian289/dotnet-with-claudecode](https://github.com/christian289/dotnet-with-claudecode): A tutorial designed to guide users through .NET development, potentially incorporating or demonstrating the use of an AI assistant named ClaudeCode.
 - [christian289/dotnet-with-claudecode](https://github.com/christian289/dotnet-with-claudecode): This repository provides a tutorial for .NET development, presumably integrating or using "ClaudeCode" as part of the learning process.
+- [PacktPublishing/Hands-On-Computer-Vision-with-Detectron2](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-Detectron2): This repository contains the code and resources accompanying the Packt book "Hands-On Computer Vision with Detectron2".
 
 ## Computer Vision Resources
 - [awesome_3DVision_2026_conference](https://github.com/harpreetsahota204/awesome_3DVision_2026_conference): A curated list of notable research papers presented at the 2026 3D Vision Conference.
