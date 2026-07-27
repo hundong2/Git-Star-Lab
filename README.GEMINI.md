@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-07-26
+Last Updated: 2026-07-27
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1646,6 +1646,8 @@ Last Updated: 2026-07-26
 - [Tencent-Hunyuan/Hy3](https://github.com/Tencent-Hunyuan/Hy3): Hy3 is a leading reasoning and agent AI model known for its performance and cost efficiency.
 - [SenseNova-Vision](https://github.com/OpenSenseNova/SenseNova-Vision): This repository presents a unified framework for multimodal generation, specifically focused on computer vision applications.
 - [opd2](https://github.com/naver-ai/opd2): A project from Naver AI, likely related to machine learning, with no further description provided.
+- [Ucas-HaoranWei/GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0): Official code implementing the General OCR Theory for a unified, end-to-end optical character recognition model.
+- [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2): A platform developed by Facebook AI Research for object detection, segmentation, and other visual recognition tasks.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
@@ -1892,6 +1894,7 @@ Last Updated: 2026-07-26
 - [christian289/dotnet-with-claudecode](https://github.com/christian289/dotnet-with-claudecode): A tutorial designed to guide users through .NET development, potentially incorporating or demonstrating the use of an AI assistant named ClaudeCode.
 - [christian289/dotnet-with-claudecode](https://github.com/christian289/dotnet-with-claudecode): This repository provides a tutorial for .NET development, presumably integrating or using "ClaudeCode" as part of the learning process.
 - [PacktPublishing/Hands-On-Computer-Vision-with-Detectron2](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-Detectron2): This repository contains the code and resources accompanying the Packt book "Hands-On Computer Vision with Detectron2".
+- [PacktPublishing/Hands-On-Computer-Vision-with-Detectron2](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-Detectron2): Companion code and materials for a Packt book, providing hands-on learning for computer vision with Detectron2.
 
 ## Computer Vision Resources
 - [awesome_3DVision_2026_conference](https://github.com/harpreetsahota204/awesome_3DVision_2026_conference): A curated list of notable research papers presented at the 2026 3D Vision Conference.
@@ -2241,4 +2244,7 @@ Last Updated: 2026-07-26
 
 ## Anomaly Detection
 - [NeuralLog](https://github.com/LogIntelligence/NeuralLog): This repository presents a research-track solution for log-based anomaly detection that operates without requiring log parsing.
+
+## AI-Powered Developer Tools
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify): Transforms codebases, documentation, and other files into a queryable knowledge graph, integrating as an AI skill for development environments.
 
