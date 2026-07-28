@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-07-27
+Last Updated: 2026-07-28
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1302,6 +1302,7 @@ Last Updated: 2026-07-27
 - [aiptimizer/TurboOCR](https://github.com/aiptimizer/TurboOCR): TurboOCR is a fast, GPU-accelerated OCR server built with TensorRT and PP-OCRv5 for high-performance text recognition.
 - [OpenSenseNova/SenseNova-Vision](https://github.com/OpenSenseNova/SenseNova-Vision): This project explores a unified multimodal generation approach for various computer vision tasks.
 - [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2): This repository provides a state-of-the-art platform for various visual recognition tasks like object detection and segmentation.
+- [Ucas-HaoranWei/GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0): Official code implementation of a unified end-to-end model based on the General OCR Theory for advanced Optical Character Recognition.
 
 ## Data Serialization & RPC
 - [capnproto/capnproto](https://github.com/capnproto/capnproto): A data interchange format and RPC system, providing core tools and a C++ library.
@@ -1648,6 +1649,7 @@ Last Updated: 2026-07-27
 - [opd2](https://github.com/naver-ai/opd2): A project from Naver AI, likely related to machine learning, with no further description provided.
 - [Ucas-HaoranWei/GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0): Official code implementing the General OCR Theory for a unified, end-to-end optical character recognition model.
 - [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2): A platform developed by Facebook AI Research for object detection, segmentation, and other visual recognition tasks.
+- [confident-ai/deepeval](https://github.com/confident-ai/deepeval): An open-source framework specifically for evaluating the performance and reliability of Large Language Models (LLMs).
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
@@ -1985,6 +1987,7 @@ Last Updated: 2026-07-27
 
 ## Machine Learning Tools
 - [vlm-benchmarks](https://github.com/Overshoot-ai/vlm-benchmarks): This repository provides an extensive, daily auto-updated collection of over 2500 benchmarks for Visual Language Models (VLMs), aggregated from arXiv.
+- [lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio): A platform designed for curating, annotating, and managing data, primarily for machine learning applications.
 
 ## Multimodal AI
 - [mattmireles/gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal): This repository provides a tool for fine-tuning Gemma 4 and 3n models with multimodal data (audio, images, and text) on Apple Silicon, utilizing PyTorch and Metal Performance Shaders.
