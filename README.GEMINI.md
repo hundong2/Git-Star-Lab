@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-07-28
+Last Updated: 2026-07-29
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1988,6 +1988,8 @@ Last Updated: 2026-07-28
 ## Machine Learning Tools
 - [vlm-benchmarks](https://github.com/Overshoot-ai/vlm-benchmarks): This repository provides an extensive, daily auto-updated collection of over 2500 benchmarks for Visual Language Models (VLMs), aggregated from arXiv.
 - [lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio): A platform designed for curating, annotating, and managing data, primarily for machine learning applications.
+- [lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio): A studio for curating, annotating, and managing data, primarily for machine learning applications.
+- [confident-ai/deepeval](https://github.com/confident-ai/deepeval): An open-source framework designed for evaluating the performance and quality of Large Language Models (LLMs).
 
 ## Multimodal AI
 - [mattmireles/gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal): This repository provides a tool for fine-tuning Gemma 4 and 3n models with multimodal data (audio, images, and text) on Apple Silicon, utilizing PyTorch and Metal Performance Shaders.
@@ -2250,4 +2252,7 @@ Last Updated: 2026-07-28
 
 ## AI-Powered Developer Tools
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify): Transforms codebases, documentation, and other files into a queryable knowledge graph, integrating as an AI skill for development environments.
+
+## Security Tools
+- [openai/codex-security](https://github.com/openai/codex-security): Provides SDKs and a command-line interface for interacting with Codex Security features.
 
