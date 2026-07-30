@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-07-29
+Last Updated: 2026-07-30
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -2255,4 +2255,8 @@ Last Updated: 2026-07-29
 
 ## Security Tools
 - [openai/codex-security](https://github.com/openai/codex-security): Provides SDKs and a command-line interface for interacting with Codex Security features.
+- [openai/codex-security](https://github.com/openai/codex-security): This repository offers a CLI and TypeScript SDK, powered by OpenAI's Codex, for identifying, validating, and remediating security vulnerabilities.
+
+## Database Visualization
+- [NikolayS/PGSimCity](https://github.com/NikolayS/PGSimCity): This project provides an interactive 3D city visualization to explain the internal mechanisms of PostgreSQL.
 
