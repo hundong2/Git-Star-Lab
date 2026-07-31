@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-07-30
+Last Updated: 2026-07-31
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -2259,4 +2259,10 @@ Last Updated: 2026-07-30
 
 ## Database Visualization
 - [NikolayS/PGSimCity](https://github.com/NikolayS/PGSimCity): This project provides an interactive 3D city visualization to explain the internal mechanisms of PostgreSQL.
+
+## DevOps Tools
+- [oblien/openship](https://github.com/oblien/openship): A self-hosted platform designed to streamline and automate application deployments.
+
+## Educational Tools
+- [NikolayS/PGSimCity](https://github.com/NikolayS/PGSimCity): An explorable 3D city visualization intended to demonstrate the internal mechanisms of the PostgreSQL database.
 
