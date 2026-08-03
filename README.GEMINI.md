@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-08-01
+Last Updated: 2026-08-03
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1650,6 +1650,7 @@ Last Updated: 2026-08-01
 - [Ucas-HaoranWei/GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0): Official code implementing the General OCR Theory for a unified, end-to-end optical character recognition model.
 - [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2): A platform developed by Facebook AI Research for object detection, segmentation, and other visual recognition tasks.
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval): An open-source framework specifically for evaluating the performance and reliability of Large Language Models (LLMs).
+- [facebookresearch/ijepa](https://github.com/facebookresearch/ijepa): This repository provides the official codebase for I-JEPA, an Image-based Joint-Embedding Predictive Architecture designed for self-supervised learning from images.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
