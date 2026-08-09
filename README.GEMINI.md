@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-08-08
+Last Updated: 2026-08-09
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -2269,4 +2269,11 @@ Last Updated: 2026-08-08
 ## Educational Tools
 - [NikolayS/PGSimCity](https://github.com/NikolayS/PGSimCity): An explorable 3D city visualization intended to demonstrate the internal mechanisms of the PostgreSQL database.
 - [bterwijn/memory_graph](https://github.com/bterwijn/memory_graph): This is a teaching tool and debugging aid designed to help users understand programming concepts like references, mutable data types, and shallow versus deep copying.
+- [bterwijn/memory_graph](https://github.com/bterwijn/memory_graph): This project provides a teaching and debugging tool to visualize memory concepts such as references, mutable data types, and shallow/deep copies.
+
+## AI Development
+- [NVIDIA-NeMo/labs-OO-Agents](https://github.com/NVIDIA-NeMo/labs-OO-Agents): This repository offers a Pythonic framework for building object-oriented AI agents.
+
+## Observability Tools
+- [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope): Monoscope is an observability platform designed to ingest, explore, and query logs, traces, and metrics, utilizing LLMs for natural language queries.
 
