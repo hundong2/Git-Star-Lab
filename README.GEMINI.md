@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-08-09
+Last Updated: 2026-08-10
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1722,6 +1722,7 @@ Last Updated: 2026-08-09
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev): A multi-agent collaboration system powered by Large Language Models (LLMs) to facilitate comprehensive software development.
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness): OpenHarness is an open platform designed for developing and managing AI agents, featuring a built-in personal agent named Ohmo.
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness): This project provides an open harness for developing and utilizing AI agents, featuring a built-in personal agent named Ohmo.
+- [NVIDIA-NeMo/labs-OO-Agents](https://github.com/NVIDIA-NeMo/labs-OO-Agents): This repository provides a Pythonic framework for building object-oriented AI agents, leveraging the NVIDIA NeMo ecosystem.
 
 ## Artificial Intelligence Models
 - [MiniMax-AI/MiniMax-M2.5](https://github.com/MiniMax-AI/MiniMax-M2.5): This repository from MiniMax-AI likely hosts an artificial intelligence model, potentially a large language model or a related AI system, though specific details are unavailable.
@@ -2276,4 +2277,7 @@ Last Updated: 2026-08-09
 
 ## Observability Tools
 - [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope): Monoscope is an observability platform designed to ingest, explore, and query logs, traces, and metrics, utilizing LLMs for natural language queries.
+
+## Observability
+- [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope): Monoscope is an observability platform that allows users to ingest, store, and explore logs, traces, and metrics in S3-compatible buckets, with natural language querying powered by LLMs.
 
