@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-08-10
+Last Updated: 2026-08-13
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1533,6 +1533,7 @@ Last Updated: 2026-08-10
 - [mex-memory/mex](https://github.com/mex-memory/mex): A CLI tool providing persistent project memory, structured scaffolding, and drift detection for AI coding agents.
 - [microsoft/flint-chart](https://github.com/microsoft/flint-chart): Flint is a visualization language designed to enable AI agents to reliably generate expressive charts from simple specifications.
 - [shepherd-agents/shepherd](https://github.com/shepherd-agents/shepherd): This framework provides a runtime substrate for AI agents, enabling meta-agents to observe, fork, replay, and revert agent executions through a reversible, Git-like trace.
+- [AgriciDaniel/sync](https://github.com/AgriciDaniel/sync): This repository orchestrates and manages AI models like Claude and Codex using an evidence-gated system.
 
 ## AI Agent Tools
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator): A visual tool to annotate, review, share, and provide feedback on coding agent plans for teams.
