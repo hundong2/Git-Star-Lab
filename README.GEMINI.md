@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-08-13
+Last Updated: 2026-08-14
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -656,6 +656,7 @@ Last Updated: 2026-08-13
 - [NVlabs/alpamayo](https://github.com/NVlabs/alpamayo): From NVIDIA Labs, this project appears to focus on a single global model for various long-range machine learning tasks.
 - [microsoft/flint-chart](https://github.com/microsoft/flint-chart): Flint is a visualization language designed to enable AI agents to reliably create expressive charts from human-editable specifications.
 - [Tencent-Hunyuan/Hy3](https://github.com/Tencent-Hunyuan/Hy3): Hy3 is a leading large-scale AI model excelling in reasoning and agent capabilities, offering great cost efficiency for its size.
+- [antirez/h3.c](https://github.com/antirez/h3.c): A C-based MiniMax inference engine designed for efficient H3 model computations specifically on macOS.
 
 ## Research/Academic
 - [NVlabs/UniversalDeepResearch](https://github.com/NVlabs/UniversalDeepResearch): Contains the code implementation accompanying the "Universal Deep Research" academic paper.
@@ -2281,4 +2282,10 @@ Last Updated: 2026-08-13
 
 ## Observability
 - [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope): Monoscope is an observability platform that allows users to ingest, store, and explore logs, traces, and metrics in S3-compatible buckets, with natural language querying powered by LLMs.
+
+## User Interface Development
+- [openchamber/openchamber](https://github.com/openchamber/openchamber): Provides both desktop and web-based user interfaces for interacting with and managing the OpenCode AI agent.
+
+## AI Orchestration
+- [AgriciDaniel/sync](https://github.com/AgriciDaniel/sync): Manages and coordinates multiple AI agents, including Claude and Codex, through an evidence-gated council orchestration system.
 
