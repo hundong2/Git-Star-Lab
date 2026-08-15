@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-08-14
+Last Updated: 2026-08-15
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1654,6 +1654,7 @@ Last Updated: 2026-08-14
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval): An open-source framework specifically for evaluating the performance and reliability of Large Language Models (LLMs).
 - [facebookresearch/ijepa](https://github.com/facebookresearch/ijepa): This repository provides the official codebase for I-JEPA, an Image-based Joint-Embedding Predictive Architecture designed for self-supervised learning from images.
 - [facebookresearch/ijepa](https://github.com/facebookresearch/ijepa): This repository contains the official codebase for I-JEPA, an image-based joint-embedding predictive architecture used for self-supervised learning from images.
+- [antirez/h3.c](https://github.com/antirez/h3.c): This repository hosts a MiniMax H3 inference engine specifically engineered for Mac computers.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
@@ -2288,4 +2289,7 @@ Last Updated: 2026-08-14
 
 ## AI Orchestration
 - [AgriciDaniel/sync](https://github.com/AgriciDaniel/sync): Manages and coordinates multiple AI agents, including Claude and Codex, through an evidence-gated council orchestration system.
+
+## Operating Systems
+- [rocky-linux/rocky](https://github.com/rocky-linux/rocky): Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux, serving as a successor to CentOS.
 
