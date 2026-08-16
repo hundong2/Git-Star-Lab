@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-08-15
+Last Updated: 2026-08-16
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -2292,4 +2292,7 @@ Last Updated: 2026-08-15
 
 ## Operating Systems
 - [rocky-linux/rocky](https://github.com/rocky-linux/rocky): Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux, serving as a successor to CentOS.
+
+## Operating System
+- [rocky-linux/rocky](https://github.com/rocky-linux/rocky): Rocky Linux is a community-driven enterprise operating system designed to be 100% bug-for-bug compatible with Enterprise Linux, serving as a successor to CentOS.
 
