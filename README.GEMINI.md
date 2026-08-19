@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-08-18
+Last Updated: 2026-08-19
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1655,6 +1655,7 @@ Last Updated: 2026-08-18
 - [facebookresearch/ijepa](https://github.com/facebookresearch/ijepa): This repository provides the official codebase for I-JEPA, an Image-based Joint-Embedding Predictive Architecture designed for self-supervised learning from images.
 - [facebookresearch/ijepa](https://github.com/facebookresearch/ijepa): This repository contains the official codebase for I-JEPA, an image-based joint-embedding predictive architecture used for self-supervised learning from images.
 - [antirez/h3.c](https://github.com/antirez/h3.c): This repository hosts a MiniMax H3 inference engine specifically engineered for Mac computers.
+- [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c): This project implements a lightweight and highly efficient C99 inference engine for the Kimi K3 large language model, designed to run on a single CPU with minimal memory and no external dependencies.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
@@ -2299,4 +2300,7 @@ Last Updated: 2026-08-18
 
 ## Software Libraries
 - [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp): Abseil provides a collection of open-source C++ library code, designed to augment the C++ standard library with common utility functions and data structures.
+
+## Libraries & Utilities
+- [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp): This repository provides a collection of C++ open-source libraries, including foundational algorithms, data structures, and utilities, designed to support robust and efficient application development.
 
