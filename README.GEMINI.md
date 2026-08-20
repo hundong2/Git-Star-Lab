@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-08-19
+Last Updated: 2026-08-20
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -470,6 +470,7 @@ Last Updated: 2026-08-19
 - [rlxai/rbot](https://github.com/rlxai/rbot): An open-source, end-to-end simulation stack designed for Autonomous Mobile Robots, compatible with ROS 2 Jazzy and Gazebo Harmonic.
 - [hundong2/openvla](https://github.com/hundong2/openvla): OpenVLA is an open-source vision-language-action model designed for robotic manipulation tasks.
 - [WLaney/pifi-slam](https://github.com/WLaney/pifi-slam): This project implements Simultaneous Localization and Mapping (SLAM) using WiFi signals, designed to run on a Raspberry Pi.
+- [makerspet/oomwoo](https://github.com/makerspet/oomwoo): This repository features an open-source project for an autonomous vacuum robot cleaner.
 
 ## Gaming & AI
 - [deeean/silksong-agent](https://github.com/deeean/silksong-agent): An RL agent specifically developed to play boss fights in the game Hollow Knight: Silksong.
@@ -1693,6 +1694,7 @@ Last Updated: 2026-08-19
 
 ## AI Development Platform
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet): ToolJet is an open-source, AI-native platform designed for building internal tools, dashboards, business applications, workflows, and AI agents.
+- [modular/modular](https://github.com/modular/modular): This is the Modular Platform, which encompasses their AI engine (MAX) and the Mojo programming language for efficient AI development.
 
 ## System Software
 - [microsoft/litebox](https://github.com/microsoft/litebox): This is a security-focused library operating system designed to support both kernel- and user-mode execution.
