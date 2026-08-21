@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-08-20
+Last Updated: 2026-08-21
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -471,6 +471,7 @@ Last Updated: 2026-08-20
 - [hundong2/openvla](https://github.com/hundong2/openvla): OpenVLA is an open-source vision-language-action model designed for robotic manipulation tasks.
 - [WLaney/pifi-slam](https://github.com/WLaney/pifi-slam): This project implements Simultaneous Localization and Mapping (SLAM) using WiFi signals, designed to run on a Raspberry Pi.
 - [makerspet/oomwoo](https://github.com/makerspet/oomwoo): This repository features an open-source project for an autonomous vacuum robot cleaner.
+- [makerspet/oomwoo](https://github.com/makerspet/oomwoo): An open-source project for developing a vacuum robot cleaner.
 
 ## Gaming & AI
 - [deeean/silksong-agent](https://github.com/deeean/silksong-agent): An RL agent specifically developed to play boss fights in the game Hollow Knight: Silksong.
@@ -1743,6 +1744,7 @@ Last Updated: 2026-08-20
 - [Uzaaft/awesome-libghostty](https://github.com/Uzaaft/awesome-libghostty): A curated list of resources related to `libghostty`, following the common "awesome list" convention.
 - [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis): This repository is an awesome list compiling permanent free Large Language Model (LLM) APIs and their associated API keys.
 - [darjeeling/awesome-mcp-korea](https://github.com/darjeeling/awesome-mcp-korea): This repository is an awesome list curating MCP servers tailored for the Korean market, encompassing integrations for legal, commerce, public data, and local services.
+- [google-gemma/awesome-gemma](https://github.com/google-gemma/awesome-gemma): An awesome list curating resources related to Google DeepMind's Gemma family of open machine learning models.
 
 ## Machine Learning Models
 - [MiniMax-AI/MiniMax-M2.5](https://github.com/MiniMax-AI/MiniMax-M2.5): A repository from MiniMax-AI likely related to a specific artificial intelligence model or system, possibly for research or application.
@@ -2000,6 +2002,7 @@ Last Updated: 2026-08-20
 - [lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio): A platform designed for curating, annotating, and managing data, primarily for machine learning applications.
 - [lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio): A studio for curating, annotating, and managing data, primarily for machine learning applications.
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval): An open-source framework designed for evaluating the performance and quality of Large Language Models (LLMs).
+- [lutzroeder/netron](https://github.com/lutzroeder/netron): A visualizer for inspecting and understanding neural network, deep learning, and machine learning models.
 
 ## Multimodal AI
 - [mattmireles/gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal): This repository provides a tool for fine-tuning Gemma 4 and 3n models with multimodal data (audio, images, and text) on Apple Silicon, utilizing PyTorch and Metal Performance Shaders.
@@ -2305,4 +2308,13 @@ Last Updated: 2026-08-20
 
 ## Libraries & Utilities
 - [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp): This repository provides a collection of C++ open-source libraries, including foundational algorithms, data structures, and utilities, designed to support robust and efficient application development.
+
+## C++ Libraries
+- [boostorg/mp11](https://github.com/boostorg/mp11): A C++11 library designed to facilitate metaprogramming tasks.
+
+## Project Management
+- [usekaneo/kaneo](https://github.com/usekaneo/kaneo): An open-source project management tool designed to be efficient and user-friendly.
+
+## Software Platforms
+- [modular/modular](https://github.com/modular/modular): The core repository for the Modular Platform, which includes MAX and Mojo components.
 
