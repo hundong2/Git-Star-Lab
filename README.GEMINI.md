@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-08-21
+Last Updated: 2026-08-22
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -2003,6 +2003,7 @@ Last Updated: 2026-08-21
 - [lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio): A studio for curating, annotating, and managing data, primarily for machine learning applications.
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval): An open-source framework designed for evaluating the performance and quality of Large Language Models (LLMs).
 - [lutzroeder/netron](https://github.com/lutzroeder/netron): A visualizer for inspecting and understanding neural network, deep learning, and machine learning models.
+- [lutzroeder/netron](https://github.com/lutzroeder/netron): Netron is a viewer for neural network, deep learning, and machine learning models, allowing users to visualize their structure.
 
 ## Multimodal AI
 - [mattmireles/gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal): This repository provides a tool for fine-tuning Gemma 4 and 3n models with multimodal data (audio, images, and text) on Apple Silicon, utilizing PyTorch and Metal Performance Shaders.
@@ -2314,7 +2315,14 @@ Last Updated: 2026-08-21
 
 ## Project Management
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo): An open-source project management tool designed to be efficient and user-friendly.
+- [usekaneo/kaneo](https://github.com/usekaneo/kaneo): Kaneo is an open-source project management tool designed to provide essential functionalities without unnecessary complexity.
 
 ## Software Platforms
 - [modular/modular](https://github.com/modular/modular): The core repository for the Modular Platform, which includes MAX and Mojo components.
+
+## Machine Learning Resources
+- [google-gemma/awesome-gemma](https://github.com/google-gemma/awesome-gemma): This repository is an awesome list curating resources, tools, and projects related to Google DeepMind's Gemma family of open machine learning models.
+
+## Programming Libraries
+- [boostorg/mp11](https://github.com/boostorg/mp11): This is a C++11 metaprogramming library designed to facilitate advanced compile-time programming techniques.
 
