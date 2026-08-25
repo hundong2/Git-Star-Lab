@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-08-22
+Last Updated: 2026-08-25
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1658,6 +1658,8 @@ Last Updated: 2026-08-22
 - [facebookresearch/ijepa](https://github.com/facebookresearch/ijepa): This repository contains the official codebase for I-JEPA, an image-based joint-embedding predictive architecture used for self-supervised learning from images.
 - [antirez/h3.c](https://github.com/antirez/h3.c): This repository hosts a MiniMax H3 inference engine specifically engineered for Mac computers.
 - [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c): This project implements a lightweight and highly efficient C99 inference engine for the Kimi K3 large language model, designed to run on a single CPU with minimal memory and no external dependencies.
+- [Beomi/KoAlpaca](https://github.com/Beomi/KoAlpaca): KoAlpaca is an open-source language model developed to understand Korean instructions.
+- [nlpai-lab/KULLM](https://github.com/nlpai-lab/KULLM): KULLM is a large language model developed by Korea University, specifically optimized for the Korean language.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
