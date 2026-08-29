@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-08-25
+Last Updated: 2026-08-29
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -565,6 +565,7 @@ Last Updated: 2026-08-25
 ## Robotics & Simulation
 - [isaac-sim/IsaacSim](https://github.com/isaac-sim/IsaacSim): An open-source application for developing, simulating, and testing AI-driven robots in virtual environments within NVIDIA Omniverse.
 - [NVlabs/ProtoMotions](https://github.com/NVlabs/ProtoMotions): ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.
+- [Rhoban/bam](https://github.com/Rhoban/bam): This repository focuses on identifying and simulating advanced friction models for servo-actuators, crucial for accurate robotic control.
 
 ## Productivity & Office Tools
 - [gavrielc/Nano-PDF](https://github.com/gavrielc/Nano-PDF): A tool for editing PDF files.
@@ -2327,4 +2328,7 @@ Last Updated: 2026-08-25
 
 ## Programming Libraries
 - [boostorg/mp11](https://github.com/boostorg/mp11): This is a C++11 metaprogramming library designed to facilitate advanced compile-time programming techniques.
+
+## Database Tools
+- [t8y2/dbx](https://github.com/t8y2/dbx): This project is a lightweight, cross-platform database client that supports over 90 different databases, offering features like a built-in AI assistant and desktop, CLI, and Docker interfaces.
 
