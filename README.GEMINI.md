@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-08-30
+Last Updated: 2026-09-02
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -2329,6 +2329,7 @@ Last Updated: 2026-08-30
 
 ## Programming Libraries
 - [boostorg/mp11](https://github.com/boostorg/mp11): This is a C++11 metaprogramming library designed to facilitate advanced compile-time programming techniques.
+- [qlibs/mp](https://github.com/qlibs/mp): This library provides C++20 utilities to facilitate advanced meta-programming techniques.
 
 ## Database Tools
 - [t8y2/dbx](https://github.com/t8y2/dbx): This project is a lightweight, cross-platform database client that supports over 90 different databases, offering features like a built-in AI assistant and desktop, CLI, and Docker interfaces.
