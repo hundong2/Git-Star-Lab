@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-09-02
+Last Updated: 2026-09-03
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1711,6 +1711,7 @@ Last Updated: 2026-09-02
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad): This tool allows users to manage and orchestrate multiple AI terminal agents, such as Claude Code, Codex, OpenCode, and Amp.
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi): An OpenAI-compatible proxy that aggregates free tiers from multiple LLM providers into a single endpoint, offering smart routing and automatic failover.
 - [pdf-inspector](https://github.com/firecrawl/pdf-inspector): This Rust library provides fast PDF inspection, classification, and intelligent text extraction, differentiating between scanned and text-based PDFs.
+- [archify](https://github.com/tt-a1i/archify): An agent skill for creating beautiful and verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams as self-contained HTML.
 
 ## Web Development / AI
 - [GoogleChromeLabs/web-ai-demos](https://github.com/GoogleChromeLabs/web-ai-demos): This repository from Google Chrome Labs showcases demonstrations of integrating and utilizing AI capabilities directly within web browsers.
@@ -2334,4 +2335,7 @@ Last Updated: 2026-09-02
 ## Database Tools
 - [t8y2/dbx](https://github.com/t8y2/dbx): This project is a lightweight, cross-platform database client that supports over 90 different databases, offering features like a built-in AI assistant and desktop, CLI, and Docker interfaces.
 - [t8y2/dbx](https://github.com/t8y2/dbx): dbx is a lightweight, cross-platform database client supporting over 90 different databases with desktop, CLI, and Docker interfaces, featuring a built-in AI assistant.
+
+## Libraries
+- [mp](https://github.com/qlibs/mp): A C++20 library dedicated to meta-programming functionalities.
 
