@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-09-03
+Last Updated: 2026-09-04
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -2338,4 +2338,7 @@ Last Updated: 2026-09-03
 
 ## Libraries
 - [mp](https://github.com/qlibs/mp): A C++20 library dedicated to meta-programming functionalities.
+
+## Diagramming Tools
+- [tt-a1i/archify](https://github.com/tt-a1i/archify): Archify is an agent skill for generating beautiful, verifiable, and interactive architecture, workflow, and data-flow diagrams as self-contained HTML with motion and crisp export.
 
