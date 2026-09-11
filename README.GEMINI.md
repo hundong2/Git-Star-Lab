@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-09-04
+Last Updated: 2026-09-11
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -2341,4 +2341,7 @@ Last Updated: 2026-09-04
 
 ## Diagramming Tools
 - [tt-a1i/archify](https://github.com/tt-a1i/archify): Archify is an agent skill for generating beautiful, verifiable, and interactive architecture, workflow, and data-flow diagrams as self-contained HTML with motion and crisp export.
+
+## Geospatial
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view): This web-based open-source project simulates a spy satellite view by visualizing live spatial intelligence on a photorealistic 3D globe.
 
