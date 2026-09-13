@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-09-12
+Last Updated: 2026-09-13
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -2345,4 +2345,7 @@ Last Updated: 2026-09-12
 ## Geospatial
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view): This web-based open-source project simulates a spy satellite view by visualizing live spatial intelligence on a photorealistic 3D globe.
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view): A browser-based simulator that visualizes live, open-source spatial intelligence on a photorealistic 3D globe.
+
+## Database Infrastructure
+- [multigres/multigres](https://github.com/multigres/multigres): Multigres is a system designed to bring Vitess-like horizontal scaling and sharding capabilities to PostgreSQL databases.
 
