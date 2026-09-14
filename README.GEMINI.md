@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-09-13
+Last Updated: 2026-09-14
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -2335,6 +2335,7 @@ Last Updated: 2026-09-13
 ## Database Tools
 - [t8y2/dbx](https://github.com/t8y2/dbx): This project is a lightweight, cross-platform database client that supports over 90 different databases, offering features like a built-in AI assistant and desktop, CLI, and Docker interfaces.
 - [t8y2/dbx](https://github.com/t8y2/dbx): dbx is a lightweight, cross-platform database client supporting over 90 different databases with desktop, CLI, and Docker interfaces, featuring a built-in AI assistant.
+- [multigres/multigres](https://github.com/multigres/multigres): A database clustering system designed to provide horizontal scaling and sharding capabilities for PostgreSQL, analogous to Vitess for MySQL.
 
 ## Libraries
 - [mp](https://github.com/qlibs/mp): A C++20 library dedicated to meta-programming functionalities.
