@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-09-18
+Last Updated: 2026-09-25
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -983,6 +983,7 @@ Last Updated: 2026-09-18
 - [warpdotdev/warp](https://github.com/warpdotdev/warp): Warp is an advanced, agentic development environment that enhances the traditional terminal with AI-powered features for improved developer workflow.
 - [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki): A command-line interface tool that leverages AI agents to automatically write and maintain documentation for a codebase.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify): This tool transforms diverse codebase elements, including documentation and schemas, into a queryable knowledge graph for enhanced understanding and interaction with AI assistants.
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything): This tool converts any code into an interactive knowledge graph, enabling users to explore, search, and ask questions about it, leveraging various AI code models.
 
 ## Programming & Libraries
 - [zerocopy](https://github.com/google/zerocopy): A library that enables zero-cost memory manipulation by abstracting unsafe code.
