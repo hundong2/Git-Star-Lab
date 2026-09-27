@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-09-25
+Last Updated: 2026-09-27
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -472,6 +472,7 @@ Last Updated: 2026-09-25
 - [WLaney/pifi-slam](https://github.com/WLaney/pifi-slam): This project implements Simultaneous Localization and Mapping (SLAM) using WiFi signals, designed to run on a Raspberry Pi.
 - [makerspet/oomwoo](https://github.com/makerspet/oomwoo): This repository features an open-source project for an autonomous vacuum robot cleaner.
 - [makerspet/oomwoo](https://github.com/makerspet/oomwoo): An open-source project for developing a vacuum robot cleaner.
+- [intrinsic-ai/intrinsic-core](https://github.com/intrinsic-ai/intrinsic-core): Intrinsic Core offers an open, hardware-agnostic runtime and SDK for real-time control within industrial robotics.
 
 ## Gaming & AI
 - [deeean/silksong-agent](https://github.com/deeean/silksong-agent): An RL agent specifically developed to play boss fights in the game Hollow Knight: Silksong.
@@ -2352,4 +2353,7 @@ Last Updated: 2026-09-25
 
 ## Database Infrastructure
 - [multigres/multigres](https://github.com/multigres/multigres): Multigres is a system designed to bring Vitess-like horizontal scaling and sharding capabilities to PostgreSQL databases.
+
+## Aerospace Simulation
+- [snkas/hypatia](https://github.com/snkas/hypatia): This framework enables the simulation of low earth orbit (LEO) satellite networks.
 
