@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-09-28
+Last Updated: 2026-10-07
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -2358,4 +2358,7 @@ Last Updated: 2026-09-28
 ## Aerospace Simulation
 - [snkas/hypatia](https://github.com/snkas/hypatia): This framework enables the simulation of low earth orbit (LEO) satellite networks.
 - [snkas/hypatia](https://github.com/snkas/hypatia): A framework designed for simulating low earth orbit (LEO) satellite networks.
+
+## Aerospace Tools
+- [messy-snail/SODA](https://github.com/messy-snail/SODA): This tool provides local capabilities for satellite orbit dynamics analysis, allowing users to propagate orbits, visualize swaths, and plan passes on a 3D globe.
 
