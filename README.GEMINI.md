@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-10-08
+Last Updated: 2026-10-10
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -2362,4 +2362,7 @@ Last Updated: 2026-10-08
 ## Aerospace Tools
 - [messy-snail/SODA](https://github.com/messy-snail/SODA): This tool provides local capabilities for satellite orbit dynamics analysis, allowing users to propagate orbits, visualize swaths, and plan passes on a 3D globe.
 - [messy-snail/SODA](https://github.com/messy-snail/SODA): This tool allows users to propagate satellite orbits, visualize ground swaths, and plan passes on a local 3D globe.
+
+## Cybersecurity Tools
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool): This repository offers an all-in-one suite of various tools designed for ethical hacking and penetration testing purposes.
 
