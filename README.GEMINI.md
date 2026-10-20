@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-10-10
+Last Updated: 2026-10-20
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -2365,4 +2365,7 @@ Last Updated: 2026-10-10
 
 ## Cybersecurity Tools
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool): This repository offers an all-in-one suite of various tools designed for ethical hacking and penetration testing purposes.
+
+## Reverse Engineering
+- [morluto/rea](https://github.com/morluto/rea): This repository offers a tool that leverages agents to automate the process of reverse engineering applications and native binaries.
 
