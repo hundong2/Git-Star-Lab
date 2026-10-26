@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-10-21
+Last Updated: 2026-10-26
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1543,6 +1543,7 @@ Last Updated: 2026-10-21
 - [shepherd-agents/shepherd](https://github.com/shepherd-agents/shepherd): This framework provides a runtime substrate for AI agents, enabling meta-agents to observe, fork, replay, and revert agent executions through a reversible, Git-like trace.
 - [AgriciDaniel/sync](https://github.com/AgriciDaniel/sync): This repository orchestrates and manages AI models like Claude and Codex using an evidence-gated system.
 - [google/artemis](https://github.com/google/artemis): ARTEMIS is an AI-powered tool that translates natural-language instructions into reliable Android automation for end-to-end workflows and integrates with AI coding assistants.
+- [Nutlope/hallmark](https://github.com/Nutlope/hallmark): This repository provides an "anti-AI-slop" design skill to improve the quality and prevent generic output from AI code generation assistants such as Claude Code, Cursor, and Codex.
 
 ## AI Agent Tools
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator): A visual tool to annotate, review, share, and provide feedback on coding agent plans for teams.
