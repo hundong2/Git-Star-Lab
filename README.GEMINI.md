@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-11-20
+Last Updated: 2026-11-21
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1670,6 +1670,7 @@ Last Updated: 2026-11-20
 - [nlpai-lab/KULLM](https://github.com/nlpai-lab/KULLM): KULLM is a large language model developed by Korea University, specifically optimized for the Korean language.
 - [google/artemis](https://github.com/google/artemis): ARTEMIS is an AI-powered tool that interprets natural-language instructions to automate complex end-to-end workflows on Android devices and integrates with AI coding assistants.
 - [torch_tpu](https://github.com/google-pytorch/torch_tpu): This repository provides the integration layer for running PyTorch models on Google's Tensor Processing Units (TPUs) for accelerated deep learning.
+- [torch_tpu](https://github.com/google-pytorch/torch_tpu): Provides PyTorch support for Google's Tensor Processing Units (TPUs), enabling accelerated deep learning model training.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
