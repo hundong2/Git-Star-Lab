@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-11-21
+Last Updated: 2026-11-25
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1767,6 +1767,7 @@ Last Updated: 2026-11-21
 ## Large Language Models
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook): A comprehensive guide and collection of recipes for building applications and solving problems using the Llama family of large language models, covering inference, fine-tuning, and RAG.
 - [THUDM/GLM](https://github.com/THUDM/GLM): This repository contains the General Language Model (GLM), a foundational large language model developed by THUDM.
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind): This repository provides a guide and resources for training a 64M Large Language Model from scratch in approximately two hours.
 
 ## AI Productivity Tools
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi): A local, open-source coworking application that integrates with various AI models like Gemini, Claude, and Codex to enhance productivity.
@@ -2355,6 +2356,7 @@ Last Updated: 2026-11-21
 ## Geospatial
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view): This web-based open-source project simulates a spy satellite view by visualizing live spatial intelligence on a photorealistic 3D globe.
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view): A browser-based simulator that visualizes live, open-source spatial intelligence on a photorealistic 3D globe.
+- [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre): This is a lightweight, cloud-native GIS platform designed for visualizing, exploring, and analyzing geospatial data across web, desktop, and mobile environments.
 
 ## Database Infrastructure
 - [multigres/multigres](https://github.com/multigres/multigres): Multigres is a system designed to bring Vitess-like horizontal scaling and sharding capabilities to PostgreSQL databases.
