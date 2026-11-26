@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-11-25
+Last Updated: 2026-11-26
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -1671,6 +1671,7 @@ Last Updated: 2026-11-25
 - [google/artemis](https://github.com/google/artemis): ARTEMIS is an AI-powered tool that interprets natural-language instructions to automate complex end-to-end workflows on Android devices and integrates with AI coding assistants.
 - [torch_tpu](https://github.com/google-pytorch/torch_tpu): This repository provides the integration layer for running PyTorch models on Google's Tensor Processing Units (TPUs) for accelerated deep learning.
 - [torch_tpu](https://github.com/google-pytorch/torch_tpu): Provides PyTorch support for Google's Tensor Processing Units (TPUs), enabling accelerated deep learning model training.
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind): Minimind provides a guide and resources to train your own 64M Large Language Model from scratch in just two hours.
 
 ## Software Architecture
 - [wikibook/clean-architecture-guide](https://github.com/wikibook/clean-architecture-guide): This repository contains example code accompanying the Korean "Clean Architecture Core Guide" book.
@@ -2292,6 +2293,7 @@ Last Updated: 2026-11-25
 ## DevOps Tools
 - [oblien/openship](https://github.com/oblien/openship): A self-hosted platform designed to streamline and automate application deployments.
 - [oblien/openship](https://github.com/oblien/openship): A self-hosted platform designed to streamline and automate software deployment processes.
+- [libracoder/kiri](https://github.com/libracoder/kiri): Kiri is a small, fast container runtime for macOS, Windows, and Linux, which also includes a free Ngrok alternative.
 
 ## Educational Tools
 - [NikolayS/PGSimCity](https://github.com/NikolayS/PGSimCity): An explorable 3D city visualization intended to demonstrate the internal mechanisms of the PostgreSQL database.
@@ -2357,6 +2359,7 @@ Last Updated: 2026-11-25
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view): This web-based open-source project simulates a spy satellite view by visualizing live spatial intelligence on a photorealistic 3D globe.
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view): A browser-based simulator that visualizes live, open-source spatial intelligence on a photorealistic 3D globe.
 - [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre): This is a lightweight, cloud-native GIS platform designed for visualizing, exploring, and analyzing geospatial data across web, desktop, and mobile environments.
+- [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre): GeoLibre is a lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data across various platforms like web browsers, desktop, mobile, and Jupyter notebooks.
 
 ## Database Infrastructure
 - [multigres/multigres](https://github.com/multigres/multigres): Multigres is a system designed to bring Vitess-like horizontal scaling and sharding capabilities to PostgreSQL databases.
