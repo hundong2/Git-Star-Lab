@@ -1,5 +1,5 @@
 # GEMINI's GitHub Star Summary
-Last Updated: 2026-11-26
+Last Updated: 2026-11-27
 
 ## AI Agents & LLM Development
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork): Openwork is an open-source AI coworker agent that operates directly on the desktop.
@@ -986,6 +986,7 @@ Last Updated: 2026-11-26
 - [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki): A command-line interface tool that leverages AI agents to automatically write and maintain documentation for a codebase.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify): This tool transforms diverse codebase elements, including documentation and schemas, into a queryable knowledge graph for enhanced understanding and interaction with AI assistants.
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything): This tool converts any code into an interactive knowledge graph, enabling users to explore, search, and ask questions about it, leveraging various AI code models.
+- [simoarpe/ziggity](https://github.com/simoarpe/ziggity): Ziggity is an ultra-fast, keyboard-driven terminal user interface for Git, implemented in Zig.
 
 ## Programming & Libraries
 - [zerocopy](https://github.com/google/zerocopy): A library that enables zero-cost memory manipulation by abstracting unsafe code.
@@ -2294,6 +2295,7 @@ Last Updated: 2026-11-26
 - [oblien/openship](https://github.com/oblien/openship): A self-hosted platform designed to streamline and automate application deployments.
 - [oblien/openship](https://github.com/oblien/openship): A self-hosted platform designed to streamline and automate software deployment processes.
 - [libracoder/kiri](https://github.com/libracoder/kiri): Kiri is a small, fast container runtime for macOS, Windows, and Linux, which also includes a free Ngrok alternative.
+- [libracoder/kiri](https://github.com/libracoder/kiri): Kiri is a small and fast container runtime for macOS, Windows, and Linux, which also provides a free Ngrok alternative.
 
 ## Educational Tools
 - [NikolayS/PGSimCity](https://github.com/NikolayS/PGSimCity): An explorable 3D city visualization intended to demonstrate the internal mechanisms of the PostgreSQL database.
